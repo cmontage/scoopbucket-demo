@@ -1,0 +1,53 @@
+{
+  "version": "3.0.6300",
+  "description": "A text-mode files and archives manager",
+  "homepage": "https://farmanager.com/",
+  "license": {
+    "identifier": "BSD-3-Clause",
+    "url": "https://farmanager.com/license.php"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://farmanager.com/files/Far30b6300.x64.20240407.7z",
+      "hash": "7ed409cc2d2fd5d04e6fb66ae5773bf7a30c19a0ef6c0210e6bdb285c120f382"
+    },
+    "32bit": {
+      "url": "https://farmanager.com/files/Far30b6300.x86.20240407.7z",
+      "hash": "28b521af2ecafcf5bdc711cf556b7edf94a1e4621ddb7c85836abcbe7b95e361"
+    }
+  },
+  "pre_install": [
+    "$ini = 'Far.exe.ini'",
+    "if (!(Test-Path \"$persist_dir\\$ini\")) {",
+    "    Copy-Item \"$dir\\Far.exe.example.ini\" \"$dir\\$ini\"",
+    "    (Get-Content \"$dir\\$ini\") -replace ';(UseSystemProfiles=)1', '${1}0' | Set-Content \"$dir\\$ini\" -Encoding Ascii",
+    "    # Migrate from system wide configuration",
+    "    $env:LOCALAPPDATA, $env:APPDATA | ForEach-Object {",
+    "        if (Test-Path \"$_\\Far Manager\") {",
+    "            warn \"Copying system wide profile from $_ into $dir\"",
+    "            Copy-Item \"$_\\Far Manager\\*\" \"$dir\" -Recurse -Force",
+    "        }",
+    "    }",
+    "}"
+  ],
+  "bin": "far.exe",
+  "persist": [
+    "Profile",
+    "Far.exe.ini"
+  ],
+  "checkver": {
+    "url": "https://farmanager.com/download.php",
+    "regex": "(?s)Stable.*?Far Manager v(?<version>[\\d.]+) build (?<build>[\\d]+).*?.x64.(?<date>\\d+).7z",
+    "replace": "${version}.${build}"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://farmanager.com/files/Far$majorVersion$minorVersionb$patchVersion.x64.$matchDate.7z"
+      },
+      "32bit": {
+        "url": "https://farmanager.com/files/Far$majorVersion$minorVersionb$patchVersion.x86.$matchDate.7z"
+      }
+    }
+  }
+}

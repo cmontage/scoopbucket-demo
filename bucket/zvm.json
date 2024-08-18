@@ -1,0 +1,56 @@
+{
+  "homepage": "https://github.com/tristanisham/zvm",
+  "version": "0.7.4",
+  "description": "Zig Version Manager (zvm) is a tool for managing your Zig installs",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://mirror.ghproxy.com/https://github.com/tristanisham/zvm/releases/download/v0.7.4/zvm-windows-amd64.zip",
+      "hash": "83ae59964aee0911d6a85a53b6736a9b03013be3da03982d37687069e974d0a4",
+      "extract_dir": "zvm-windows-amd64"
+    },
+    "arm64": {
+      "url": "https://mirror.ghproxy.com/https://github.com/tristanisham/zvm/releases/download/v0.7.4/zvm-windows-arm64.zip",
+      "hash": "f4aa866d1ec2178cf12f2f59544aa60daf87cf0221f48d0847ad5b349245a635",
+      "extract_dir": "zvm-windows-arm64"
+    }
+  },
+  "bin": "zvm.exe",
+  "checkver": {
+    "github": "https://github.com/tristanisham/zvm"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://mirror.ghproxy.com/https://github.com/tristanisham/zvm/releases/download/v$version/zvm-windows-amd64.zip",
+        "extract_dir": "zvm-windows-amd64"
+      },
+      "arm64": {
+        "url": "https://mirror.ghproxy.com/https://github.com/tristanisham/zvm/releases/download/v$version/zvm-windows-arm64.zip",
+        "extract_dir": "zvm-windows-arm64"
+      }
+    }
+  },
+  "post_install": [
+    "if (Test-Path ~\\.zvm) {",
+    "   if ($null -eq (Get-Item ~\\.zvm).LinkType) {",
+    "       Rename-Item -Path ~\\.zvm -NewName ~\\.zvm.old -Force",
+    "   } else {",
+    "       Remove-Item -Path ~\\.zvm -Force",
+    "   }",
+    "}",
+    "New-Item -Path ~/.zvm -Target \"$dir\\data\" -ItemType Junction | Out-Null"
+  ],
+  "uninstaller": {
+    "script": [
+      "if ((Test-Path ~\\.zvm) -and ($null -ne (Get-Item ~\\.zvm).LinkType)) {",
+      "   Remove-Item -Path ~\\.zvm -Force",
+      "}",
+      "if (Test-Path ~\\.zvm.old) {",
+      "   Rename-Item -Path ~\\.zvm.old -NewName .zvm -Force",
+      "}"
+    ]
+  },
+  "persist": "data",
+  "env_add_path": "data\\bin"
+}

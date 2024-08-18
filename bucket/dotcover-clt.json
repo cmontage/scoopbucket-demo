@@ -1,0 +1,44 @@
+{
+  "version": "2024.2",
+  "description": "JetBrains dotCover Command Line Tools that enable analysing code coverage outside of Visual Studio.",
+  "homepage": "https://www.jetbrains.com/dotcover/download/#section=commandline",
+  "license": {
+    "identifier": "Freeware",
+    "url": "https://www.jetbrains.com/legal/docs/toolbox/user"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://download.jetbrains.com/resharper/dotUltimate.2024.2/JetBrains.dotCover.CommandLineTools.windows-x64.2024.2.zip",
+      "hash": "51a809a4dcfd4058a28f8c9207bebe701d2a537f6af2269698db21a5dc4e0768"
+    },
+    "32bit": {
+      "url": "https://download.jetbrains.com/resharper/dotUltimate.2024.2/JetBrains.dotCover.CommandLineTools.windows-x86.2024.2.zip",
+      "hash": "6e3ab501fef2e7c7bfe3568fcb4f6d919cc21fb8b25b6bb270c1f05b33f2227e"
+    },
+    "arm64": {
+      "url": "https://download.jetbrains.com/resharper/dotUltimate.2024.2/JetBrains.dotCover.CommandLineTools.windows-arm64.2024.2.zip",
+      "hash": "6b9daf131484bf417e84eb611d34783518e117cfb23b12abfc2228bfdcde1284"
+    }
+  },
+  "bin": "dotCover.exe",
+  "checkver": {
+    "url": "https://data.services.jetbrains.com/products/releases?code=DCCLT&latest=true&platform=zip&type=release",
+    "jsonpath": "$..version"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://download.jetbrains.com/resharper/dotUltimate.$version/JetBrains.dotCover.CommandLineTools.windows-x64.$version.zip"
+      },
+      "32bit": {
+        "url": "https://download.jetbrains.com/resharper/dotUltimate.$version/JetBrains.dotCover.CommandLineTools.windows-x86.$version.zip"
+      },
+      "arm64": {
+        "url": "https://download.jetbrains.com/resharper/dotUltimate.$version/JetBrains.dotCover.CommandLineTools.windows-arm64.$version.zip"
+      }
+    },
+    "hash": {
+      "url": "$url.sha256"
+    }
+  }
+}

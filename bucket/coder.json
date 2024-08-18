@@ -1,0 +1,30 @@
+{
+  "version": "2.13.4",
+  "description": "Creates remote development machines so your team can develop from anywhere.",
+  "homepage": "https://coder.com/",
+  "license": "AGPL-3.0-or-later",
+  "architecture": {
+    "64bit": {
+      "url": "https://mirror.ghproxy.com/https://github.com/coder/coder/releases/download/v2.13.4/coder_2.13.4_windows_amd64.zip",
+      "hash": "10a80e136bb4e49869259a03493b9734142292a630d67fb8da7ee97df086b5cf"
+    }
+  },
+  "bin": "coder.exe",
+  "env_set": {
+    "CODER_CONFIG_DIR": "$dir\\config"
+  },
+  "persist": "config",
+  "checkver": {
+    "github": "https://github.com/coder/coder"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://mirror.ghproxy.com/https://github.com/coder/coder/releases/download/v$version/coder_$version_windows_amd64.zip"
+      }
+    },
+    "hash": {
+      "url": "$baseurl/coder_$version_checksums.txt"
+    }
+  }
+}
