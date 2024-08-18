@@ -24,7 +24,6 @@ export const CONFIG = {
   ghproxyInvalid: ['https://gh-proxy.com', 'https://ghproxy.com'],
   /** 同步仓库列表，按仓库质量排序 */
   repo: new Set([
-    // `duzyn/scoop-cn`, // 仅同步官方仓库，并修改为国内镜像地址
     `ScoopInstaller/PHP`,
     `ScoopInstaller/Main`,
     `ScoopInstaller/Extras`,
@@ -35,8 +34,9 @@ export const CONFIG = {
     `Calinou/scoop-games`,
     `kodybrown/scoop-nirsoft`,
     `niheaven/scoop-sysinternals`,
-    // `xfqwdsj/BucketDev`, // Android SDK DEV...
-    `ivaquero/scoopet`
+    //以上为官方库
+    
+    `ivaquero/scoopet`,
     `scoopcn/scoopcn`, // 大多是国内应用程序
 
   ]),
