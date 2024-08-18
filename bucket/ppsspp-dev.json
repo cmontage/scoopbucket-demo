@@ -1,0 +1,67 @@
+{
+  "version": "1.17.1-980-gabaea0197b",
+  "description": "Sony PlayStation Portable (PSP) emulator. Development build",
+  "homepage": "https://www.ppsspp.org",
+  "license": "GPL-2.0-or-later",
+  "architecture": {
+    "64bit": {
+      "url": "https://builds.ppsspp.org/builds/v1.17.1-980-gabaea0197b/ppsspp_win.zip",
+      "hash": "94ab3b84db9d902d89983126d3f63f3fdc55f2fd2e6172ab125ac60b94fbf43f",
+      "shortcuts": [
+        [
+          "PPSSPPWindows64.exe",
+          "PPSSPP (Development)"
+        ]
+      ]
+    },
+    "32bit": {
+      "url": "https://builds.ppsspp.org/builds/v1.17.1-980-gabaea0197b/ppsspp_win.zip",
+      "hash": "94ab3b84db9d902d89983126d3f63f3fdc55f2fd2e6172ab125ac60b94fbf43f",
+      "shortcuts": [
+        [
+          "PPSSPPWindows.exe",
+          "PPSSPP (Development)"
+        ]
+      ]
+    },
+    "arm64": {
+      "url": "https://builds.ppsspp.org/builds/v1.17.1-980-gabaea0197b/PPSSPPWindowsARM64.zip",
+      "hash": "08769898659c49fd47b56e0da2e8166cef7aca106925abc1dfd491cdbb4786a0",
+      "shortcuts": [
+        [
+          "PPSSPPWindowsARM64.exe",
+          "PPSSPP (Development)"
+        ]
+      ]
+    }
+  },
+  "pre_install": [
+    "if (!(Test-Path \"$persist_dir\")) {",
+    "   New-item \"$persist_dir\" -ItemType Directory | Out-Null",
+    "   New-item \"$persist_dir\\memstick\" -ItemType Directory | Out-Null",
+    "}"
+  ],
+  "persist": [
+    "memstick",
+    "assets",
+    "demos"
+  ],
+  "checkver": {
+    "url": "https://builds.ppsspp.org/meta/history.json",
+    "regex": "v(?<version>[\\d.]+)-(?<build>[\\d]+)-g(?<commit>[\\da-fA-F]+)",
+    "replace": "${version}-${build}-g${commit}"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://builds.ppsspp.org/builds/v$matchVersion-$matchBuild-g$matchCommit/ppsspp_win.zip"
+      },
+      "32bit": {
+        "url": "https://builds.ppsspp.org/builds/v$matchVersion-$matchBuild-g$matchCommit/ppsspp_win.zip"
+      },
+      "arm64": {
+        "url": "https://builds.ppsspp.org/builds/v$matchVersion-$matchBuild-g$matchCommit/PPSSPPWindowsARM64.zip"
+      }
+    }
+  }
+}

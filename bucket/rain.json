@@ -1,0 +1,32 @@
+{
+  "version": "1.14.0",
+  "homepage": "https://github.com/aws-cloudformation/rain",
+  "description": "A development workflow tool for working with AWS CloudFormation.",
+  "license": "Apache-2.0",
+  "architecture": {
+    "32bit": {
+      "url": "https://mirror.ghproxy.com/https://github.com/aws-cloudformation/rain/releases/download/v1.14.0/rain-v1.14.0_windows-i386.zip",
+      "hash": "9299b896a34e30770c946d6745da1ff794dd69755f19e3d8e7912c55fb8e3c6e",
+      "extract_dir": "rain-v1.14.0_windows-i386"
+    },
+    "64bit": {
+      "url": "https://mirror.ghproxy.com/https://github.com/aws-cloudformation/rain/releases/download/v1.14.0/rain-v1.14.0_windows-amd64.zip",
+      "hash": "7fed672f78bdb436ff6b3405db7c3519ec4b61005e3fbaeee63496800ed9073a",
+      "extract_dir": "rain-v1.14.0_windows-amd64"
+    }
+  },
+  "bin": "rain.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "32bit": {
+        "url": "https://mirror.ghproxy.com/https://github.com/aws-cloudformation/rain/releases/download/v$version/rain-v$version_windows-i386.zip",
+        "extract_dir": "rain-v$version_windows-i386"
+      },
+      "64bit": {
+        "url": "https://mirror.ghproxy.com/https://github.com/aws-cloudformation/rain/releases/download/v$version/rain-v$version_windows-amd64.zip",
+        "extract_dir": "rain-v$version_windows-amd64"
+      }
+    }
+  }
+}

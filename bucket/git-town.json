@@ -1,0 +1,26 @@
+{
+  "version": "15.1.0",
+  "description": "Git plugin that adds Git commands that make collaborative software development more efficient and safe.",
+  "homepage": "https://www.git-town.com",
+  "license": "MIT",
+  "suggest": {
+    "git": "git"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://mirror.ghproxy.com/https://github.com/git-town/git-town/releases/download/v15.1.0/git-town_windows_intel_64.zip",
+      "hash": "d99f58969dd00092abf0577d95e226be85fe32cb0d08c84b1d998ce9a8479895"
+    }
+  },
+  "bin": "git-town.exe",
+  "checkver": {
+    "github": "https://github.com/git-town/git-town"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://mirror.ghproxy.com/https://github.com/git-town/git-town/releases/download/v$version/git-town_windows_intel_64.zip"
+      }
+    }
+  }
+}

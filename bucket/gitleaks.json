@@ -1,0 +1,33 @@
+{
+  "version": "8.18.4",
+  "description": "SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos",
+  "homepage": "https://gitleaks.io",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://mirror.ghproxy.com/https://github.com/zricethezav/gitleaks/releases/download/v8.18.4/gitleaks_8.18.4_windows_x64.zip",
+      "hash": "9ba442ca7dda19885a2e569f43a127289feeb2b5fb0dfa251dafd277f4a0ba91"
+    },
+    "32bit": {
+      "url": "https://mirror.ghproxy.com/https://github.com/zricethezav/gitleaks/releases/download/v8.18.4/gitleaks_8.18.4_windows_x32.zip",
+      "hash": "338edd2932b583c13f4c3421a97b1611349f2a9a1c818e521abd3a3a6379d395"
+    }
+  },
+  "bin": "gitleaks.exe",
+  "checkver": {
+    "github": "https://github.com/zricethezav/gitleaks"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://mirror.ghproxy.com/https://github.com/zricethezav/gitleaks/releases/download/v$version/gitleaks_$version_windows_x64.zip"
+      },
+      "32bit": {
+        "url": "https://mirror.ghproxy.com/https://github.com/zricethezav/gitleaks/releases/download/v$version/gitleaks_$version_windows_x32.zip"
+      }
+    },
+    "hash": {
+      "url": "https://mirror.ghproxy.com/https://github.com/zricethezav/gitleaks/releases/download/v$version/gitleaks_$version_checksums.txt"
+    }
+  }
+}

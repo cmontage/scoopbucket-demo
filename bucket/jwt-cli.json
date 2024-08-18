@@ -1,0 +1,24 @@
+{
+  "version": "6.1.0",
+  "description": "A super fast CLI tool to decode and encode JWTs built in Rust",
+  "homepage": "https://github.com/mike-engel/jwt-cli",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://mirror.ghproxy.com/https://github.com/mike-engel/jwt-cli/releases/download/6.1.0/jwt-windows.tar.gz",
+      "hash": "0473949d0ee79f2ba542d0222d9726e7b6881e593c4cf4a62665c1d1e0f44631"
+    }
+  },
+  "bin": "jwt.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://mirror.ghproxy.com/https://github.com/mike-engel/jwt-cli/releases/download/$version/jwt-windows.tar.gz",
+        "hash": {
+          "url": "$baseurl/jwt-windows.sha256"
+        }
+      }
+    }
+  }
+}
