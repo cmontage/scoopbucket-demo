@@ -29,10 +29,10 @@ $PSVersionTable.PSVersion.Major # should be >= 5.1
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 # 下载安装脚本到本地
-irm https://mirror.ghproxy.com/raw.githubusercontent.com/lzwme/scoop-proxy-cn/master/install.ps1 | iex
+irm https://mirror.ghproxy.com/raw.githubusercontent.com/lzwme/scoop-proxy-cn/master/install.ps1 -outfile 'install.ps1'
 
 # 自定义 Scoop 安装目录，以下是我的路径例子，你可以自己根据情况修改
-.\install.ps1 -ScoopDir 'D:\Scoop\ScoopApps' -ScoopGlobalDir 'F:\Scoop\ScoopApps-G' -NoProxy
+.\install.ps1 -ScoopDir 'D:\Scoop\ScoopApps' -ScoopGlobalDir 'D:\Scoop\ScoopApps-G' -NoProxy
 
 # Scoop 换镜像源
 scoop config SCOOP_REPO https://mirror.ghproxy.com/github.com/ScoopInstaller/Scoop
