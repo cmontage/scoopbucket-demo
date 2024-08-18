@@ -23,6 +23,8 @@ bucket/ab-av1.json, ScoopInstaller/Extras, 1
 bucket/ab-download-manager.json, ScoopInstaller/Extras, 1
 bucket/ab.json, ScoopInstaller/Main, 0
 bucket/abc.json, ScoopInstaller/Main, 1
+bucket/aboboo-full.json, ivaquero/scoopet, 0
+bucket/aboboo.json, ivaquero/scoopet, 0
 bucket/abricotine.json, ScoopInstaller/Extras, 1
 bucket/accesschk.json, niheaven/scoop-sysinternals, 1
 bucket/accessenum.json, niheaven/scoop-sysinternals, 1
@@ -38,6 +40,7 @@ bucket/activemq-artemis.json, ScoopInstaller/Extras, 0
 bucket/activemq.json, ScoopInstaller/Extras, 0
 bucket/activexcompatibilitymanager.json, kodybrown/scoop-nirsoft, 0
 bucket/activexhelper.json, kodybrown/scoop-nirsoft, 0
+bucket/activitiywatch.json, ivaquero/scoopet, 1
 bucket/activitywatch.json, ScoopInstaller/Extras, 1
 bucket/actools.json, Calinou/scoop-games, 1
 bucket/adapterwatch.json, kodybrown/scoop-nirsoft, 0
@@ -49,6 +52,7 @@ bucket/adguardian.json, ScoopInstaller/Extras, 1
 bucket/adinsight.json, niheaven/scoop-sysinternals, 1
 bucket/adom.json, Calinou/scoop-games, 0
 bucket/adrestore.json, niheaven/scoop-sysinternals, 1
+bucket/adrive.json, ivaquero/scoopet, 0
 bucket/advanced-combat-tracker.json, Calinou/scoop-games, 1
 bucket/advanced-ip-scanner.json, ScoopInstaller/Extras, 0
 bucket/advancedrenamer.json, ScoopInstaller/Extras, 0
@@ -92,6 +96,7 @@ bucket/altsnap.json, ScoopInstaller/Extras, 1
 bucket/altstreamdump.json, ScoopInstaller/Nirsoft, 0
 bucket/altus.json, ScoopInstaller/Extras, 1
 bucket/amass.json, ScoopInstaller/Main, 1
+bucket/amazon-kindle.json, ivaquero/scoopet, 0
 bucket/amazon-workspaces.json, ScoopInstaller/Extras, 0
 bucket/amber.json, ScoopInstaller/Extras, 1
 bucket/amfora.json, ScoopInstaller/Extras, 1
@@ -217,6 +222,7 @@ bucket/auto-dark-mode-np.json, ScoopInstaller/Nonportable, 1
 bucket/autoactions.json, ScoopInstaller/Extras, 1
 bucket/autoclicker.json, ScoopInstaller/Extras, 0
 bucket/autocorrect.json, ScoopInstaller/Main, 1
+bucket/autodarkmode.json, ivaquero/scoopet, 1
 bucket/autohotkey-np.json, ScoopInstaller/Nonportable, 1
 bucket/autohotkey.json, ScoopInstaller/Extras, 1
 bucket/autohotkey1.1.json, ScoopInstaller/Versions, 0
@@ -273,6 +279,7 @@ bucket/b3sum.json, ScoopInstaller/Main, 1
 bucket/babelmap.json, ScoopInstaller/Extras, 0
 bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baidudisk.json, scoopcn/scoopcn, 0
+bucket/baidunetdisk.json, ivaquero/scoopet, 0
 bucket/baka-mplayer.json, ScoopInstaller/Extras, 1
 bucket/balabolka.json, ScoopInstaller/Extras, 0
 bucket/balena-cli.json, ScoopInstaller/Main, 1
@@ -349,6 +356,7 @@ bucket/blade-of-agony.json, Calinou/scoop-games, 0
 bucket/blat.json, ScoopInstaller/Main, 0
 bucket/bleachbit.json, ScoopInstaller/Extras, 0
 bucket/blender-benchmark-cli.json, ScoopInstaller/Extras, 0
+bucket/blender-cn.json, ivaquero/scoopet, 0
 bucket/blender-launcher.json, ScoopInstaller/Extras, 1
 bucket/blender.json, ScoopInstaller/Extras, 0
 bucket/blink1-tool.json, ScoopInstaller/Main, 1
@@ -432,6 +440,7 @@ bucket/buttercup.json, ScoopInstaller/Extras, 1
 bucket/butterflow-ui.json, ScoopInstaller/Extras, 1
 bucket/butterflow.json, ScoopInstaller/Main, 1
 bucket/butterfly.json, ScoopInstaller/Extras, 1
+bucket/buzz.json, ivaquero/scoopet, 0
 bucket/byacc.json, ScoopInstaller/Main, 0
 bucket/byenow.json, ScoopInstaller/Main, 0
 bucket/bytecode-viewer.json, ScoopInstaller/Extras, 1
@@ -448,6 +457,7 @@ bucket/caddy.json, ScoopInstaller/Main, 1
 bucket/caesium-image-compressor.json, ScoopInstaller/Extras, 1
 bucket/caffeine.json, ScoopInstaller/Extras, 0
 bucket/cairo-desktop.json, ScoopInstaller/Extras, 1
+bucket/cajviewer.json, ivaquero/scoopet, 0
 bucket/cake.json, ScoopInstaller/Main, 1
 bucket/calibre-normal.json, ScoopInstaller/Extras, 0
 bucket/calibre-normal5.json, ScoopInstaller/Versions, 0
@@ -509,6 +519,8 @@ bucket/championify.json, ScoopInstaller/Extras, 1
 bucket/charm-gum.json, ScoopInstaller/Main, 1
 bucket/chart-geany.json, ScoopInstaller/Extras, 0
 bucket/chatall.json, ScoopInstaller/Extras, 1
+bucket/chatbox.json, ivaquero/scoopet, 1
+bucket/chatgpt-cli.json, ivaquero/scoopet, 1
 bucket/chatgpt.json, ScoopInstaller/Extras, 1
 bucket/chatterino.json, ScoopInstaller/Extras, 0
 bucket/chatterino7.json, ScoopInstaller/Extras, 1
@@ -595,6 +607,7 @@ bucket/cmder-full.json, ScoopInstaller/Main, 1
 bucket/cmder.json, ScoopInstaller/Main, 1
 bucket/cmdow.json, ScoopInstaller/Extras, 1
 bucket/cnc-ddraw.json, Calinou/scoop-games, 1
+bucket/cnkiexpress.json, ivaquero/scoopet, 0
 bucket/cnping.json, ScoopInstaller/Extras, 1
 bucket/cobalt.json, ScoopInstaller/Main, 1
 bucket/cockroachdb.json, ScoopInstaller/Main, 0
@@ -737,6 +750,7 @@ bucket/curl.json, ScoopInstaller/Main, 0
 bucket/curlie.json, ScoopInstaller/Main, 1
 bucket/currports.json, kodybrown/scoop-nirsoft, 0
 bucket/currprocess.json, kodybrown/scoop-nirsoft, 0
+bucket/cursor.json, ivaquero/scoopet, 0
 bucket/customexplorertoolbar.json, ScoopInstaller/Nirsoft, 0
 bucket/customizeie.json, kodybrown/scoop-nirsoft, 0
 bucket/cutter.json, ScoopInstaller/Extras, 1
@@ -770,6 +784,7 @@ bucket/dartium-content-shell.json, ScoopInstaller/Extras, 0
 bucket/dartium-dev.json, ScoopInstaller/Versions, 0
 bucket/dartium.json, ScoopInstaller/Extras, 0
 bucket/dasel.json, ScoopInstaller/Extras, 1
+bucket/dashplayer.json, ivaquero/scoopet, 1
 bucket/database.net.json, ScoopInstaller/Extras, 0
 bucket/datagrip-eap.json, ScoopInstaller/Versions, 1
 bucket/datagrip-rc.json, ScoopInstaller/Versions, 1
@@ -868,6 +883,7 @@ bucket/disk2vhd.json, niheaven/scoop-sysinternals, 1
 bucket/diskcheckup.json, ScoopInstaller/Extras, 0
 bucket/diskcountersview.json, ScoopInstaller/Nirsoft, 0
 bucket/diskext.json, niheaven/scoop-sysinternals, 1
+bucket/diskgenius-cn.json, ivaquero/scoopet, 0
 bucket/diskgenius.json, ScoopInstaller/Extras, 0
 bucket/diskmon.json, niheaven/scoop-sysinternals, 1
 bucket/disksmartview.json, ScoopInstaller/Nirsoft, 0
@@ -954,7 +970,9 @@ bucket/dottrace.json, ScoopInstaller/Extras, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
+bucket/downkyi.json, ivaquero/scoopet, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
+bucket/doxygen-gui.json, ivaquero/scoopet, 0
 bucket/doxygen.json, ScoopInstaller/Main, 0
 bucket/dprint.json, ScoopInstaller/Main, 1
 bucket/draft.json, ScoopInstaller/Main, 1
@@ -1051,7 +1069,9 @@ bucket/edgedriver-canary.json, ScoopInstaller/Versions, 0
 bucket/edgedriver-dev.json, ScoopInstaller/Versions, 0
 bucket/edgedriver-legacy.json, ScoopInstaller/Versions, 0
 bucket/edgedriver.json, ScoopInstaller/Main, 0
+bucket/edgeless.json, ivaquero/scoopet, 0
 bucket/editorconfig.json, ScoopInstaller/Main, 0
+bucket/edrawmax.json, ivaquero/scoopet, 0
 bucket/eduke32.json, Calinou/scoop-games, 0
 bucket/effekseer.json, ScoopInstaller/Extras, 1
 bucket/efsdump.json, niheaven/scoop-sysinternals, 1
@@ -1099,6 +1119,7 @@ bucket/eraser.json, ScoopInstaller/Extras, 0
 bucket/erdtree.json, ScoopInstaller/Main, 1
 bucket/ericw-tools.json, Calinou/scoop-games, 1
 bucket/erlang.json, ScoopInstaller/Main, 1
+bucket/escrcpy.json, ivaquero/scoopet, 1
 bucket/esearch.json, ScoopInstaller/Extras, 1
 bucket/esedatabaseview.json, ScoopInstaller/Nirsoft, 0
 bucket/espanso-pre.json, ScoopInstaller/Versions, 1
@@ -1111,9 +1132,11 @@ bucket/ethereum-wallet.json, ScoopInstaller/Extras, 1
 bucket/ethr.json, ScoopInstaller/Main, 1
 bucket/etl2pcapng.json, ScoopInstaller/Main, 1
 bucket/etlas.json, ScoopInstaller/Extras, 0
+bucket/eudic.json, ivaquero/scoopet, 0
 bucket/euler.json, ScoopInstaller/Extras, 0
 bucket/eva.json, ScoopInstaller/Main, 1
 bucket/evans.json, ScoopInstaller/Main, 1
+bucket/evcapture.json, ivaquero/scoopet, 0
 bucket/eve-iph.json, Calinou/scoop-games, 1
 bucket/evemaptool.json, Calinou/scoop-games, 1
 bucket/evemon.json, Calinou/scoop-games, 1
@@ -1180,7 +1203,7 @@ bucket/fd.json, ScoopInstaller/Main, 1
 bucket/featherwallet.json, ScoopInstaller/Extras, 0
 bucket/feem.json, ScoopInstaller/Extras, 0
 bucket/feishin.json, ScoopInstaller/Extras, 1
-bucket/feishu.json, scoopcn/scoopcn, 0
+bucket/feishu.json, ivaquero/scoopet, 0
 bucket/fend.json, ScoopInstaller/Main, 1
 bucket/ferdium-nightly.json, ScoopInstaller/Versions, 1
 bucket/ferdium.json, ScoopInstaller/Extras, 1
@@ -1209,6 +1232,7 @@ bucket/file.json, ScoopInstaller/Main, 1
 bucket/fileaccesserrorview.json, ScoopInstaller/Nirsoft, 0
 bucket/fileactivitywatch.json, ScoopInstaller/Nirsoft, 0
 bucket/filebot.json, ScoopInstaller/Extras, 0
+bucket/filecentipede.json, ivaquero/scoopet, 1
 bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
 bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
@@ -1235,6 +1259,7 @@ bucket/firefoxpwa.json, ScoopInstaller/Extras, 1
 bucket/firemin.json, ScoopInstaller/Extras, 0
 bucket/firewallappblocker.json, ScoopInstaller/Extras, 0
 bucket/firmwaretablesview.json, ScoopInstaller/Nirsoft, 0
+bucket/fishing-funds.json, ivaquero/scoopet, 1
 bucket/fission-cli.json, ScoopInstaller/Main, 1
 bucket/fix-print-spooler.json, ScoopInstaller/Extras, 0
 bucket/flac.json, ScoopInstaller/Main, 0
@@ -1306,6 +1331,7 @@ bucket/free-manga-downloader2.json, ScoopInstaller/Extras, 1
 bucket/free-shooter.json, ScoopInstaller/Extras, 1
 bucket/free42.json, ScoopInstaller/Extras, 0
 bucket/freebasic.json, ScoopInstaller/Main, 0
+bucket/freecad-cn.json, ivaquero/scoopet, 1
 bucket/freecad-weekly.json, ScoopInstaller/Versions, 1
 bucket/freecad.json, ScoopInstaller/Extras, 1
 bucket/freeciv.json, Calinou/scoop-games, 0
@@ -1408,6 +1434,7 @@ bucket/gifsicle.json, ScoopInstaller/Main, 0
 bucket/gifski.json, ScoopInstaller/Main, 0
 bucket/gig.json, ScoopInstaller/Main, 1
 bucket/gimagex.json, ScoopInstaller/Extras, 0
+bucket/gimp-cn.json, ivaquero/scoopet, 1
 bucket/gimp-dev.json, ScoopInstaller/Versions, 0
 bucket/gimp.json, ScoopInstaller/Extras, 1
 bucket/gink.json, ScoopInstaller/Extras, 1
@@ -1418,6 +1445,7 @@ bucket/git-branchless.json, ScoopInstaller/Main, 1
 bucket/git-bug.json, ScoopInstaller/Main, 1
 bucket/git-chglog.json, ScoopInstaller/Main, 1
 bucket/git-cliff.json, ScoopInstaller/Main, 1
+bucket/git-cn.json, ivaquero/scoopet, 0
 bucket/git-credential-manager.json, ScoopInstaller/Extras, 1
 bucket/git-crypt.json, ScoopInstaller/Main, 1
 bucket/git-filter-repo.json, ScoopInstaller/Main, 1
@@ -1805,7 +1833,9 @@ bucket/infoqube.json, ScoopInstaller/Extras, 0
 bucket/infraarcana.json, Calinou/scoop-games, 0
 bucket/injecteddll.json, ScoopInstaller/Nirsoft, 0
 bucket/injector.json, ScoopInstaller/Extras, 1
+bucket/inkscape-cn.json, ivaquero/scoopet, 0
 bucket/inkscape-dev.json, ScoopInstaller/Versions, 0
+bucket/inkscape-ext-textext.json, ivaquero/scoopet, 1
 bucket/inkscape-extension-sozi.json, ScoopInstaller/Extras, 1
 bucket/inkscape.json, ScoopInstaller/Extras, 0
 bucket/inky.json, ScoopInstaller/Extras, 1
@@ -1910,6 +1940,7 @@ bucket/jexiftoolgui.json, ScoopInstaller/Extras, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jid.json, ScoopInstaller/Main, 1
+bucket/jigdo.json, ivaquero/scoopet, 0
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jim.json, Calinou/scoop-games, 0
 bucket/jira-cli.json, ScoopInstaller/Extras, 1
@@ -1943,11 +1974,13 @@ bucket/jsae.json, ScoopInstaller/Nirsoft, 0
 bucket/jstock.json, ScoopInstaller/Extras, 1
 bucket/juce.json, ScoopInstaller/Extras, 1
 bucket/juicefs.json, ScoopInstaller/Main, 1
+bucket/julia-cn.json, ivaquero/scoopet, 0
 bucket/julia-lts.json, ScoopInstaller/Versions, 0
 bucket/julia-rc.json, ScoopInstaller/Versions, 0
 bucket/julia.json, ScoopInstaller/Main, 0
 bucket/jumplistsview.json, ScoopInstaller/Nirsoft, 0
 bucket/junction.json, niheaven/scoop-sysinternals, 1
+bucket/jupyter-desktop.json, ivaquero/scoopet, 1
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/jwt-cli.json, ScoopInstaller/Main, 1
 bucket/jx.json, ScoopInstaller/Main, 1
@@ -2014,6 +2047,7 @@ bucket/keypirinha.json, ScoopInstaller/Extras, 1
 bucket/keystore-explorer.json, ScoopInstaller/Extras, 1
 bucket/keyviz.json, ScoopInstaller/Extras, 1
 bucket/kibana.json, ScoopInstaller/Extras, 0
+bucket/kicad-cn.json, ivaquero/scoopet, 1
 bucket/kicad-lite-nightly.json, ScoopInstaller/Versions, 0
 bucket/kicad-nightly.json, ScoopInstaller/Versions, 0
 bucket/kicad.json, ScoopInstaller/Extras, 1
@@ -2021,6 +2055,7 @@ bucket/kid3.json, ScoopInstaller/Extras, 0
 bucket/kim.json, ScoopInstaller/Main, 1
 bucket/kind.json, ScoopInstaller/Main, 1
 bucket/kindandfair.json, Calinou/scoop-games, 1
+bucket/kingdraw.json, ivaquero/scoopet, 0
 bucket/kiota.json, ScoopInstaller/Main, 1
 bucket/kitematic.json, ScoopInstaller/Extras, 1
 bucket/kitty.json, ScoopInstaller/Extras, 1
@@ -2194,6 +2229,7 @@ bucket/libjpeg-turbo.json, ScoopInstaller/Main, 1
 bucket/libjxl.json, ScoopInstaller/Main, 1
 bucket/librecad.json, ScoopInstaller/Extras, 1
 bucket/librehardwaremonitor.json, ScoopInstaller/Extras, 1
+bucket/libreoffice-cn.json, ivaquero/scoopet, 0
 bucket/libreoffice.json, ScoopInstaller/Extras, 0
 bucket/librespeed-cli.json, ScoopInstaller/Extras, 1
 bucket/libresprite.json, ScoopInstaller/Extras, 1
@@ -2238,6 +2274,7 @@ bucket/livekd.json, niheaven/scoop-sysinternals, 1
 bucket/lively.json, ScoopInstaller/Extras, 1
 bucket/livesplit.json, Calinou/scoop-games, 1
 bucket/livetcpudpwatch.json, ScoopInstaller/Nirsoft, 0
+bucket/lky-officetools.json, ivaquero/scoopet, 1
 bucket/llvm.json, ScoopInstaller/Main, 1
 bucket/lmms.json, ScoopInstaller/Extras, 1
 bucket/ln.json, ScoopInstaller/Main, 1
@@ -2296,14 +2333,17 @@ bucket/lux.json, ScoopInstaller/Main, 1
 bucket/lwc.json, ScoopInstaller/Main, 1
 bucket/lwp.json, ScoopInstaller/Extras, 1
 bucket/lx-music-desktop.json, scoopcn/scoopcn, 1
+bucket/lx-music.json, ivaquero/scoopet, 1
 bucket/lxc.json, ScoopInstaller/Main, 0
 bucket/lxrunoffline.json, ScoopInstaller/Extras, 1
 bucket/lychee.json, ScoopInstaller/Main, 1
 bucket/lynx.json, ScoopInstaller/Main, 0
 bucket/lynx283.json, ScoopInstaller/Versions, 1
+bucket/lyx-cn.json, ivaquero/scoopet, 0
 bucket/lz4.json, ScoopInstaller/Main, 1
 bucket/lzdoom.json, Calinou/scoop-games, 1
 bucket/lzip.json, ScoopInstaller/Main, 0
+bucket/m3u8-downloader.json, ivaquero/scoopet, 1
 bucket/m4.json, ScoopInstaller/Main, 0
 bucket/m4a-to-mp3-converter.json, ScoopInstaller/Extras, 0
 bucket/macaddressview.json, ScoopInstaller/Nirsoft, 0
@@ -2331,6 +2371,7 @@ bucket/mailspring.json, ScoopInstaller/Extras, 1
 bucket/make.json, ScoopInstaller/Main, 0
 bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makemkv.json, ScoopInstaller/Extras, 0
+bucket/mambaforge-cn.json, ivaquero/scoopet, 0
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
 bucket/mame.json, Calinou/scoop-games, 1
 bucket/mameui.json, Calinou/scoop-games, 0
@@ -2404,6 +2445,7 @@ bucket/mellowplayer.json, ScoopInstaller/Extras, 1
 bucket/melonds.json, Calinou/scoop-games, 1
 bucket/memcached.json, ScoopInstaller/Main, 1
 bucket/memreduct.json, ScoopInstaller/Extras, 1
+bucket/mendeley-desktop.json, ivaquero/scoopet, 0
 bucket/mendeley.json, ScoopInstaller/Extras, 0
 bucket/meow.json, ScoopInstaller/Extras, 1
 bucket/mercurial.json, ScoopInstaller/Main, 0
@@ -2469,6 +2511,7 @@ bucket/mingw-winlibs-ucrt.json, ScoopInstaller/Versions, 1
 bucket/mingw-winlibs.json, ScoopInstaller/Main, 1
 bucket/mingw.json, ScoopInstaller/Main, 1
 bucket/mini-sftp-server.json, ScoopInstaller/Extras, 0
+bucket/miniconda-cn.json, ivaquero/scoopet, 0
 bucket/miniconda2.json, ScoopInstaller/Versions, 0
 bucket/miniconda3-4.12.0.json, ScoopInstaller/Versions, 0
 bucket/miniconda3-py310.json, ScoopInstaller/Versions, 0
@@ -2486,6 +2529,7 @@ bucket/minishift.json, ScoopInstaller/Main, 1
 bucket/minisign.json, ScoopInstaller/Main, 1
 bucket/minutor.json, Calinou/scoop-games, 1
 bucket/miru.json, ScoopInstaller/Extras, 1
+bucket/misakatranslator.json, ivaquero/scoopet, 1
 bucket/mist.json, ScoopInstaller/Extras, 1
 bucket/mitmproxy.json, ScoopInstaller/Extras, 0
 bucket/mkcert.json, ScoopInstaller/Extras, 1
@@ -2557,6 +2601,7 @@ bucket/mpv-easy-player.json, ScoopInstaller/Extras, 1
 bucket/mpv-git.json, ScoopInstaller/Extras, 0
 bucket/mpv.json, ScoopInstaller/Extras, 0
 bucket/mpv.net-beta.json, ScoopInstaller/Versions, 1
+bucket/mpv.net-cm.json, ivaquero/scoopet, 1
 bucket/mpv.net.json, ScoopInstaller/Extras, 1
 bucket/mpxplay.json, ScoopInstaller/Main, 0
 bucket/mqtt-cli.json, ScoopInstaller/Extras, 1
@@ -2600,6 +2645,7 @@ bucket/museeks.json, ScoopInstaller/Extras, 1
 bucket/musescore-nightly.json, ScoopInstaller/Versions, 0
 bucket/musescore.json, ScoopInstaller/Extras, 1
 bucket/musescore3-nightly.json, ScoopInstaller/Versions, 0
+bucket/music-dl.json, ivaquero/scoopet, 1
 bucket/musicbee-np.json, ScoopInstaller/Nonportable, 0
 bucket/musicbee.json, ScoopInstaller/Extras, 0
 bucket/musicplayer2.json, ScoopInstaller/Extras, 1
@@ -2625,6 +2671,7 @@ bucket/mzcookiesview.json, kodybrown/scoop-nirsoft, 0
 bucket/mzcv.json, ScoopInstaller/Nirsoft, 0
 bucket/mzhistoryview.json, kodybrown/scoop-nirsoft, 0
 bucket/n-m3u8dl-cli.json, ScoopInstaller/Main, 1
+bucket/n-m3u8dl-re.json, ivaquero/scoopet, 1
 bucket/naev.json, Calinou/scoop-games, 1
 bucket/naiveproxy.json, ScoopInstaller/Main, 1
 bucket/nali.json, ScoopInstaller/Main, 1
@@ -2672,8 +2719,10 @@ bucket/netcat.json, ScoopInstaller/Main, 0
 bucket/netch.json, ScoopInstaller/Extras, 1
 bucket/netconnectchoose.json, ScoopInstaller/Nirsoft, 0
 bucket/netcoredbg.json, ScoopInstaller/Main, 1
+bucket/neteasemusic.json, ivaquero/scoopet, 0
 bucket/nethack.json, Calinou/scoop-games, 0
 bucket/netlifyctl.json, ScoopInstaller/Extras, 1
+bucket/netlogo.json, ivaquero/scoopet, 0
 bucket/netpass.json, ScoopInstaller/Nirsoft, 0
 bucket/netradio.json, ScoopInstaller/Extras, 0
 bucket/netresview.json, ScoopInstaller/Nirsoft, 0
@@ -2811,6 +2860,7 @@ bucket/nyagos.json, ScoopInstaller/Main, 1
 bucket/oauth2c.json, ScoopInstaller/Main, 1
 bucket/objconv.json, ScoopInstaller/Main, 0
 bucket/obs-plugin-droidcam.json, ScoopInstaller/Extras, 1
+bucket/obs-studio-cn.json, ivaquero/scoopet, 0
 bucket/obs-studio-pre.json, ScoopInstaller/Versions, 1
 bucket/obs-studio-small.json, ScoopInstaller/Extras, 1
 bucket/obs-studio.json, ScoopInstaller/Extras, 0
@@ -2820,6 +2870,7 @@ bucket/obsidian.json, ScoopInstaller/Extras, 1
 bucket/ocat.json, ScoopInstaller/Extras, 1
 bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/octant.json, ScoopInstaller/Extras, 1
+bucket/octave-cn.json, ivaquero/scoopet, 0
 bucket/octave.json, ScoopInstaller/Main, 0
 bucket/octopustools.json, ScoopInstaller/Main, 0
 bucket/octosql.json, ScoopInstaller/Main, 1
@@ -3048,6 +3099,7 @@ bucket/papercut.json, ScoopInstaller/Extras, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1
 bucket/paraview.json, ScoopInstaller/Extras, 0
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
+bucket/partition-assistant.json, ivaquero/scoopet, 0
 bucket/pass-winmenu-nogpg.json, ScoopInstaller/Extras, 1
 bucket/passbolt-cli.json, ScoopInstaller/Main, 1
 bucket/passrec.json, ScoopInstaller/Nirsoft, 0
@@ -3533,6 +3585,7 @@ bucket/php83.json, ScoopInstaller/Versions, 0
 bucket/phpstorm-eap.json, ScoopInstaller/Versions, 1
 bucket/phpstorm-rc.json, ScoopInstaller/Versions, 1
 bucket/phpstorm.json, ScoopInstaller/Extras, 1
+bucket/phpstudy-lagecy-scoop.json, ivaquero/scoopet, 1
 bucket/phraseexpress.json, ScoopInstaller/Extras, 0
 bucket/pia-desktop.json, ScoopInstaller/Extras, 0
 bucket/pianobar.json, ScoopInstaller/Extras, 1
@@ -3611,6 +3664,7 @@ bucket/postgrest.json, ScoopInstaller/Main, 1
 bucket/postman-canary.json, ScoopInstaller/Versions, 0
 bucket/postman.json, ScoopInstaller/Extras, 0
 bucket/postman9.json, ScoopInstaller/Versions, 0
+bucket/pot-desktop.json, ivaquero/scoopet, 1
 bucket/potplayer.json, ScoopInstaller/Extras, 0
 bucket/potrace.json, ScoopInstaller/Main, 0
 bucket/pov-ray.json, ScoopInstaller/Extras, 0
@@ -3782,6 +3836,7 @@ bucket/qmplay2.json, ScoopInstaller/Extras, 1
 bucket/qnapi.json, ScoopInstaller/Extras, 1
 bucket/qownnotes.json, ScoopInstaller/Extras, 1
 bucket/qpdf.json, ScoopInstaller/Main, 0
+bucket/qq-nt.json, ivaquero/scoopet, 0
 bucket/qq.json, ScoopInstaller/Extras, 0
 bucket/qr.json, ScoopInstaller/Main, 1
 bucket/qrcp.json, ScoopInstaller/Main, 1
@@ -3790,6 +3845,7 @@ bucket/qrscan.json, ScoopInstaller/Extras, 1
 bucket/qsv.json, ScoopInstaller/Main, 1
 bucket/qt-creator-beta.json, ScoopInstaller/Versions, 1
 bucket/qt-creator-cdb-ext.json, ScoopInstaller/Extras, 0
+bucket/qt-creator-cn.json, ivaquero/scoopet, 0
 bucket/qt-creator-wininterrupt.json, ScoopInstaller/Extras, 0
 bucket/qt-creator.json, ScoopInstaller/Extras, 0
 bucket/qtemu.json, ScoopInstaller/Extras, 0
@@ -3877,6 +3933,7 @@ bucket/rdcman.json, niheaven/scoop-sysinternals, 1
 bucket/rdiff-backup.json, ScoopInstaller/Main, 1
 bucket/rdpv.json, ScoopInstaller/Nirsoft, 0
 bucket/react-native-debugger.json, ScoopInstaller/Extras, 1
+bucket/reader.json, ivaquero/scoopet, 1
 bucket/real.json, ScoopInstaller/Extras, 1
 bucket/realcugan-ncnn-vulkan.json, ScoopInstaller/Main, 1
 bucket/realesrgan-ncnn-vulkan.json, ScoopInstaller/Main, 1
@@ -3885,6 +3942,7 @@ bucket/reaper.json, ScoopInstaller/Extras, 0
 bucket/recaps.json, ScoopInstaller/Extras, 1
 bucket/recentfilesview.json, ScoopInstaller/Nirsoft, 0
 bucket/recmd.json, ScoopInstaller/Main, 1
+bucket/rectanglewin.json, ivaquero/scoopet, 1
 bucket/recuva.json, ScoopInstaller/Extras, 0
 bucket/recyclarr.json, ScoopInstaller/Extras, 1
 bucket/recycle-bin.json, ScoopInstaller/Main, 1
@@ -3906,6 +3964,7 @@ bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
 bucket/regeditor.json, ScoopInstaller/Extras, 0
+bucket/regester.json, ivaquero/scoopet, 0
 bucket/regexp.json, ScoopInstaller/Extras, 1
 bucket/regfileexport.json, ScoopInstaller/Nirsoft, 0
 bucket/regfromapp.json, ScoopInstaller/Nirsoft, 0
@@ -4060,6 +4119,7 @@ bucket/sad.json, ScoopInstaller/Main, 1
 bucket/safaricacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/safarihistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/safebrowser.json, ScoopInstaller/Extras, 1
+bucket/sagemath-cn.json, ivaquero/scoopet, 0
 bucket/sagemath.json, ScoopInstaller/Extras, 1
 bucket/sam.json, ScoopInstaller/Extras, 1
 bucket/sameboy.json, Calinou/scoop-games, 1
@@ -4114,6 +4174,7 @@ bucket/schemacrawler.json, ScoopInstaller/Main, 1
 bucket/schismtracker.json, ScoopInstaller/Extras, 1
 bucket/scholdoc.json, ScoopInstaller/Main, 0
 bucket/scidavis.json, ScoopInstaller/Extras, 0
+bucket/scihubeva.json, ivaquero/scoopet, 1
 bucket/scilab-np.json, ScoopInstaller/Nonportable, 0
 bucket/scite.json, ScoopInstaller/Extras, 0
 bucket/scons.json, ScoopInstaller/Main, 0
@@ -4458,8 +4519,10 @@ bucket/suanpan.json, ScoopInstaller/Main, 1
 bucket/subconverter.json, ScoopInstaller/Main, 1
 bucket/sublime-merge.json, ScoopInstaller/Extras, 1
 bucket/sublime-text.json, ScoopInstaller/Extras, 1
+bucket/subrenamer.json, ivaquero/scoopet, 1
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitleedit.json, ScoopInstaller/Extras, 1
+bucket/subversion.json, ivaquero/scoopet, 0
 bucket/sudachi.json, Calinou/scoop-games, 1
 bucket/sudo.json, ScoopInstaller/Main, 1
 bucket/sumatrapdf-installer.json, ScoopInstaller/Versions, 0
@@ -4606,6 +4669,8 @@ bucket/temurin8-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jre.json, ScoopInstaller/Java, 1
+bucket/tencent-edu.json, ivaquero/scoopet, 0
+bucket/tencent-meeting.json, ivaquero/scoopet, 0
 bucket/teracopy-np.json, ScoopInstaller/Nonportable, 0
 bucket/teraterm.json, ScoopInstaller/Extras, 1
 bucket/tere.json, ScoopInstaller/Main, 1
@@ -4638,9 +4703,11 @@ bucket/testlimit.json, niheaven/scoop-sysinternals, 1
 bucket/testmace.json, ScoopInstaller/Extras, 0
 bucket/tev.json, ScoopInstaller/Extras, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
+bucket/texlive.json, ivaquero/scoopet, 0
 bucket/texmacs.json, ScoopInstaller/Extras, 0
 bucket/texmaker.json, ScoopInstaller/Extras, 0
 bucket/texmod.json, Calinou/scoop-games, 0
+bucket/texstudio-cn.json, ivaquero/scoopet, 0
 bucket/texstudio.json, ScoopInstaller/Extras, 1
 bucket/text-grab.json, ScoopInstaller/Extras, 1
 bucket/textadept.json, ScoopInstaller/Extras, 1
@@ -4683,6 +4750,7 @@ bucket/timeseriesadmin.json, ScoopInstaller/Extras, 1
 bucket/timeslottracker.json, ScoopInstaller/Extras, 1
 bucket/timezonesview.json, ScoopInstaller/Nirsoft, 0
 bucket/timoni.json, ScoopInstaller/Main, 1
+bucket/ting-en.json, ivaquero/scoopet, 0
 bucket/tinode-mysql.json, ScoopInstaller/Extras, 1
 bucket/tinygo.json, ScoopInstaller/Main, 1
 bucket/tinymediamanager.json, ScoopInstaller/Extras, 0
@@ -4853,6 +4921,7 @@ bucket/userprofilesview.json, ScoopInstaller/Nirsoft, 0
 bucket/usql.json, ScoopInstaller/Main, 1
 bucket/ussf.json, ScoopInstaller/Extras, 1
 bucket/util-linux-ng.json, ScoopInstaller/Extras, 0
+bucket/utools.json, ivaquero/scoopet, 0
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
 bucket/uutils-coreutils.json, ScoopInstaller/Main, 1
 bucket/uv.json, ScoopInstaller/Main, 1
@@ -4891,6 +4960,7 @@ bucket/velero.json, ScoopInstaller/Main, 1
 bucket/veloren-weekly.json, Calinou/scoop-games, 1
 bucket/vencord-installer.json, ScoopInstaller/Extras, 1
 bucket/ventoy.json, ScoopInstaller/Extras, 1
+bucket/veracrypt.json, ivaquero/scoopet, 0
 bucket/vesktop.json, ScoopInstaller/Extras, 1
 bucket/vesta.json, ScoopInstaller/Extras, 0
 bucket/veusz.json, ScoopInstaller/Extras, 1
@@ -4900,6 +4970,7 @@ bucket/vgmstream.json, ScoopInstaller/Main, 1
 bucket/vhs.json, ScoopInstaller/Main, 1
 bucket/via.json, ScoopInstaller/Extras, 1
 bucket/vial.json, ScoopInstaller/Extras, 1
+bucket/viber.json, ivaquero/scoopet, 0
 bucket/vibrance-gui.json, ScoopInstaller/Extras, 0
 bucket/vidcoder.json, ScoopInstaller/Extras, 1
 bucket/vidcutter.json, ScoopInstaller/Extras, 1
@@ -4938,6 +5009,7 @@ bucket/vivaldi.json, ScoopInstaller/Extras, 0
 bucket/vivetool.json, ScoopInstaller/Main, 1
 bucket/vkquake.json, Calinou/scoop-games, 1
 bucket/vkquake2.json, Calinou/scoop-games, 1
+bucket/vlc-cn.json, ivaquero/scoopet, 0
 bucket/vlc-nightly-ucrt-llvm.json, ScoopInstaller/Versions, 0
 bucket/vlc-nightly.json, ScoopInstaller/Versions, 0
 bucket/vlc.json, ScoopInstaller/Extras, 0
@@ -4945,6 +5017,7 @@ bucket/vmaf.json, ScoopInstaller/Main, 1
 bucket/vmmap.json, niheaven/scoop-sysinternals, 1
 bucket/vmware-horizon-client-np.json, ScoopInstaller/Nonportable, 0
 bucket/vmware-workstation-player-np.json, ScoopInstaller/Nonportable, 0
+bucket/vmware-workstation-pro.json, ivaquero/scoopet, 0
 bucket/vncpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/vncviewer.json, ScoopInstaller/Extras, 0
 bucket/vnote.json, ScoopInstaller/Extras, 1
@@ -4963,7 +5036,9 @@ bucket/vpnc-front-end-np.json, ScoopInstaller/Nonportable, 0
 bucket/vrcx.json, ScoopInstaller/Extras, 1
 bucket/vroid-studio.json, ScoopInstaller/Extras, 0
 bucket/vscode-insiders.json, ScoopInstaller/Versions, 1
+bucket/vscode-win7.json, ivaquero/scoopet, 1
 bucket/vscode.json, ScoopInstaller/Extras, 1
+bucket/vscodium-cn.json, ivaquero/scoopet, 1
 bucket/vscodium.json, ScoopInstaller/Extras, 1
 bucket/vswhere.json, ScoopInstaller/Main, 0
 bucket/vt-cli.json, ScoopInstaller/Main, 1
@@ -5007,6 +5082,7 @@ bucket/wcurl.json, ScoopInstaller/Main, 1
 bucket/we-meet.json, scoopcn/scoopcn, 0
 bucket/weakauras-companion.json, Calinou/scoop-games, 1
 bucket/weasel-pageant.json, ScoopInstaller/Extras, 1
+bucket/weasel.json, ivaquero/scoopet, 1
 bucket/webbrowserbookmarksview.json, ScoopInstaller/Nirsoft, 0
 bucket/webbrowserpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/webcacheimageinfo.json, ScoopInstaller/Nirsoft, 0
@@ -5026,6 +5102,7 @@ bucket/webvideocap.json, ScoopInstaller/Nirsoft, 0
 bucket/wechat-beta.json, scoopcn/scoopcn, 0
 bucket/wechat-devtools.json, scoopcn/scoopcn, 0
 bucket/wechat.json, ScoopInstaller/Extras, 0
+bucket/wechatwork.json, ivaquero/scoopet, 0
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 1
 bucket/wemod.json, Calinou/scoop-games, 0
@@ -5162,6 +5239,7 @@ bucket/wireproxy.json, ScoopInstaller/Main, 1
 bucket/wireshark.json, ScoopInstaller/Extras, 1
 bucket/wireshark3.6.json, ScoopInstaller/Versions, 0
 bucket/wireshark3.json, ScoopInstaller/Versions, 0
+bucket/wisecare365.json, ivaquero/scoopet, 0
 bucket/witchblast.json, Calinou/scoop-games, 1
 bucket/wixtoolset.json, ScoopInstaller/Main, 0
 bucket/wixtoolset3.json, ScoopInstaller/Versions, 1
@@ -5186,6 +5264,7 @@ bucket/wox.json, ScoopInstaller/Extras, 1
 bucket/wp-cli.json, ScoopInstaller/Main, 1
 bucket/wpd.json, ScoopInstaller/Extras, 0
 bucket/wps.json, scoopcn/scoopcn, 0
+bucket/wpsoffice-cn.json, ivaquero/scoopet, 0
 bucket/wpsoffice.json, ScoopInstaller/Extras, 0
 bucket/wrangler.json, ScoopInstaller/Main, 1
 bucket/write.json, ScoopInstaller/Extras, 1
@@ -5315,6 +5394,7 @@ bucket/yuescript.json, ScoopInstaller/Extras, 1
 bucket/yumi-exfat.json, ScoopInstaller/Extras, 0
 bucket/yumi-uefi.json, ScoopInstaller/Extras, 0
 bucket/yumi.json, ScoopInstaller/Extras, 0
+bucket/yuque.json, ivaquero/scoopet, 0
 bucket/z.json, ScoopInstaller/Extras, 0
 bucket/z.lua.json, ScoopInstaller/Main, 1
 bucket/z3.json, ScoopInstaller/Main, 1
