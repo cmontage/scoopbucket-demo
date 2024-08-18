@@ -36,6 +36,7 @@ export const CONFIG = {
     `kodybrown/scoop-nirsoft`,
     `niheaven/scoop-sysinternals`,
     // `xfqwdsj/BucketDev`, // Android SDK DEV...
+    `ivaquero/scoopet`
     `scoopcn/scoopcn`, // 大多是国内应用程序
 
   ]),
