@@ -2,9 +2,9 @@ name: Scoop Buckets Sync
 on:
   push:
     branches:
-      - official
+      - main
   schedule:
-    - cron: '5 0 * * *'
+    - cron: '0 0 12 * *'
 jobs:
   sync:
     runs-on: ubuntu-latest
