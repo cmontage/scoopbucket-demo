@@ -20,6 +20,7 @@ bucket/86box-roms.json, ScoopInstaller/Extras, 1
 bucket/86box.json, ScoopInstaller/Extras, 1
 bucket/8gadgetpack-np.json, ScoopInstaller/Nonportable, 0
 bucket/ab-av1.json, ScoopInstaller/Extras, 1
+bucket/ab-download-manager.json, ScoopInstaller/Extras, 1
 bucket/ab.json, ScoopInstaller/Main, 0
 bucket/abc.json, ScoopInstaller/Main, 1
 bucket/abricotine.json, ScoopInstaller/Extras, 1
