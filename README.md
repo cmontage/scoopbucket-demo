@@ -28,14 +28,14 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm https://mirror.ghproxy.com/raw.githubusercontent.com/lzwme/scoop-proxy-cn/master/install.ps1 -outfile 'install.ps1'
 
 # 自定义 Scoop 安装目录，以下是我的路径例子，你可以自己根据情况修改
-.\install.ps1 -ScoopDir 'D:\Scoop\ScoopApps' -ScoopGlobalDir 'D:\Scoop\ScoopApps-G' -NoProxy
-
-# Scoop 换镜像源
-scoop config SCOOP_REPO https://mirror.ghproxy.com/github.com/ScoopInstaller/Scoop
+.\install.ps1 -ScoopDir 'D:\Apps\Scoop\ScoopApps' -ScoopGlobalDir 'D:\Apps\Scoop\ScoopApps-G' -NoProxy
 
 # Main Bucket 换镜像源
 scoop bucket rm main
 scoop bucket add main https://mirror.ghproxy.com/github.com/ScoopInstaller/Main
+
+# 下载 7zip git，因为我们之后要添加 Bucket，必须有git
+scoop install 7zip git
 ```
 
 ## 添加仓库
@@ -54,14 +54,24 @@ scoop bucket add main https://mirror.ghproxy.com/github.com/ScoopInstaller/Main
     scoop bucket rm official
     ```
 
-2. 下载几个基本的应用，注意使用代理最好不要用aria2
+2. 卸载之前从main下的 7zip 和 git 重新从本仓库的Bucket安装，这里是为了来源统一，当然你也可以手动更改应用目录里的 install.json 
+
+    ```powershell
+    # 卸载
+    scoop uninstall 7zip git
+
+    # 重新从本仓库安装
+    scoop install official/7zip official/git
+    ```
+
+3. 下载几个基本的应用，注意使用代理最好不要用aria2
 
     ```powershell
     # 下载 7zip git sudo dark innounp ...
     scoop install main/7zip main/git main/aria2 main/sudo main/dark main/innounp 
     ```
 
-3. 使用替换自带的 scoop search，因为自带的比较慢
+4. 使用替换自带的 scoop search，因为自带的比较慢
 
     ```powershell
     scoop install main/scoop-search
@@ -70,7 +80,13 @@ scoop bucket add main https://mirror.ghproxy.com/github.com/ScoopInstaller/Main
     scoop-search 7zip
     ```
 
-4. 如果你之前添加过其他 bucket 并下载过应用，你希望他们都使用本仓库来进行更新。那么你需要在每个 app 安装后的 apps\current 路径下的 install.json 的 bucket 项的值改为 scoop。然后运行 scoop list 来检查是否替换成功。如果要批量修改，直接 vscode 搜索替换大法。
+> [!TIP]
+>
+> 如果你之前添加过其他 bucket 并下载过应用，你希望他们全部或者部分使用本仓库来进行更新。那么你需要在 app 安装后的 apps\current 路径下的 install.json 的 bucket 项的值改为 official。然后运行 scoop list 来检查是否替换成功。
+>
+> 如果要批量修改，直接 vscode 搜索替换大法。
+
+
 
 ## 安装应用
 
