@@ -542,6 +542,7 @@ bucket/chronograf.json, ScoopInstaller/Main, 0
 bucket/chsrc.json, ScoopInstaller/Main, 1
 bucket/cht.json, ScoopInstaller/Main, 1
 bucket/chuck.json, ScoopInstaller/Main, 0
+bucket/chunker-cli.json, Calinou/scoop-games, 1
 bucket/cider.json, ScoopInstaller/Extras, 1
 bucket/cinny.json, ScoopInstaller/Extras, 1
 bucket/circleci-cli.json, ScoopInstaller/Main, 1
@@ -4591,6 +4592,7 @@ bucket/temurin8-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jre.json, ScoopInstaller/Java, 1
+bucket/tenv.json, ScoopInstaller/Main, 1
 bucket/teracopy-np.json, ScoopInstaller/Nonportable, 0
 bucket/teraterm.json, ScoopInstaller/Extras, 1
 bucket/tere.json, ScoopInstaller/Main, 1
