@@ -19,9 +19,9 @@ bucket/86box-roms.json, ScoopInstaller/Extras, 1
 bucket/86box.json, ScoopInstaller/Extras, 1
 bucket/8gadgetpack-np.json, ScoopInstaller/Nonportable, 0
 bucket/ab-av1.json, ScoopInstaller/Extras, 1
-bucket/ab-download-manager.json, ScoopInstaller/Extras, 1
 bucket/ab.json, ScoopInstaller/Main, 0
 bucket/abc.json, ScoopInstaller/Main, 1
+bucket/abdownloadmanager.json, ScoopInstaller/Extras, 1
 bucket/abricotine.json, ScoopInstaller/Extras, 1
 bucket/accesschk.json, niheaven/scoop-sysinternals, 1
 bucket/accessenum.json, niheaven/scoop-sysinternals, 1
@@ -298,6 +298,7 @@ bucket/bbk-cli.json, ScoopInstaller/Main, 0
 bucket/bc.json, ScoopInstaller/Main, 0
 bucket/beaker.json, ScoopInstaller/Extras, 1
 bucket/beatdrop.json, ScoopInstaller/Extras, 1
+bucket/bedrock-launcher.json, Calinou/scoop-games, 1
 bucket/bedrockupdater.json, Calinou/scoop-games, 1
 bucket/beebeep.json, ScoopInstaller/Extras, 0
 bucket/beebem.json, Calinou/scoop-games, 0
@@ -543,6 +544,7 @@ bucket/chsrc.json, ScoopInstaller/Main, 1
 bucket/cht.json, ScoopInstaller/Main, 1
 bucket/chuck.json, ScoopInstaller/Main, 0
 bucket/chunker-cli.json, Calinou/scoop-games, 1
+bucket/chunker.json, Calinou/scoop-games, 1
 bucket/cider.json, ScoopInstaller/Extras, 1
 bucket/cinny.json, ScoopInstaller/Extras, 1
 bucket/circleci-cli.json, ScoopInstaller/Main, 1
@@ -908,7 +910,6 @@ bucket/dog.json, ScoopInstaller/Main, 1
 bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
-bucket/dolphin-beta.json, Calinou/scoop-games, 0
 bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
