@@ -30,12 +30,12 @@ irm https://mirror.ghproxy.com/raw.githubusercontent.com/lzwme/scoop-proxy-cn/ma
 # 自定义 Scoop 安装目录，以下是我的路径例子，你可以自己根据情况修改
 .\install.ps1 -ScoopDir 'D:\Apps\Scoop\ScoopApps' -ScoopGlobalDir 'D:\Apps\Scoop\ScoopApps-G' -NoProxy
 
+# 下载 7zip git，因为我们之后要添加 Bucket，必须有git
+scoop install 7zip git
+
 # Main Bucket 换镜像源
 scoop bucket rm main
 scoop bucket add main https://mirror.ghproxy.com/github.com/ScoopInstaller/Main
-
-# 下载 7zip git，因为我们之后要添加 Bucket，必须有git
-scoop install 7zip git
 ```
 
 ## 添加仓库
@@ -64,17 +64,17 @@ scoop install 7zip git
     scoop install official/7zip official/git
     ```
 
-3. 下载几个基本的应用，注意使用代理最好不要用aria2
+3. 下载几个基本的应用，**注意使用代理最好不要用aria2**
 
     ```powershell
     # 下载 7zip git sudo dark innounp ...
-    scoop install main/7zip main/git main/aria2 main/sudo main/dark main/innounp 
+    scoop install official/7zip official/git official/aria2 official/sudo official/dark official/innounp 
     ```
 
 4. 使用替换自带的 scoop search，因为自带的比较慢
 
     ```powershell
-    scoop install main/scoop-search
+    scoop install official/scoop-search
 
     # 使用 scoop-search ，例如
     scoop-search 7zip
