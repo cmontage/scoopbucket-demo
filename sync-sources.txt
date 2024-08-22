@@ -298,6 +298,7 @@ bucket/bbk-cli.json, ScoopInstaller/Main, 0
 bucket/bc.json, ScoopInstaller/Main, 0
 bucket/beaker.json, ScoopInstaller/Extras, 1
 bucket/beatdrop.json, ScoopInstaller/Extras, 1
+bucket/beaver-notes.json, ScoopInstaller/Extras, 1
 bucket/bedrock-launcher.json, Calinou/scoop-games, 1
 bucket/bedrockupdater.json, Calinou/scoop-games, 1
 bucket/beebeep.json, ScoopInstaller/Extras, 0
@@ -3617,6 +3618,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
+bucket/pragtical.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
 bucket/premake.json, ScoopInstaller/Main, 1
 bucket/premake4.json, ScoopInstaller/Versions, 0
@@ -4683,7 +4685,6 @@ bucket/tlrc.json, ScoopInstaller/Main, 1
 bucket/tmaze.json, Calinou/scoop-games, 1
 bucket/todolist.json, ScoopInstaller/Extras, 1
 bucket/todotxt-net.json, ScoopInstaller/Extras, 1
-bucket/toggl.json, ScoopInstaller/Extras, 1
 bucket/tokei.json, ScoopInstaller/Main, 1
 bucket/tomboy-ng.json, ScoopInstaller/Extras, 1
 bucket/tomcat.json, ScoopInstaller/Extras, 0
@@ -5212,6 +5213,7 @@ bucket/xidel.json, ScoopInstaller/Main, 1
 bucket/xivlauncher.json, Calinou/scoop-games, 1
 bucket/xjoy.json, ScoopInstaller/Extras, 1
 bucket/xkill.json, ScoopInstaller/Extras, 0
+bucket/xl-converter.json, ScoopInstaller/Extras, 1
 bucket/xmake.json, ScoopInstaller/Main, 1
 bucket/xmedia-recode.json, ScoopInstaller/Extras, 0
 bucket/xmind.json, ScoopInstaller/Extras, 0
