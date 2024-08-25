@@ -791,7 +791,7 @@ bucket/ddc-toolbox.json, ScoopInstaller/Extras, 1
 bucket/ddev.json, ScoopInstaller/Main, 1
 bucket/ddnet.json, Calinou/scoop-games, 0
 bucket/ddosify.json, ScoopInstaller/Main, 1
-bucket/ddu.json, ScoopInstaller/Extras, 0
+bucket/ddu.json, ScoopInstaller/Extras, 1
 bucket/de4dot-net35.json, ScoopInstaller/Versions, 1
 bucket/de4dot-net45.json, ScoopInstaller/Versions, 1
 bucket/de4dot-netcoreapp3.1.json, ScoopInstaller/Versions, 1
