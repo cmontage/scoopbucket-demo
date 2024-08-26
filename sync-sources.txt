@@ -2085,6 +2085,7 @@ bucket/lab.json, ScoopInstaller/Main, 1
 bucket/labplot-nightly.json, ScoopInstaller/Versions, 0
 bucket/labplot.json, ScoopInstaller/Extras, 0
 bucket/lagrange.json, ScoopInstaller/Extras, 1
+bucket/laigter.json, ScoopInstaller/Extras, 1
 bucket/lambdahack.json, Calinou/scoop-games, 1
 bucket/lame.json, ScoopInstaller/Main, 0
 bucket/lamexp-qaac.json, ScoopInstaller/Versions, 0
