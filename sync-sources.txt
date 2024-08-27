@@ -2951,7 +2951,6 @@ bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Versions, 1
 bucket/openssl-lts-light.json, ScoopInstaller/Versions, 1
 bucket/openssl-lts.json, ScoopInstaller/Versions, 1
-bucket/openssl-mingw.json, ScoopInstaller/Main, 0
 bucket/openssl.json, ScoopInstaller/Main, 1
 bucket/openssl1-light.json, ScoopInstaller/Versions, 1
 bucket/openssl1.json, ScoopInstaller/Versions, 1
