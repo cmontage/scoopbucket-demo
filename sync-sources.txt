@@ -4028,6 +4028,7 @@ bucket/rust-nightly.json, ScoopInstaller/Versions, 0
 bucket/rust.json, ScoopInstaller/Main, 0
 bucket/rustdesk.json, ScoopInstaller/Extras, 1
 bucket/rustic.json, ScoopInstaller/Main, 1
+bucket/rustrover.json, ScoopInstaller/Extras, 1
 bucket/rustup-gnu.json, ScoopInstaller/Main, 1
 bucket/rustup-msvc.json, ScoopInstaller/Main, 1
 bucket/rustup.json, ScoopInstaller/Main, 1
