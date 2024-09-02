@@ -1245,6 +1245,7 @@ bucket/flashplayer-sa-debug.json, ScoopInstaller/Extras, 0
 bucket/flashplayer-sa.json, ScoopInstaller/Extras, 0
 bucket/flat-assembler.json, ScoopInstaller/Extras, 0
 bucket/flatc.json, ScoopInstaller/Main, 1
+bucket/flclash.json, ScoopInstaller/Extras, 1
 bucket/floorp.json, ScoopInstaller/Extras, 1
 bucket/flow-launcher.json, ScoopInstaller/Extras, 1
 bucket/flow.json, ScoopInstaller/Main, 1
