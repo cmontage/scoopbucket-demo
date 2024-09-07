@@ -2084,6 +2084,7 @@ bucket/kubescape.json, ScoopInstaller/Main, 1
 bucket/kubeseal.json, ScoopInstaller/Main, 1
 bucket/kubeshark.json, ScoopInstaller/Main, 1
 bucket/kubeval.json, ScoopInstaller/Main, 1
+bucket/kubevpn.json, ScoopInstaller/Extras, 1
 bucket/kubo.json, ScoopInstaller/Main, 0
 bucket/kui.json, ScoopInstaller/Extras, 1
 bucket/kusion.json, ScoopInstaller/Main, 1
@@ -2489,6 +2490,7 @@ bucket/minishift.json, ScoopInstaller/Main, 1
 bucket/minisign.json, ScoopInstaller/Main, 1
 bucket/minutor.json, Calinou/scoop-games, 1
 bucket/miru.json, ScoopInstaller/Extras, 1
+bucket/mission-planner.json, ScoopInstaller/Extras, 1
 bucket/mist.json, ScoopInstaller/Extras, 1
 bucket/mitmproxy.json, ScoopInstaller/Extras, 0
 bucket/mkcert.json, ScoopInstaller/Extras, 1
