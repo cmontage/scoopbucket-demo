@@ -269,6 +269,7 @@ bucket/b2.json, ScoopInstaller/Main, 1
 bucket/b2sum.json, ScoopInstaller/Main, 0
 bucket/b3sum.json, ScoopInstaller/Main, 1
 bucket/babelmap.json, ScoopInstaller/Extras, 0
+bucket/backrest.json, ScoopInstaller/Extras, 1
 bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baka-mplayer.json, ScoopInstaller/Extras, 1
 bucket/balabolka.json, ScoopInstaller/Extras, 0
