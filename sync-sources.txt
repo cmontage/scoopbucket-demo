@@ -1544,6 +1544,7 @@ bucket/gopeed.json, ScoopInstaller/Extras, 1
 bucket/gopher360.json, ScoopInstaller/Extras, 1
 bucket/goreleaser.json, ScoopInstaller/Main, 1
 bucket/gosec.json, ScoopInstaller/Main, 1
+bucket/goshs.json, ScoopInstaller/Extras, 1
 bucket/gossip.json, ScoopInstaller/Extras, 1
 bucket/gossm.json, ScoopInstaller/Main, 1
 bucket/gotify-cli.json, ScoopInstaller/Main, 1
