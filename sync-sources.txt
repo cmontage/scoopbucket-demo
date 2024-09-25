@@ -1531,6 +1531,7 @@ bucket/goneovim-nightly.json, ScoopInstaller/Versions, 1
 bucket/goneovim.json, ScoopInstaller/Extras, 1
 bucket/goodbyedpi.json, ScoopInstaller/Main, 1
 bucket/goodsync-np.json, ScoopInstaller/Nonportable, 0
+bucket/goofcord.json, ScoopInstaller/Extras, 1
 bucket/google-japanese-input-np.json, ScoopInstaller/Nonportable, 0
 bucket/google-java-format.json, ScoopInstaller/Extras, 1
 bucket/googlechrome-beta.json, ScoopInstaller/Versions, 0
