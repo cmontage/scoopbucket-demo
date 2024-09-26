@@ -1414,6 +1414,7 @@ bucket/gimp-dev.json, ScoopInstaller/Versions, 0
 bucket/gimp.json, ScoopInstaller/Extras, 1
 bucket/gink.json, ScoopInstaller/Extras, 1
 bucket/gisto.json, ScoopInstaller/Extras, 1
+bucket/git-absorb.json, ScoopInstaller/Main, 1
 bucket/git-aliases.json, ScoopInstaller/Extras, 0
 bucket/git-annex.json, ScoopInstaller/Main, 0
 bucket/git-branchless.json, ScoopInstaller/Main, 1
