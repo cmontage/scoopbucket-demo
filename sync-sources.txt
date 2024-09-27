@@ -3712,6 +3712,7 @@ bucket/pspad.json, ScoopInstaller/Extras, 0
 bucket/pspasswd.json, niheaven/scoop-sysinternals, 1
 bucket/psping.json, niheaven/scoop-sysinternals, 1
 bucket/pspv.json, ScoopInstaller/Nirsoft, 0
+bucket/psqlodbc.json, ScoopInstaller/Main, 0
 bucket/psreadline.json, ScoopInstaller/Extras, 0
 bucket/psservice.json, niheaven/scoop-sysinternals, 1
 bucket/psshutdown.json, niheaven/scoop-sysinternals, 1
