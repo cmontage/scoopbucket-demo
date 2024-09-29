@@ -958,6 +958,7 @@ bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxygen.json, ScoopInstaller/Main, 0
 bucket/dprint.json, ScoopInstaller/Main, 1
+bucket/dra.json, ScoopInstaller/Extras, 1
 bucket/draft.json, ScoopInstaller/Main, 1
 bucket/dragonwell11-jdk-extended.json, ScoopInstaller/Java, 1
 bucket/dragonwell11-jdk.json, ScoopInstaller/Java, 1
@@ -2882,6 +2883,7 @@ bucket/okular-nightly.json, ScoopInstaller/Versions, 0
 bucket/okular.json, ScoopInstaller/Extras, 0
 bucket/olive-editor-nightly.json, ScoopInstaller/Versions, 0
 bucket/olive-editor.json, ScoopInstaller/Extras, 0
+bucket/ollama-full.json, ScoopInstaller/Extras, 1
 bucket/ollama.json, ScoopInstaller/Main, 1
 bucket/ollydbg.json, ScoopInstaller/Extras, 0
 bucket/omegat.json, ScoopInstaller/Extras, 0
@@ -3915,6 +3917,7 @@ bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdllview.json, ScoopInstaller/Nirsoft, 0
 bucket/regeditor.json, ScoopInstaller/Extras, 0
+bucket/regedix.json, ScoopInstaller/Extras, 0
 bucket/regexp.json, ScoopInstaller/Extras, 1
 bucket/regfileexport.json, ScoopInstaller/Nirsoft, 0
 bucket/regfromapp.json, ScoopInstaller/Nirsoft, 0
