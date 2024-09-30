@@ -2676,6 +2676,7 @@ bucket/nerdctl.json, ScoopInstaller/Main, 1
 bucket/nero-aac.json, ScoopInstaller/Main, 0
 bucket/nester.json, Calinou/scoop-games, 0
 bucket/netbeans.json, ScoopInstaller/Extras, 0
+bucket/netbird.json, ScoopInstaller/Extras, 1
 bucket/netbscanner.json, ScoopInstaller/Nirsoft, 0
 bucket/netcat.json, ScoopInstaller/Main, 0
 bucket/netch.json, ScoopInstaller/Extras, 1
