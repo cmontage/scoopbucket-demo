@@ -4185,6 +4185,12 @@ bucket/semeru19-jdk.json, ScoopInstaller/Java, 1
 bucket/semeru19-jre.json, ScoopInstaller/Java, 1
 bucket/semeru20-jdk.json, ScoopInstaller/Java, 1
 bucket/semeru20-jre.json, ScoopInstaller/Java, 1
+bucket/semeru21-jdk.json, ScoopInstaller/Java, 1
+bucket/semeru21-jre.json, ScoopInstaller/Java, 1
+bucket/semeru22-jdk.json, ScoopInstaller/Java, 1
+bucket/semeru22-jre.json, ScoopInstaller/Java, 1
+bucket/semeru23-jdk.json, ScoopInstaller/Java, 1
+bucket/semeru23-jre.json, ScoopInstaller/Java, 1
 bucket/semeru8-jdk.json, ScoopInstaller/Java, 1
 bucket/semeru8-jre.json, ScoopInstaller/Java, 1
 bucket/sendmail.json, ScoopInstaller/Main, 0
@@ -4614,6 +4620,8 @@ bucket/temurin21-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin21-jre.json, ScoopInstaller/Java, 1
 bucket/temurin22-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin22-jre.json, ScoopInstaller/Java, 1
+bucket/temurin23-jdk.json, ScoopInstaller/Java, 1
+bucket/temurin23-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 1
