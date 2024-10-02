@@ -111,6 +111,7 @@ bucket/android-studio-canary.json, ScoopInstaller/Versions, 0
 bucket/android-studio.json, ScoopInstaller/Extras, 0
 bucket/angband-dev.json, Calinou/scoop-games, 1
 bucket/angband.json, Calinou/scoop-games, 1
+bucket/angr-management.json, ScoopInstaller/Extras, 1
 bucket/ani-cli.json, ScoopInstaller/Extras, 1
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki.json, ScoopInstaller/Extras, 1
@@ -1327,6 +1328,7 @@ bucket/freeplane.json, ScoopInstaller/Extras, 0
 bucket/freerapid.json, ScoopInstaller/Extras, 1
 bucket/freespacelogview.json, ScoopInstaller/Nirsoft, 0
 bucket/freetube.json, ScoopInstaller/Extras, 1
+bucket/fricas.json, ScoopInstaller/Extras, 1
 bucket/fritzing.json, ScoopInstaller/Extras, 1
 bucket/frostwire.json, ScoopInstaller/Extras, 0
 bucket/frp.json, ScoopInstaller/Main, 1
@@ -3058,6 +3060,7 @@ bucket/panwriter.json, ScoopInstaller/Extras, 1
 bucket/papercut.json, ScoopInstaller/Extras, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1
 bucket/paraview.json, ScoopInstaller/Extras, 0
+bucket/pari-gp.json, ScoopInstaller/Extras, 0
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
 bucket/pass-winmenu-nogpg.json, ScoopInstaller/Extras, 1
 bucket/passbolt-cli.json, ScoopInstaller/Main, 1
