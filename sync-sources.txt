@@ -213,6 +213,7 @@ bucket/authme.json, ScoopInstaller/Extras, 1
 bucket/authpass.json, ScoopInstaller/Extras, 1
 bucket/authy.json, ScoopInstaller/Extras, 0
 bucket/auto-dark-mode-np.json, ScoopInstaller/Nonportable, 1
+bucket/auto-screenshot.json, ScoopInstaller/Extras, 1
 bucket/autoactions.json, ScoopInstaller/Extras, 1
 bucket/autoclicker.json, ScoopInstaller/Extras, 0
 bucket/autocorrect.json, ScoopInstaller/Main, 1
@@ -4482,7 +4483,7 @@ bucket/sublime-merge.json, ScoopInstaller/Extras, 1
 bucket/sublime-text.json, ScoopInstaller/Extras, 1
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitleedit.json, ScoopInstaller/Extras, 1
-bucket/sudachi.json, Calinou/scoop-games, 0
+bucket/sudachi.json, Calinou/scoop-games, 1
 bucket/sudo.json, ScoopInstaller/Main, 1
 bucket/sumatrapdf-installer.json, ScoopInstaller/Versions, 0
 bucket/sumatrapdf.json, ScoopInstaller/Extras, 0
@@ -5338,6 +5339,7 @@ bucket/zaproxy.json, ScoopInstaller/Extras, 1
 bucket/zdbsp.json, Calinou/scoop-games, 0
 bucket/zdl.json, Calinou/scoop-games, 1
 bucket/zeal.json, ScoopInstaller/Extras, 1
+bucket/zebar.json, ScoopInstaller/Extras, 1
 bucket/zed-nightly.json, ScoopInstaller/Versions, 1
 bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
 bucket/zeebe.json, ScoopInstaller/Main, 1
