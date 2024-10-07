@@ -1673,6 +1673,7 @@ bucket/hasura-cli.json, ScoopInstaller/Main, 1
 bucket/haxe-dev.json, ScoopInstaller/Versions, 1
 bucket/haxe.json, ScoopInstaller/Main, 1
 bucket/hcloud.json, ScoopInstaller/Main, 1
+bucket/headlamp.json, ScoopInstaller/Extras, 1
 bucket/heapmemview.json, ScoopInstaller/Nirsoft, 0
 bucket/hedge-mod-manager.json, Calinou/scoop-games, 1
 bucket/hedgewars.json, Calinou/scoop-games, 0
@@ -4418,6 +4419,7 @@ bucket/ssd-z.json, ScoopInstaller/Extras, 0
 bucket/ssh-agent-wsl.json, ScoopInstaller/Extras, 1
 bucket/ssh3.json, ScoopInstaller/Main, 1
 bucket/sshfs-np.json, ScoopInstaller/Nonportable, 1
+bucket/sshs.json, ScoopInstaller/Extras, 1
 bucket/sslscan.json, ScoopInstaller/Main, 1
 bucket/stack.json, ScoopInstaller/Main, 1
 bucket/standardnotes.json, ScoopInstaller/Extras, 1
