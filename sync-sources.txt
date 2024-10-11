@@ -1272,6 +1272,7 @@ bucket/flyway.json, ScoopInstaller/Main, 0
 bucket/fman-np.json, ScoopInstaller/Nonportable, 0
 bucket/fmedia.json, ScoopInstaller/Extras, 1
 bucket/fmedia16.json, ScoopInstaller/Versions, 0
+bucket/fmodel.json, Calinou/scoop-games, 1
 bucket/fnm.json, ScoopInstaller/Main, 1
 bucket/fnproject.json, ScoopInstaller/Main, 1
 bucket/fnr.json, ScoopInstaller/Extras, 0
@@ -4851,6 +4852,7 @@ bucket/universalpausebutton.json, ScoopInstaller/Extras, 1
 bucket/unlocker.json, ScoopInstaller/Extras, 1
 bucket/unrar.json, ScoopInstaller/Main, 1
 bucket/unrealmodloader.json, Calinou/scoop-games, 1
+bucket/unrealpakviewer.json, Calinou/scoop-games, 1
 bucket/unshield.json, ScoopInstaller/Main, 1
 bucket/unsubscan.json, ScoopInstaller/Extras, 1
 bucket/unxutils.json, ScoopInstaller/Main, 0
