@@ -4484,7 +4484,7 @@ bucket/stylua.json, ScoopInstaller/Main, 1
 bucket/suanpan.json, ScoopInstaller/Main, 1
 bucket/subconverter.json, ScoopInstaller/Main, 1
 bucket/sublime-merge.json, ScoopInstaller/Extras, 1
-bucket/sublime-text.json, ScoopInstaller/Extras, 1
+bucket/sublime-text.json, ScoopInstaller/Extras, 0
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitleedit.json, ScoopInstaller/Extras, 1
 bucket/sudachi.json, Calinou/scoop-games, 1
@@ -5469,6 +5469,8 @@ scripts/phoenix-protector/register-ilmerge-path.reg, ScoopInstaller/Extras, 0
 scripts/phoenix-protector/unregister-ilmerge-path.reg, ScoopInstaller/Extras, 0
 scripts/picotorrent/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/picotorrent/uninstall-associations.reg, ScoopInstaller/Extras, 0
+scripts/powertoys/install-context.ps1, ScoopInstaller/Extras, 0
+scripts/powertoys/uninstall-context.ps1, ScoopInstaller/Extras, 0
 scripts/prismlauncher-git/install-associations.reg, ScoopInstaller/Versions, 0
 scripts/prismlauncher-git/uninstall-associations.reg, ScoopInstaller/Versions, 0
 scripts/prismlauncher-qt5-git/install-associations.reg, ScoopInstaller/Versions, 0
