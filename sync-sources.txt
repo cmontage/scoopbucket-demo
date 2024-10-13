@@ -2588,6 +2588,7 @@ bucket/msival2.json, ScoopInstaller/Main, 0
 bucket/msklc.json, ScoopInstaller/Extras, 0
 bucket/msmpi.json, ScoopInstaller/Main, 1
 bucket/mspass.json, ScoopInstaller/Nirsoft, 0
+bucket/msrt.json, ScoopInstaller/Extras, 0
 bucket/msxml4.json, ScoopInstaller/Extras, 0
 bucket/msys.json, ScoopInstaller/Main, 0
 bucket/msys2-20200517.json, ScoopInstaller/Versions, 1
