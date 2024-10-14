@@ -4488,6 +4488,7 @@ bucket/sublime-merge.json, ScoopInstaller/Extras, 1
 bucket/sublime-text.json, ScoopInstaller/Extras, 0
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitleedit.json, ScoopInstaller/Extras, 1
+bucket/sucrose.json, ScoopInstaller/Extras, 1
 bucket/sudachi.json, Calinou/scoop-games, 1
 bucket/sudo.json, ScoopInstaller/Main, 1
 bucket/sumatrapdf-installer.json, ScoopInstaller/Versions, 0
