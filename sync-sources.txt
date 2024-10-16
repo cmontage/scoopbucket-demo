@@ -3067,6 +3067,7 @@ bucket/par2cmdline.json, ScoopInstaller/Main, 1
 bucket/paraview.json, ScoopInstaller/Extras, 0
 bucket/pari-gp.json, ScoopInstaller/Extras, 0
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
+bucket/parsec.json, ScoopInstaller/Extras, 0
 bucket/pass-winmenu-nogpg.json, ScoopInstaller/Extras, 1
 bucket/passbolt-cli.json, ScoopInstaller/Main, 1
 bucket/passrec.json, ScoopInstaller/Nirsoft, 0
@@ -5114,6 +5115,7 @@ bucket/windhawk.json, ScoopInstaller/Extras, 1
 bucket/windiff.json, ScoopInstaller/Extras, 1
 bucket/windirstat.json, ScoopInstaller/Extras, 0
 bucket/windjview.json, ScoopInstaller/Extras, 0
+bucket/window-switcher.json, ScoopInstaller/Extras, 1
 bucket/windows-application-driver.json, ScoopInstaller/Main, 1
 bucket/windows-iso-downloader.json, ScoopInstaller/Extras, 0
 bucket/windows-terminal-preview.json, ScoopInstaller/Versions, 1
