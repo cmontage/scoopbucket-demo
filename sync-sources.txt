@@ -276,6 +276,7 @@ bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baka-mplayer.json, ScoopInstaller/Extras, 1
 bucket/balabolka.json, ScoopInstaller/Extras, 0
 bucket/balena-cli.json, ScoopInstaller/Main, 1
+bucket/bambu-studio.json, ScoopInstaller/Extras, 1
 bucket/banana-cake-pop.json, ScoopInstaller/Extras, 0
 bucket/bandizip.json, ScoopInstaller/Extras, 0
 bucket/bandizip6.json, ScoopInstaller/Versions, 0
@@ -2460,6 +2461,7 @@ bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/mighty-mike.json, Calinou/scoop-games, 1
 bucket/migrate.json, ScoopInstaller/Main, 1
+bucket/mihomo-party.json, ScoopInstaller/Extras, 1
 bucket/mihomo.json, ScoopInstaller/Main, 1
 bucket/miktex.json, ScoopInstaller/Main, 0
 bucket/milkytracker.json, ScoopInstaller/Extras, 1
