@@ -2603,7 +2603,7 @@ bucket/mucommander.json, ScoopInstaller/Extras, 1
 bucket/mudlet.json, Calinou/scoop-games, 0
 bucket/muicacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/mujoco.json, ScoopInstaller/Extras, 1
-bucket/mullvad-browser.json, ScoopInstaller/Extras, 0
+bucket/mullvad-browser.json, ScoopInstaller/Extras, 1
 bucket/mullvadvpn-np.json, ScoopInstaller/Nonportable, 0
 bucket/multibootusb.json, ScoopInstaller/Extras, 1
 bucket/multicommander.json, ScoopInstaller/Extras, 0
@@ -4698,6 +4698,7 @@ bucket/thorium.json, ScoopInstaller/Extras, 1
 bucket/threema.json, ScoopInstaller/Extras, 0
 bucket/thrift.json, ScoopInstaller/Main, 0
 bucket/throttlestop.json, ScoopInstaller/Extras, 0
+bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
 bucket/ti-connect-ce-software-np.json, ScoopInstaller/Nonportable, 0
 bucket/ti-nspire-cx-cas-student-software-np.json, ScoopInstaller/Nonportable, 0
