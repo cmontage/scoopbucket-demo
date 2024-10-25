@@ -4240,6 +4240,7 @@ bucket/sharik.json, ScoopInstaller/Extras, 1
 bucket/sharpapp.json, ScoopInstaller/Extras, 1
 bucket/sharpkeys.json, ScoopInstaller/Extras, 1
 bucket/shasum.json, ScoopInstaller/Main, 1
+bucket/shatteredpixeldungeon.json, Calinou/scoop-games, 1
 bucket/shawl.json, ScoopInstaller/Extras, 1
 bucket/shellbagsview.json, ScoopInstaller/Nirsoft, 0
 bucket/shellcheck.json, ScoopInstaller/Main, 1
