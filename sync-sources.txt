@@ -4504,6 +4504,7 @@ bucket/supabase.json, ScoopInstaller/Main, 1
 bucket/super-productivity.json, ScoopInstaller/Extras, 1
 bucket/superf4.json, ScoopInstaller/Extras, 1
 bucket/supermium.json, ScoopInstaller/Extras, 0
+bucket/supermodel.json, Calinou/scoop-games, 0
 bucket/superpowers-app.json, ScoopInstaller/Extras, 1
 bucket/superputty.json, ScoopInstaller/Extras, 1
 bucket/superslicer.json, ScoopInstaller/Extras, 1
