@@ -2837,6 +2837,7 @@ bucket/obs-studio27.json, ScoopInstaller/Versions, 0
 bucket/obs-studio28.json, ScoopInstaller/Versions, 0
 bucket/obsidian.json, ScoopInstaller/Extras, 1
 bucket/ocat.json, ScoopInstaller/Extras, 1
+bucket/ocauxiliarytools.json, ScoopInstaller/Extras, 1
 bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/octant.json, ScoopInstaller/Extras, 1
 bucket/octave.json, ScoopInstaller/Main, 0
