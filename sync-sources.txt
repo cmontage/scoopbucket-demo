@@ -174,7 +174,6 @@ bucket/ariang-native.json, ScoopInstaller/Extras, 1
 bucket/ark-smart-breeding.json, Calinou/scoop-games, 1
 bucket/armagetronad.json, Calinou/scoop-games, 0
 bucket/armclient.json, ScoopInstaller/Main, 1
-bucket/armcord.json, ScoopInstaller/Extras, 1
 bucket/armips.json, ScoopInstaller/Extras, 1
 bucket/armor.json, ScoopInstaller/Main, 1
 bucket/arthas.json, ScoopInstaller/Main, 1
@@ -2141,6 +2140,7 @@ bucket/ldplayer.json, ScoopInstaller/Extras, 0
 bucket/lean-cli.json, ScoopInstaller/Main, 1
 bucket/leet.json, ScoopInstaller/Extras, 1
 bucket/lefthook.json, ScoopInstaller/Main, 1
+bucket/legcord.json, ScoopInstaller/Extras, 1
 bucket/legendary.json, Calinou/scoop-games, 1
 bucket/legit.json, ScoopInstaller/Main, 1
 bucket/lego.json, ScoopInstaller/Main, 1
@@ -4849,6 +4849,7 @@ bucket/unetbootin.json, ScoopInstaller/Extras, 1
 bucket/ungit.json, ScoopInstaller/Extras, 1
 bucket/ungoogled-chromium.json, ScoopInstaller/Extras, 1
 bucket/uniextract2.json, ScoopInstaller/Extras, 1
+bucket/unigetui.json, ScoopInstaller/Extras, 1
 bucket/uninstallview.json, ScoopInstaller/Nirsoft, 0
 bucket/uninstalr.json, ScoopInstaller/Extras, 0
 bucket/unison.json, ScoopInstaller/Main, 1
@@ -5154,7 +5155,6 @@ bucket/winget.json, ScoopInstaller/Main, 1
 bucket/winget1.4.json, ScoopInstaller/Versions, 1
 bucket/winget1.5.json, ScoopInstaller/Versions, 1
 bucket/wingetcreate.json, ScoopInstaller/Main, 1
-bucket/wingetui.json, ScoopInstaller/Extras, 1
 bucket/winlister.json, ScoopInstaller/Nirsoft, 0
 bucket/winlogonview.json, ScoopInstaller/Nirsoft, 0
 bucket/winmailpassrec.json, ScoopInstaller/Nirsoft, 0
