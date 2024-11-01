@@ -2754,6 +2754,7 @@ bucket/nodejs14.json, ScoopInstaller/Versions, 1
 bucket/nodejs16.json, ScoopInstaller/Versions, 1
 bucket/nodejs18.json, ScoopInstaller/Versions, 1
 bucket/nodejs20.json, ScoopInstaller/Versions, 1
+bucket/nodejs22.json, ScoopInstaller/Versions, 1
 bucket/nodejs4.json, ScoopInstaller/Versions, 1
 bucket/nodejs5.json, ScoopInstaller/Versions, 1
 bucket/nodejs6.json, ScoopInstaller/Versions, 1
@@ -5252,6 +5253,7 @@ bucket/xampp74.json, ScoopInstaller/Versions, 0
 bucket/xb1cbi.json, ScoopInstaller/Extras, 1
 bucket/xc.json, ScoopInstaller/Extras, 1
 bucket/xca.json, ScoopInstaller/Extras, 1
+bucket/xcas.json, ScoopInstaller/Extras, 0
 bucket/xdelta.json, ScoopInstaller/Main, 1
 bucket/xdelta3-cross-gui.json, ScoopInstaller/Extras, 1
 bucket/xdman-beta.json, ScoopInstaller/Versions, 1
