@@ -318,6 +318,7 @@ bucket/bes.json, ScoopInstaller/Extras, 0
 bucket/betaflight-blackbox-explorer.json, ScoopInstaller/Extras, 1
 bucket/betaflight-configurator.json, ScoopInstaller/Extras, 1
 bucket/better-joy.json, ScoopInstaller/Extras, 1
+bucket/betterbird.json, ScoopInstaller/Extras, 0
 bucket/betterjoy.json, Calinou/scoop-games, 1
 bucket/beyondcompare.json, ScoopInstaller/Extras, 1
 bucket/bfg.json, ScoopInstaller/Main, 0
@@ -1215,7 +1216,7 @@ bucket/filebot.json, ScoopInstaller/Extras, 0
 bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
 bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
-bucket/files-np.json, ScoopInstaller/Nonportable, 1
+bucket/files-np.json, ScoopInstaller/Nonportable, 0
 bucket/filetypesman.json, ScoopInstaller/Nirsoft, 0
 bucket/filezilla-server.json, ScoopInstaller/Extras, 0
 bucket/filezilla-server0.9.json, ScoopInstaller/Versions, 1
