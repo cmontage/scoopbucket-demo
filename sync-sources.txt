@@ -2648,6 +2648,7 @@ bucket/n-m3u8dl-cli.json, ScoopInstaller/Main, 1
 bucket/naev.json, Calinou/scoop-games, 1
 bucket/naiveproxy.json, ScoopInstaller/Main, 1
 bucket/nali.json, ScoopInstaller/Main, 1
+bucket/nanazip.json, ScoopInstaller/Main, 1
 bucket/nancy.json, ScoopInstaller/Main, 1
 bucket/nano.json, ScoopInstaller/Main, 1
 bucket/nanoboyadvance.json, Calinou/scoop-games, 1
