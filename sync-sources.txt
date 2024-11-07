@@ -686,6 +686,7 @@ bucket/crc.json, ScoopInstaller/Main, 0
 bucket/credentialsfileview.json, ScoopInstaller/Nirsoft, 0
 bucket/credhistview.json, ScoopInstaller/Nirsoft, 0
 bucket/crewchief.json, Calinou/scoop-games, 0
+bucket/crip.json, ScoopInstaller/Extras, 1
 bucket/crispy-doom.json, Calinou/scoop-games, 1
 bucket/cro-mag-rally.json, Calinou/scoop-games, 1
 bucket/croc.json, ScoopInstaller/Main, 1
