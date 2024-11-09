@@ -2935,6 +2935,7 @@ bucket/openedfilesview.json, kodybrown/scoop-nirsoft, 0
 bucket/openelement.json, ScoopInstaller/Extras, 0
 bucket/openface.json, ScoopInstaller/Extras, 1
 bucket/openfga.json, ScoopInstaller/Main, 1
+bucket/openfortress.json, Calinou/scoop-games, 0
 bucket/openhab.json, ScoopInstaller/Extras, 0
 bucket/openhardwaremonitor.json, ScoopInstaller/Extras, 0
 bucket/openhashtab-np.json, ScoopInstaller/Nonportable, 1
@@ -5085,7 +5086,6 @@ bucket/wget2.json, ScoopInstaller/Main, 1
 bucket/whatinstartup.json, ScoopInstaller/Nirsoft, 0
 bucket/whatishang.json, ScoopInstaller/Nirsoft, 0
 bucket/whatsapp-beta.json, ScoopInstaller/Versions, 0
-bucket/whatsapp.json, ScoopInstaller/Extras, 0
 bucket/whepfrom.json, ScoopInstaller/Extras, 1
 bucket/which.json, ScoopInstaller/Main, 0
 bucket/whipinto.json, ScoopInstaller/Extras, 1
