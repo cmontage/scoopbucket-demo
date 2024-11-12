@@ -2,7 +2,7 @@
 
 <h1 align="center">Scoop Bucket All In One</h1>
 
-将 Scoop 官方的 Bucket 库整合成一个 Bucket，每日同步，便于使用。
+将 Scoop 官方的 Bucket 库整合成一个 Bucket，每日同步，便于自用。
 
 ## 介绍
 
