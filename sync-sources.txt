@@ -2029,6 +2029,7 @@ bucket/keptn-cli.json, ScoopInstaller/Main, 1
 bucket/keyboard-chatter-blocker.json, ScoopInstaller/Extras, 1
 bucket/keyboardstateview.json, ScoopInstaller/Nirsoft, 0
 bucket/keyferret.json, ScoopInstaller/Extras, 0
+bucket/keyguard.json, ScoopInstaller/Extras, 1
 bucket/keypirinha.json, ScoopInstaller/Extras, 1
 bucket/keystore-explorer.json, ScoopInstaller/Extras, 1
 bucket/keyviz.json, ScoopInstaller/Extras, 1
@@ -2097,6 +2098,7 @@ bucket/kubent.json, ScoopInstaller/Main, 1
 bucket/kubescape.json, ScoopInstaller/Main, 1
 bucket/kubeseal.json, ScoopInstaller/Main, 1
 bucket/kubeshark.json, ScoopInstaller/Main, 1
+bucket/kubespy.json, ScoopInstaller/Extras, 1
 bucket/kubeval.json, ScoopInstaller/Main, 1
 bucket/kubevpn.json, ScoopInstaller/Extras, 1
 bucket/kubo.json, ScoopInstaller/Main, 0
@@ -4474,7 +4476,6 @@ bucket/stoplight-prism.json, ScoopInstaller/Main, 1
 bucket/stoplight-studio.json, ScoopInstaller/Extras, 1
 bucket/stranslate.json, ScoopInstaller/Extras, 1
 bucket/strawberry-nightly.json, ScoopInstaller/Versions, 0
-bucket/strawberry.json, ScoopInstaller/Extras, 0
 bucket/streamdeck.json, ScoopInstaller/Extras, 0
 bucket/streamlabs-chatbot.json, ScoopInstaller/Extras, 0
 bucket/streamlabs-obs.json, ScoopInstaller/Extras, 0
