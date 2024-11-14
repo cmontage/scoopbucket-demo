@@ -4,6 +4,8 @@
 
 将 Scoop 官方的 Bucket 库整合成一个 Bucket，每日同步，便于自用。
 
+Integrate Scoop's official Bucket library into one Bucket and synchronize it daily for my convenience.
+
 ## 介绍
 
 同时包含了 Scoop 官方的十个应用库：main、extras、versions、nirsoft、sysinternals、php、nerd-fonts、nonportable、java、games（可使用命令 `scoop bucket known` 查看）。
