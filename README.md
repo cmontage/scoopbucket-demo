@@ -4,7 +4,7 @@
 
 将 Scoop 官方的 Bucket 库整合成一个 Bucket，每日同步，便于自用。
 
-Integrate Scoop's official Bucket library into one Bucket and synchronize it daily for my convenience.
+Consolidate Scoop's official Bucket library into one Bucket that is synchronized daily for easy self-use.
 
 ## 介绍
 
