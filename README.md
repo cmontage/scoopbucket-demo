@@ -71,7 +71,7 @@ scoop bucket add main https://mirror.ghproxy.com/github.com/ScoopInstaller/Main
     scoop install official/7zip official/git official/aria2 official/sudo official/dark official/innounp 
     ```
 
-4. 使用替换自带的 scoop search，因为自带的比较慢
+4. 替换自带的 scoop search，因为自带的比较慢
 
     ```powershell
     scoop install official/scoop-search
