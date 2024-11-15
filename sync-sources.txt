@@ -3634,6 +3634,7 @@ bucket/posh-docker.json, ScoopInstaller/Extras, 1
 bucket/posh-git-beta.json, ScoopInstaller/Versions, 1
 bucket/posh-git-nightly.json, ScoopInstaller/Versions, 1
 bucket/posh-git.json, ScoopInstaller/Extras, 0
+bucket/positron.json, ScoopInstaller/Extras, 1
 bucket/postgresql.json, ScoopInstaller/Main, 0
 bucket/postgresql10.json, ScoopInstaller/Versions, 0
 bucket/postgresql11.json, ScoopInstaller/Versions, 0
