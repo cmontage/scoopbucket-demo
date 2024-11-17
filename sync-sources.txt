@@ -1810,6 +1810,7 @@ bucket/imo-messenger.json, ScoopInstaller/Extras, 0
 bucket/importexcel.json, ScoopInstaller/Main, 0
 bucket/impregnate.json, ScoopInstaller/Extras, 1
 bucket/inadyn-mt.json, ScoopInstaller/Main, 0
+bucket/inbac.json, ScoopInstaller/Extras, 1
 bucket/inboxer.json, ScoopInstaller/Extras, 1
 bucket/inbucket.json, ScoopInstaller/Extras, 1
 bucket/infekt.json, ScoopInstaller/Extras, 0
