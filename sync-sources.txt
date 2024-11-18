@@ -5056,6 +5056,7 @@ bucket/wavpack.json, ScoopInstaller/Main, 1
 bucket/waypoint.json, ScoopInstaller/Main, 0
 bucket/wcurl.json, ScoopInstaller/Main, 1
 bucket/weakauras-companion.json, Calinou/scoop-games, 1
+bucket/wealthfolio.json, ScoopInstaller/Extras, 1
 bucket/weasel-pageant.json, ScoopInstaller/Extras, 1
 bucket/webbrowserbookmarksview.json, ScoopInstaller/Nirsoft, 0
 bucket/webbrowserpassview.json, ScoopInstaller/Nirsoft, 0
