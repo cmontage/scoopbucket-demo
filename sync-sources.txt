@@ -789,6 +789,7 @@ bucket/dataspell-rc.json, ScoopInstaller/Versions, 1
 bucket/dataspell.json, ScoopInstaller/Extras, 1
 bucket/datovka.json, ScoopInstaller/Extras, 0
 bucket/datree.json, ScoopInstaller/Main, 1
+bucket/dbeaver-ea.json, ScoopInstaller/Versions, 0
 bucket/dbeaver.json, ScoopInstaller/Extras, 0
 bucket/dbgl.json, ScoopInstaller/Extras, 0
 bucket/dbmate.json, ScoopInstaller/Main, 1
