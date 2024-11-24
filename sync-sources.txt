@@ -2570,7 +2570,7 @@ bucket/mp3directcut.json, ScoopInstaller/Extras, 0
 bucket/mp3tag.json, ScoopInstaller/Extras, 0
 bucket/mpc-be.json, ScoopInstaller/Extras, 1
 bucket/mpc-hc-fork.json, ScoopInstaller/Extras, 1
-bucket/mpc-hc.json, ScoopInstaller/Extras, 0
+bucket/mpc-hc.json, ScoopInstaller/Extras, 1
 bucket/mpc-qt.json, ScoopInstaller/Extras, 1
 bucket/mpc.json, ScoopInstaller/Extras, 0
 bucket/mpd.json, ScoopInstaller/Main, 0
