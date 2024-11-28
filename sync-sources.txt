@@ -1706,6 +1706,7 @@ bucket/heynote.json, ScoopInstaller/Extras, 1
 bucket/hibit-startup-manager.json, ScoopInstaller/Extras, 0
 bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
+bucket/hiddify.json, ScoopInstaller/Extras, 1
 bucket/hideul.json, ScoopInstaller/Extras, 0
 bucket/highlight.json, ScoopInstaller/Main, 0
 bucket/highs.json, ScoopInstaller/Main, 1
@@ -3591,6 +3592,7 @@ bucket/pipelist.json, niheaven/scoop-sysinternals, 1
 bucket/pipes-rs.json, ScoopInstaller/Extras, 1
 bucket/pipp.json, ScoopInstaller/Extras, 1
 bucket/pipx.json, ScoopInstaller/Main, 1
+bucket/pixelflasher.json, ScoopInstaller/Extras, 1
 bucket/pixelorama.json, ScoopInstaller/Extras, 1
 bucket/pixie.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
