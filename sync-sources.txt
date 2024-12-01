@@ -3823,6 +3823,7 @@ bucket/qmplay2.json, ScoopInstaller/Extras, 1
 bucket/qnapi.json, ScoopInstaller/Extras, 1
 bucket/qownnotes.json, ScoopInstaller/Extras, 1
 bucket/qpdf.json, ScoopInstaller/Main, 0
+bucket/qq-nt.json, ScoopInstaller/Extras, 0
 bucket/qq.json, ScoopInstaller/Extras, 0
 bucket/qr.json, ScoopInstaller/Main, 1
 bucket/qrcp.json, ScoopInstaller/Main, 1
