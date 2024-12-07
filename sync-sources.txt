@@ -1604,6 +1604,7 @@ bucket/gradle6.json, ScoopInstaller/Versions, 0
 bucket/gradle7.json, ScoopInstaller/Versions, 0
 bucket/grafana.json, ScoopInstaller/Extras, 0
 bucket/grails.json, ScoopInstaller/Main, 1
+bucket/grain.json, ScoopInstaller/Extras, 1
 bucket/grammarly-np.json, ScoopInstaller/Nonportable, 0
 bucket/gramps.json, ScoopInstaller/Extras, 1
 bucket/granted.json, ScoopInstaller/Main, 0
@@ -3786,6 +3787,7 @@ bucket/pychess.json, Calinou/scoop-games, 1
 bucket/pyenv.json, ScoopInstaller/Main, 1
 bucket/pyfa.json, Calinou/scoop-games, 1
 bucket/pyflow.json, ScoopInstaller/Main, 1
+bucket/pympress.json, ScoopInstaller/Extras, 1
 bucket/pyoxidizer.json, ScoopInstaller/Main, 1
 bucket/pypy2.json, ScoopInstaller/Main, 0
 bucket/pypy3.json, ScoopInstaller/Main, 0
