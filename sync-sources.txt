@@ -2798,6 +2798,7 @@ bucket/notion.json, ScoopInstaller/Extras, 0
 bucket/notmyfault.json, niheaven/scoop-sysinternals, 1
 bucket/noty.json, ScoopInstaller/Extras, 1
 bucket/nova.json, ScoopInstaller/Main, 1
+bucket/novelwriter.json, ScoopInstaller/Extras, 1
 bucket/now-cli.json, ScoopInstaller/Extras, 1
 bucket/npiperelay.json, ScoopInstaller/Extras, 1
 bucket/nsis-np.json, ScoopInstaller/Nonportable, 0
