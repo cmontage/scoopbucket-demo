@@ -4709,6 +4709,7 @@ bucket/textpad8-np.json, ScoopInstaller/Nonportable, 0
 bucket/tf-summarize.json, ScoopInstaller/Main, 1
 bucket/tf.json, ScoopInstaller/Main, 1
 bucket/tf2-hud-editor.json, Calinou/scoop-games, 1
+bucket/tf2classic.json, Calinou/scoop-games, 0
 bucket/tflint.json, ScoopInstaller/Main, 1
 bucket/tfsec.json, ScoopInstaller/Main, 1
 bucket/tftpd.json, ScoopInstaller/Extras, 0
