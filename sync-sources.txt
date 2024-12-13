@@ -2784,9 +2784,9 @@ bucket/nosleep.json, ScoopInstaller/Extras, 1
 bucket/notable.json, ScoopInstaller/Extras, 1
 bucket/notejoy.json, ScoopInstaller/Extras, 0
 bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
-bucket/notepad2-zufuliu.json, ScoopInstaller/Extras, 1
 bucket/notepad2.json, ScoopInstaller/Extras, 0
 bucket/notepad3.json, ScoopInstaller/Extras, 1
+bucket/notepad4.json, ScoopInstaller/Extras, 1
 bucket/notepadnext.json, ScoopInstaller/Extras, 1
 bucket/notepadplusplus-np.json, ScoopInstaller/Nonportable, 1
 bucket/notepadplusplus.json, ScoopInstaller/Extras, 1
