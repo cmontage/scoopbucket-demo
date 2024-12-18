@@ -525,7 +525,7 @@ bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi.json, ScoopInstaller/Main, 1
-bucket/chiaki4deck.json, Calinou/scoop-games, 1
+bucket/chiaki-ng.json, Calinou/scoop-games, 1
 bucket/chipmunk.json, ScoopInstaller/Extras, 1
 bucket/chisel.json, ScoopInstaller/Main, 1
 bucket/chk.json, ScoopInstaller/Extras, 0
