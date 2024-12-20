@@ -27,7 +27,7 @@ $PSVersionTable.PSVersion.Major # should be >= 5.1
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 # 下载安装脚本到本地
-irm https://mirror.ghproxy.com/raw.githubusercontent.com/ScoopInstaller/Install/refs/heads/master/install.ps1 -outfile 'install.ps1'
+irm https://ghgo.xyz/raw.githubusercontent.com/ScoopInstaller/Install/refs/heads/master/install.ps1 -outfile 'install.ps1'
 
 # 自定义 Scoop 安装目录，以下是我的路径例子，你可以自己根据情况修改
 .\install.ps1 -ScoopDir 'D:\Apps\Scoop\ScoopApps' -ScoopGlobalDir 'D:\Apps\Scoop\ScoopApps-G' -NoProxy
@@ -37,7 +37,7 @@ scoop install 7zip git
 
 # Main Bucket 换镜像源
 scoop bucket rm main
-scoop bucket add main https://mirror.ghproxy.com/github.com/ScoopInstaller/Main
+scoop bucket add main https://ghgo.xyz/github.com/ScoopInstaller/Main
 ```
 
 ## 添加仓库
@@ -50,7 +50,7 @@ scoop bucket add main https://mirror.ghproxy.com/github.com/ScoopInstaller/Main
 1. 添加本仓库，运行命令
 
     ```powershell
-    scoop bucket add official https://mirror.ghproxy.com/github.com/cmontage/scoopbucket
+    scoop bucket add official https://ghgo.xyz/github.com/cmontage/scoopbucket
 
     # 如果需要移除本仓库
     scoop bucket rm official
