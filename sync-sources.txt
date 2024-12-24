@@ -2311,6 +2311,7 @@ bucket/lua52.json, ScoopInstaller/Versions, 0
 bucket/lua53.json, ScoopInstaller/Versions, 0
 bucket/luacheck.json, ScoopInstaller/Main, 1
 bucket/luajit.json, ScoopInstaller/Main, 0
+bucket/luanti.json, Calinou/scoop-games, 1
 bucket/luarocks.json, ScoopInstaller/Main, 0
 bucket/luau-lsp.json, ScoopInstaller/Main, 1
 bucket/luau.json, ScoopInstaller/Main, 1
@@ -2484,7 +2485,6 @@ bucket/mindforger.json, ScoopInstaller/Extras, 0
 bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/minecraft.json, Calinou/scoop-games, 0
-bucket/minetest.json, Calinou/scoop-games, 1
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
 bucket/mingit.json, ScoopInstaller/Main, 1
 bucket/mingw-mstorsjo-llvm-ucrt.json, ScoopInstaller/Main, 1
