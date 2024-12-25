@@ -696,6 +696,7 @@ bucket/cru.json, ScoopInstaller/Extras, 0
 bucket/cruft.json, ScoopInstaller/Extras, 0
 bucket/crunchy-cli.json, ScoopInstaller/Extras, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
+bucket/crystal.json, ScoopInstaller/Main, 1
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark.json, ScoopInstaller/Extras, 0
 bucket/csauto.json, Calinou/scoop-games, 1
@@ -3627,6 +3628,7 @@ bucket/poetry.json, ScoopInstaller/Main, 0
 bucket/polaris.json, ScoopInstaller/Main, 1
 bucket/polsedit.json, ScoopInstaller/Extras, 0
 bucket/pomotodo.json, ScoopInstaller/Extras, 0
+bucket/pomsky.json, ScoopInstaller/Main, 1
 bucket/popcorn-time.json, ScoopInstaller/Extras, 1
 bucket/poppler.json, ScoopInstaller/Main, 1
 bucket/poppler068.json, ScoopInstaller/Versions, 0
