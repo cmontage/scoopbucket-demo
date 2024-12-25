@@ -15,7 +15,7 @@ export const CONFIG = {
   tmpDir: path.resolve(rootDir, 'tmp'),
   // ghproxy: 'https://gh.api.99988866.xyz',
   //ghproxy: 'https://mirror.ghproxy.com',
-  ghproxy: 'ghgo.xyz',
+  ghproxy: 'https://ghgo.xyz',
   // ghproxy: 'https://www.ghproxy.cc',
   // ghproxy: 'https://ghps.cc',
   // ghproxy: 'https://ghproxy.net',
