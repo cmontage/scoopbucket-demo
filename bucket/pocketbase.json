@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "ghgo.xyz/https://github.com/pocketbase/pocketbase/releases/download/v0.23.12/pocketbase_0.23.12_windows_amd64.zip",
+      "url": "https://ghgo.xyz/https://github.com/pocketbase/pocketbase/releases/download/v0.23.12/pocketbase_0.23.12_windows_amd64.zip",
       "hash": "d0abc3d753582988f26d6d3db8ed0e9f17e579425c08aa04534b52161d88a3f4"
     },
     "arm64": {
-      "url": "ghgo.xyz/https://github.com/pocketbase/pocketbase/releases/download/v0.23.12/pocketbase_0.23.12_windows_arm64.zip",
+      "url": "https://ghgo.xyz/https://github.com/pocketbase/pocketbase/releases/download/v0.23.12/pocketbase_0.23.12_windows_arm64.zip",
       "hash": "b4855ec519a1ba3a2221a59983acf2ed0992c09790fa0f58dccc9947f5afba8c"
     }
   },
@@ -24,10 +24,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "ghgo.xyz/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_amd64.zip"
+        "url": "https://ghgo.xyz/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_amd64.zip"
       },
       "arm64": {
-        "url": "ghgo.xyz/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_arm64.zip"
+        "url": "https://ghgo.xyz/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_arm64.zip"
       }
     },
     "hash": {

@@ -6,7 +6,7 @@
   "suggest": {
     "Clink": "clink"
   },
-  "url": "ghgo.xyz/https://github.com/vladimir-kotikov/clink-completions/archive/v0.6.1.zip",
+  "url": "https://ghgo.xyz/https://github.com/vladimir-kotikov/clink-completions/archive/v0.6.1.zip",
   "hash": "58fa661cc834ed565e6e2b5971aef37377e77acbfd45e3c88dc162b6e7d3592d",
   "extract_dir": "clink-completions-0.6.1",
   "installer": {
@@ -27,7 +27,7 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "ghgo.xyz/https://github.com/vladimir-kotikov/clink-completions/archive/v$version.zip",
+    "url": "https://ghgo.xyz/https://github.com/vladimir-kotikov/clink-completions/archive/v$version.zip",
     "extract_dir": "clink-completions-$version"
   }
 }

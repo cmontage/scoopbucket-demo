@@ -5,7 +5,7 @@
   "license": "GPL-2.0-only",
   "architecture": {
     "64bit": {
-      "url": "ghgo.xyz/https://github.com/WerWolv/ImHex/releases/download/v1.36.0/imhex-1.36.0-Windows-Portable-x86_64.zip",
+      "url": "https://ghgo.xyz/https://github.com/WerWolv/ImHex/releases/download/v1.36.0/imhex-1.36.0-Windows-Portable-x86_64.zip",
       "hash": "34ae679d30e94f7a031331574d7eca6d5c737d33214bd0ed2c14625dc85e22d0"
     }
   },
@@ -25,7 +25,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "ghgo.xyz/https://github.com/WerWolv/ImHex/releases/download/v$version/imhex-$version-Windows-Portable-x86_64.zip"
+        "url": "https://ghgo.xyz/https://github.com/WerWolv/ImHex/releases/download/v$version/imhex-$version-Windows-Portable-x86_64.zip"
       }
     }
   }

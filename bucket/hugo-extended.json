@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "ghgo.xyz/https://github.com/gohugoio/hugo/releases/download/v0.140.1/hugo_extended_0.140.1_windows-amd64.zip",
+      "url": "https://ghgo.xyz/https://github.com/gohugoio/hugo/releases/download/v0.140.1/hugo_extended_0.140.1_windows-amd64.zip",
       "hash": "b72716e545dde784156c39206a50edbc804c2c6691636146071ac4f497dd42d0"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "ghgo.xyz/https://github.com/gohugoio/hugo/releases/download/v$version/hugo_extended_$version_windows-amd64.zip"
+        "url": "https://ghgo.xyz/https://github.com/gohugoio/hugo/releases/download/v$version/hugo_extended_$version_windows-amd64.zip"
       }
     },
     "hash": {

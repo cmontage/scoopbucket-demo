@@ -5,7 +5,7 @@
   "license": "EPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "ghgo.xyz/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.24.2/SchemaCrawler-16.24.2.msi",
+      "url": "https://ghgo.xyz/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v16.24.2/SchemaCrawler-16.24.2.msi",
       "hash": "b45521b931ca94ea6a2d1a8fa2daadb0cde5f69a0f2e2500b41d2a21bae280ee"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "ghgo.xyz/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v$version/SchemaCrawler-$version.msi",
+        "url": "https://ghgo.xyz/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v$version/SchemaCrawler-$version.msi",
         "hash": {
           "url": "$url.SHA256"
         }
