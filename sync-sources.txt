@@ -746,6 +746,7 @@ bucket/curl.json, ScoopInstaller/Main, 0
 bucket/curlie.json, ScoopInstaller/Main, 1
 bucket/currports.json, kodybrown/scoop-nirsoft, 0
 bucket/currprocess.json, kodybrown/scoop-nirsoft, 0
+bucket/cursor.json, ScoopInstaller/Extras, 0
 bucket/customexplorertoolbar.json, ScoopInstaller/Nirsoft, 0
 bucket/customizeie.json, kodybrown/scoop-nirsoft, 0
 bucket/cutter.json, ScoopInstaller/Extras, 1
@@ -4572,7 +4573,7 @@ bucket/sysexp.json, ScoopInstaller/Nirsoft, 0
 bucket/sysexporter.json, kodybrown/scoop-nirsoft, 0
 bucket/sysgauge.json, ScoopInstaller/Extras, 0
 bucket/sysinternals-suite.json, niheaven/scoop-sysinternals, 1
-bucket/sysinternals.json, ScoopInstaller/Extras, 0
+bucket/sysinternals.json, ScoopInstaller/Extras, 1
 bucket/sysmon.json, niheaven/scoop-sysinternals, 1
 bucket/systeminformer-nightly.json, ScoopInstaller/Versions, 1
 bucket/systools.json, ScoopInstaller/Nirsoft, 0
