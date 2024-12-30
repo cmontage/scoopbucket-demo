@@ -610,6 +610,7 @@ bucket/codeblocks.json, ScoopInstaller/Extras, 0
 bucket/codeowners-validator.json, ScoopInstaller/Main, 1
 bucket/codeql.json, ScoopInstaller/Main, 1
 bucket/coder.json, ScoopInstaller/Main, 1
+bucket/codesnap.json, ScoopInstaller/Extras, 1
 bucket/codetrack.json, ScoopInstaller/Extras, 0
 bucket/collapse-launcher.json, Calinou/scoop-games, 1
 bucket/colon.json, ScoopInstaller/Extras, 1
@@ -641,6 +642,7 @@ bucket/context-menu-manager.json, ScoopInstaller/Extras, 1
 bucket/contig.json, niheaven/scoop-sysinternals, 1
 bucket/contour.json, ScoopInstaller/Extras, 1
 bucket/controlmymonitor.json, ScoopInstaller/Nirsoft, 0
+bucket/controlprinters.json, ScoopInstaller/Extras, 1
 bucket/converseen.json, ScoopInstaller/Extras, 1
 bucket/convert.net.json, ScoopInstaller/Extras, 0
 bucket/cookiecutter.json, ScoopInstaller/Extras, 0
@@ -1138,6 +1140,7 @@ bucket/everything-lite.json, ScoopInstaller/Extras, 1
 bucket/everything-np.json, ScoopInstaller/Nonportable, 0
 bucket/everything-powertoys.json, ScoopInstaller/Extras, 1
 bucket/everything.json, ScoopInstaller/Extras, 1
+bucket/everythingtoolbar.json, ScoopInstaller/Extras, 1
 bucket/exaile.json, ScoopInstaller/Extras, 1
 bucket/exe-explorer.json, ScoopInstaller/Extras, 0
 bucket/executedprogramslist.json, ScoopInstaller/Nirsoft, 0
@@ -1460,7 +1463,7 @@ bucket/github-beta.json, ScoopInstaller/Versions, 0
 bucket/github.json, ScoopInstaller/Extras, 0
 bucket/gitify.json, ScoopInstaller/Extras, 1
 bucket/gitignore.json, ScoopInstaller/Main, 1
-bucket/gitkraken.json, ScoopInstaller/Extras, 0
+bucket/gitkraken.json, ScoopInstaller/Extras, 1
 bucket/gitkube.json, ScoopInstaller/Main, 1
 bucket/gitlab-release-cli.json, ScoopInstaller/Main, 0
 bucket/gitlab-runner.json, ScoopInstaller/Main, 0
@@ -5308,7 +5311,7 @@ bucket/xmousebuttoncontrol.json, ScoopInstaller/Extras, 0
 bucket/xmplay-stuff.json, ScoopInstaller/Versions, 0
 bucket/xmplay.json, ScoopInstaller/Extras, 0
 bucket/xmrig.json, ScoopInstaller/Extras, 1
-bucket/xnconvert.json, ScoopInstaller/Extras, 0
+bucket/xnconvert.json, ScoopInstaller/Extras, 1
 bucket/xnresize.json, ScoopInstaller/Extras, 0
 bucket/xnview.json, ScoopInstaller/Extras, 0
 bucket/xnviewmp.json, ScoopInstaller/Extras, 0
@@ -5487,6 +5490,8 @@ scripts/git/install-context.reg, ScoopInstaller/Main, 0
 scripts/git/install-file-associations.reg, ScoopInstaller/Main, 0
 scripts/git/uninstall-context.reg, ScoopInstaller/Main, 0
 scripts/git/uninstall-file-associations.reg, ScoopInstaller/Main, 0
+scripts/gitkraken/install-context.reg, ScoopInstaller/Extras, 0
+scripts/gitkraken/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/grepwin/install-context.reg, ScoopInstaller/Extras, 0
 scripts/grepwin/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/harmonoid/install-harmonoid-associations.ps1, ScoopInstaller/Extras, 0
@@ -5498,6 +5503,12 @@ scripts/install-office-365-apps.xml, ScoopInstaller/Nonportable, 0
 scripts/jetbrains/portable.ps1, ScoopInstaller/Extras, 0
 scripts/lockhunter/install-context.reg, ScoopInstaller/Extras, 0
 scripts/lockhunter/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/losslesscut/install-associations.reg, ScoopInstaller/Extras, 0
+scripts/losslesscut/uninstall-associations.reg, ScoopInstaller/Extras, 0
+scripts/mp3tag/install-mp3tag-context.cmd, ScoopInstaller/Extras, 0
+scripts/mp3tag/uninstall-mp3tag-context.cmd, ScoopInstaller/Extras, 0
+scripts/neovide/install-context.reg, ScoopInstaller/Extras, 0
+scripts/neovide/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/notepad3/install-context.reg, ScoopInstaller/Extras, 0
 scripts/notepad3/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/notepadplusplus/install-context.reg, ScoopInstaller/Extras, 0
@@ -5550,9 +5561,13 @@ scripts/vim/install-context.reg, ScoopInstaller/Main, 0
 scripts/vim/uninstall-context.reg, ScoopInstaller/Main, 0
 scripts/vscode/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/vscode/install-context.reg, ScoopInstaller/Extras, 0
+scripts/vscode/install-github-integration.reg, ScoopInstaller/Extras, 0
 scripts/vscode/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/vscode/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/vscode/uninstall-github-integration.reg, ScoopInstaller/Extras, 0
 scripts/vulkan/install-vk-layers.ps1, ScoopInstaller/Main, 0
+scripts/wezterm/install-context.reg, ScoopInstaller/Extras, 0
+scripts/wezterm/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/windows-terminal-preview/install-context.reg, ScoopInstaller/Versions, 0
 scripts/windows-terminal-preview/uninstall-context.reg, ScoopInstaller/Versions, 0
 scripts/windows-terminal/install-context.reg, ScoopInstaller/Extras, 0
