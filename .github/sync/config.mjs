@@ -10,7 +10,7 @@ export const CONFIG = {
   rootDir,
   debug,
   isCI,
-  /** 是否忽略 manifest JSON 解析失败的应用 */
+  /** 是否忽略 manifest JSON 解析失败的应用  */
   ignoreParseFailed: true,
   tmpDir: path.resolve(rootDir, 'tmp'),
   // ghproxy: 'https://gh.api.99988866.xyz',
