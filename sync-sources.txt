@@ -1302,7 +1302,7 @@ bucket/foobar2000-encoders.json, ScoopInstaller/Extras, 0
 bucket/foobar2000.json, ScoopInstaller/Extras, 0
 bucket/force.json, ScoopInstaller/Main, 1
 bucket/forcebindip.json, ScoopInstaller/Main, 0
-bucket/fork.json, ScoopInstaller/Extras, 0
+bucket/fork.json, ScoopInstaller/Extras, 1
 bucket/forkgram.json, ScoopInstaller/Extras, 1
 bucket/format-factory.json, ScoopInstaller/Extras, 0
 bucket/fossa.json, ScoopInstaller/Main, 1
@@ -5485,6 +5485,8 @@ scripts/eartrumpet/add-startup.reg, ScoopInstaller/Extras, 0
 scripts/eartrumpet/remove-startup.reg, ScoopInstaller/Extras, 0
 scripts/everything/install-context.reg, ScoopInstaller/Extras, 0
 scripts/everything/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/fork/install-context.reg, ScoopInstaller/Extras, 0
+scripts/fork/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/gimp/default.env, ScoopInstaller/Extras, 0
 scripts/git/install-context.reg, ScoopInstaller/Main, 0
 scripts/git/install-file-associations.reg, ScoopInstaller/Main, 0
