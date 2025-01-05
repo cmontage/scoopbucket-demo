@@ -1021,6 +1021,7 @@ bucket/dxirc.json, ScoopInstaller/Extras, 0
 bucket/dxvk.json, Calinou/scoop-games, 1
 bucket/dxwnd.json, ScoopInstaller/Extras, 0
 bucket/dxwrapper.json, Calinou/scoop-games, 1
+bucket/dyff.json, ScoopInstaller/Main, 1
 bucket/dynamorio.json, ScoopInstaller/Main, 1
 bucket/eac.json, ScoopInstaller/Extras, 0
 bucket/eac3to.json, ScoopInstaller/Main, 0
