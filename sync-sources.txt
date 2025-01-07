@@ -1672,6 +1672,7 @@ bucket/handlecountersview.json, ScoopInstaller/Nirsoft, 0
 bucket/harfbuzz.json, ScoopInstaller/Main, 1
 bucket/harmonoid.json, ScoopInstaller/Extras, 1
 bucket/harmony.json, ScoopInstaller/Extras, 1
+bucket/harper.json, ScoopInstaller/Main, 1
 bucket/hashcat.json, ScoopInstaller/Main, 0
 bucket/hashcheck.json, ScoopInstaller/Extras, 1
 bucket/hasher.json, ScoopInstaller/Extras, 0
@@ -3832,7 +3833,7 @@ bucket/qmk-toolbox.json, ScoopInstaller/Extras, 1
 bucket/qmplay2.json, ScoopInstaller/Extras, 1
 bucket/qnapi.json, ScoopInstaller/Extras, 1
 bucket/qownnotes.json, ScoopInstaller/Extras, 1
-bucket/qpdf.json, ScoopInstaller/Main, 0
+bucket/qpdf.json, ScoopInstaller/Main, 1
 bucket/qq-nt.json, ScoopInstaller/Extras, 0
 bucket/qq.json, ScoopInstaller/Extras, 0
 bucket/qr.json, ScoopInstaller/Main, 1
@@ -5076,6 +5077,7 @@ bucket/wcurl.json, ScoopInstaller/Main, 1
 bucket/weakauras-companion.json, Calinou/scoop-games, 1
 bucket/wealthfolio.json, ScoopInstaller/Extras, 1
 bucket/weasel-pageant.json, ScoopInstaller/Extras, 1
+bucket/weasyprint.json, ScoopInstaller/Main, 1
 bucket/webbrowserbookmarksview.json, ScoopInstaller/Nirsoft, 0
 bucket/webbrowserpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/webcacheimageinfo.json, ScoopInstaller/Nirsoft, 0
