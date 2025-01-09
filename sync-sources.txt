@@ -857,6 +857,7 @@ bucket/dhcp-server.json, ScoopInstaller/Extras, 0
 bucket/dia.json, ScoopInstaller/Extras, 0
 bucket/diagram-designer.json, ScoopInstaller/Extras, 0
 bucket/dialupass.json, ScoopInstaller/Nirsoft, 0
+bucket/didder.json, ScoopInstaller/Extras, 1
 bucket/diff-pdf.json, ScoopInstaller/Extras, 1
 bucket/diff-so-fancy.json, ScoopInstaller/Main, 1
 bucket/diffinity.json, ScoopInstaller/Extras, 0
@@ -1032,6 +1033,7 @@ bucket/easy-context-menu.json, ScoopInstaller/Extras, 0
 bucket/easyrpg-player.json, Calinou/scoop-games, 0
 bucket/easyrsa.json, ScoopInstaller/Extras, 1
 bucket/easyserviceoptimizer.json, ScoopInstaller/Extras, 0
+bucket/easytier.json, ScoopInstaller/Extras, 1
 bucket/ec2-api-tools.json, ScoopInstaller/Extras, 0
 bucket/echoargs.json, ScoopInstaller/Extras, 1
 bucket/eclipse-android.json, ScoopInstaller/Extras, 0
@@ -2060,6 +2062,7 @@ bucket/kiwi-for-gmail.json, ScoopInstaller/Extras, 0
 bucket/kiwix.json, ScoopInstaller/Extras, 0
 bucket/klatexformula.json, ScoopInstaller/Extras, 0
 bucket/klogg.json, ScoopInstaller/Extras, 1
+bucket/kmeans-colors.json, ScoopInstaller/Extras, 1
 bucket/knative.json, ScoopInstaller/Main, 1
 bucket/knime.json, ScoopInstaller/Extras, 1
 bucket/ko.json, ScoopInstaller/Main, 1
@@ -2867,6 +2870,7 @@ bucket/octosql.json, ScoopInstaller/Main, 1
 bucket/oculante.json, ScoopInstaller/Extras, 1
 bucket/odamex.json, Calinou/scoop-games, 0
 bucket/odbc2parquet.json, ScoopInstaller/Main, 1
+bucket/odict.json, ScoopInstaller/Extras, 1
 bucket/odin-dev.json, ScoopInstaller/Versions, 1
 bucket/odin-nightly.json, ScoopInstaller/Versions, 0
 bucket/odin.json, ScoopInstaller/Versions, 1
@@ -2931,6 +2935,7 @@ bucket/oneget.json, ScoopInstaller/Versions, 0
 bucket/oni.json, ScoopInstaller/Extras, 1
 bucket/onionshare.json, ScoopInstaller/Extras, 1
 bucket/onlyoffice-desktopeditors.json, ScoopInstaller/Extras, 1
+bucket/onthespot.json, ScoopInstaller/Extras, 1
 bucket/ontopreplica.json, ScoopInstaller/Extras, 1
 bucket/opa.json, ScoopInstaller/Main, 1
 bucket/opam.json, ScoopInstaller/Main, 1
@@ -3031,12 +3036,16 @@ bucket/optipng.json, ScoopInstaller/Main, 0
 bucket/opus-tools.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-odbc.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-odbc19.json, ScoopInstaller/Versions, 0
+bucket/oracle-instant-client-odbc21.json, ScoopInstaller/Versions, 0
 bucket/oracle-instant-client-sdk.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-sdk19.json, ScoopInstaller/Versions, 0
+bucket/oracle-instant-client-sdk21.json, ScoopInstaller/Versions, 0
 bucket/oracle-instant-client-sqlplus.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-sqlplus19.json, ScoopInstaller/Versions, 0
+bucket/oracle-instant-client-sqlplus21.json, ScoopInstaller/Versions, 0
 bucket/oracle-instant-client.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client19.json, ScoopInstaller/Versions, 0
+bucket/oracle-instant-client21.json, ScoopInstaller/Versions, 0
 bucket/oraclejdk-lts.json, ScoopInstaller/Java, 0
 bucket/oraclejdk.json, ScoopInstaller/Java, 0
 bucket/oraclejre8.json, ScoopInstaller/Java, 0
@@ -4677,6 +4686,7 @@ bucket/teracopy-np.json, ScoopInstaller/Nonportable, 0
 bucket/teraterm.json, ScoopInstaller/Extras, 1
 bucket/tere.json, ScoopInstaller/Main, 1
 bucket/terminal-icons.json, ScoopInstaller/Extras, 0
+bucket/terminal-parrot.json, ScoopInstaller/Extras, 1
 bucket/terminalpp.json, ScoopInstaller/Extras, 1
 bucket/terminals.json, ScoopInstaller/Extras, 1
 bucket/termius.json, ScoopInstaller/Extras, 0
