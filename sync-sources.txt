@@ -4108,7 +4108,6 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
-bucket/ryujinx-ava.json, Calinou/scoop-games, 1
 bucket/ryujinx.json, Calinou/scoop-games, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
 bucket/ryzenadj.json, ScoopInstaller/Main, 1
@@ -4859,6 +4858,7 @@ bucket/typora.json, ScoopInstaller/Extras, 0
 bucket/typora0.11.18.json, ScoopInstaller/Versions, 0
 bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
+bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
 bucket/ubports-installer.json, ScoopInstaller/Extras, 1
