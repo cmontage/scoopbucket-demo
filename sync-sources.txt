@@ -321,6 +321,7 @@ bucket/better-joy.json, ScoopInstaller/Extras, 1
 bucket/betterbird.json, ScoopInstaller/Extras, 0
 bucket/betterjoy.json, Calinou/scoop-games, 1
 bucket/beyondcompare.json, ScoopInstaller/Extras, 1
+bucket/beyondcompare4.json, ScoopInstaller/Versions, 0
 bucket/bfg.json, ScoopInstaller/Main, 0
 bucket/bflat.json, ScoopInstaller/Main, 1
 bucket/bforartists.json, ScoopInstaller/Extras, 0
@@ -5493,6 +5494,9 @@ scripts/alacritty/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/beyondcompare/install-context-32bit.reg, ScoopInstaller/Extras, 0
 scripts/beyondcompare/install-context-64bit.reg, ScoopInstaller/Extras, 0
 scripts/beyondcompare/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/beyondcompare4/install-context-32bit.reg, ScoopInstaller/Versions, 0
+scripts/beyondcompare4/install-context-64bit.reg, ScoopInstaller/Versions, 0
+scripts/beyondcompare4/uninstall-context.reg, ScoopInstaller/Versions, 0
 scripts/coretemp/download-language-packs.ps1, ScoopInstaller/Extras, 0
 scripts/eartrumpet/add-startup.reg, ScoopInstaller/Extras, 0
 scripts/eartrumpet/remove-startup.reg, ScoopInstaller/Extras, 0
