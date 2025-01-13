@@ -3733,6 +3733,7 @@ bucket/protege.json, ScoopInstaller/Extras, 1
 bucket/protobuf.json, ScoopInstaller/Extras, 1
 bucket/protoc-gen-grpc-web.json, ScoopInstaller/Main, 1
 bucket/protolint.json, ScoopInstaller/Main, 1
+bucket/proton-mail-export.json, ScoopInstaller/Extras, 1
 bucket/protonmail-bridge.json, ScoopInstaller/Extras, 1
 bucket/protonvpn-np.json, ScoopInstaller/Nonportable, 0
 bucket/prowiz.json, ScoopInstaller/Main, 0
