@@ -2525,6 +2525,7 @@ bucket/minishift.json, ScoopInstaller/Main, 1
 bucket/minisign.json, ScoopInstaller/Main, 1
 bucket/minutor.json, Calinou/scoop-games, 1
 bucket/miru.json, ScoopInstaller/Extras, 1
+bucket/mise.json, ScoopInstaller/Main, 1
 bucket/mission-planner.json, ScoopInstaller/Extras, 1
 bucket/mist.json, ScoopInstaller/Extras, 1
 bucket/mitmproxy.json, ScoopInstaller/Extras, 0
