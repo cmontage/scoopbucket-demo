@@ -320,7 +320,7 @@ bucket/betaflight-configurator.json, ScoopInstaller/Extras, 1
 bucket/better-joy.json, ScoopInstaller/Extras, 1
 bucket/betterbird.json, ScoopInstaller/Extras, 0
 bucket/betterjoy.json, Calinou/scoop-games, 1
-bucket/beyondcompare.json, ScoopInstaller/Extras, 1
+bucket/beyondcompare.json, ScoopInstaller/Extras, 0
 bucket/beyondcompare4.json, ScoopInstaller/Versions, 0
 bucket/bfg.json, ScoopInstaller/Main, 0
 bucket/bflat.json, ScoopInstaller/Main, 1
@@ -2944,6 +2944,7 @@ bucket/opam.json, ScoopInstaller/Main, 1
 bucket/opdessertstorm.json, Calinou/scoop-games, 0
 bucket/open-log-viewer.json, ScoopInstaller/Extras, 1
 bucket/open-shell-np.json, ScoopInstaller/Nonportable, 1
+bucket/open-tv.json, ScoopInstaller/Extras, 1
 bucket/openai-translator.json, ScoopInstaller/Extras, 1
 bucket/openapi-generator-cli.json, ScoopInstaller/Main, 0
 bucket/openarena.json, Calinou/scoop-games, 0
@@ -5493,9 +5494,6 @@ scripts/ModifyPSProfile.psm1, ScoopInstaller/Extras, 0
 scripts/_deprecated/flutter-dev-setup.ps1, ScoopInstaller/Extras, 0
 scripts/alacritty/install-context.reg, ScoopInstaller/Extras, 0
 scripts/alacritty/uninstall-context.reg, ScoopInstaller/Extras, 0
-scripts/beyondcompare/install-context-32bit.reg, ScoopInstaller/Extras, 0
-scripts/beyondcompare/install-context-64bit.reg, ScoopInstaller/Extras, 0
-scripts/beyondcompare/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/beyondcompare4/install-context-32bit.reg, ScoopInstaller/Versions, 0
 scripts/beyondcompare4/install-context-64bit.reg, ScoopInstaller/Versions, 0
 scripts/beyondcompare4/uninstall-context.reg, ScoopInstaller/Versions, 0
