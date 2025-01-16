@@ -5352,6 +5352,7 @@ bucket/y-cruncher.json, ScoopInstaller/Main, 0
 bucket/yacreader.json, ScoopInstaller/Extras, 1
 bucket/yaffplayer.json, ScoopInstaller/Extras, 0
 bucket/yakyak.json, ScoopInstaller/Extras, 1
+bucket/yamlfmt.json, ScoopInstaller/Main, 1
 bucket/yapa.json, ScoopInstaller/Extras, 1
 bucket/yapa2.json, ScoopInstaller/Extras, 1
 bucket/yara.json, ScoopInstaller/Main, 1
