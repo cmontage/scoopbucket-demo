@@ -3120,6 +3120,7 @@ bucket/patchcleaner.json, ScoopInstaller/Extras, 0
 bucket/patheditor.json, ScoopInstaller/Extras, 1
 bucket/pathod.json, ScoopInstaller/Extras, 0
 bucket/pathofbuilding-community.json, Calinou/scoop-games, 1
+bucket/pathofbuilding-poe2-community.json, Calinou/scoop-games, 1
 bucket/pathofbuilding.json, Calinou/scoop-games, 1
 bucket/pcem.json, ScoopInstaller/Extras, 0
 bucket/pci-z.json, ScoopInstaller/Extras, 0
