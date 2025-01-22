@@ -369,6 +369,7 @@ bucket/bluestacks4-hyperv-np.json, ScoopInstaller/Nonportable, 0
 bucket/bluestacks4-np.json, ScoopInstaller/Nonportable, 0
 bucket/bluetooth-cli-tools.json, ScoopInstaller/Extras, 0
 bucket/bluetoothcl.json, ScoopInstaller/Nirsoft, 0
+bucket/bluetoothleview.json, ScoopInstaller/Nirsoft, 0
 bucket/bluetoothlogview.json, ScoopInstaller/Nirsoft, 0
 bucket/bluetoothview.json, ScoopInstaller/Nirsoft, 0
 bucket/blush.json, ScoopInstaller/Extras, 1
@@ -4649,6 +4650,7 @@ bucket/telegraf.json, ScoopInstaller/Main, 0
 bucket/telegram-downloader.json, ScoopInstaller/Extras, 1
 bucket/telegram.json, ScoopInstaller/Extras, 1
 bucket/teleport.json, ScoopInstaller/Main, 0
+bucket/television.json, ScoopInstaller/Extras, 1
 bucket/telnet.json, ScoopInstaller/Main, 0
 bucket/temporal-cli.json, ScoopInstaller/Main, 1
 bucket/temurin-jdk.json, ScoopInstaller/Java, 1
