@@ -1031,6 +1031,7 @@ bucket/eac3to.json, ScoopInstaller/Main, 0
 bucket/eagleget.json, ScoopInstaller/Extras, 1
 bucket/earthly.json, ScoopInstaller/Main, 1
 bucket/eartrumpet.json, ScoopInstaller/Extras, 1
+bucket/eask-cli.json, ScoopInstaller/Extras, 1
 bucket/easy-context-menu.json, ScoopInstaller/Extras, 0
 bucket/easyrpg-player.json, Calinou/scoop-games, 0
 bucket/easyrsa.json, ScoopInstaller/Extras, 1
