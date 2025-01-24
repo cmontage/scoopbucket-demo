@@ -1998,6 +1998,7 @@ bucket/k9s.json, ScoopInstaller/Main, 1
 bucket/kaf.json, ScoopInstaller/Main, 1
 bucket/kafka-exporter.json, ScoopInstaller/Main, 1
 bucket/kafka.json, ScoopInstaller/Main, 0
+bucket/kafkio.json, ScoopInstaller/Extras, 0
 bucket/kakaotalk.json, ScoopInstaller/Extras, 0
 bucket/kalk.json, ScoopInstaller/Main, 1
 bucket/kalker.json, ScoopInstaller/Main, 1
