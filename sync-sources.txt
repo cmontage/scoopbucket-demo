@@ -2449,6 +2449,8 @@ bucket/memreduct.json, ScoopInstaller/Extras, 1
 bucket/mendeley.json, ScoopInstaller/Extras, 0
 bucket/meow.json, ScoopInstaller/Extras, 1
 bucket/mercurial.json, ScoopInstaller/Main, 0
+bucket/mesa3d-mingw.json, Calinou/scoop-games, 1
+bucket/mesa3d.json, Calinou/scoop-games, 1
 bucket/mesen-s.json, Calinou/scoop-games, 1
 bucket/mesen.json, Calinou/scoop-games, 1
 bucket/meshlab.json, ScoopInstaller/Extras, 1
@@ -4581,6 +4583,7 @@ bucket/sync.json, niheaven/scoop-sysinternals, 1
 bucket/syncany-cli.json, ScoopInstaller/Main, 0
 bucket/syncback.json, ScoopInstaller/Extras, 0
 bucket/syncbackpro.json, ScoopInstaller/Extras, 0
+bucket/syncmlviewer.json, ScoopInstaller/Extras, 1
 bucket/syncplay-beta.json, ScoopInstaller/Versions, 1
 bucket/syncplay.json, ScoopInstaller/Extras, 1
 bucket/syncthing.json, ScoopInstaller/Main, 1
