@@ -1444,6 +1444,7 @@ bucket/git-cliff.json, ScoopInstaller/Main, 1
 bucket/git-credential-manager.json, ScoopInstaller/Extras, 1
 bucket/git-crypt.json, ScoopInstaller/Main, 1
 bucket/git-filter-repo.json, ScoopInstaller/Main, 1
+bucket/git-graph.json, ScoopInstaller/Extras, 1
 bucket/git-interactive-rebase-tool.json, ScoopInstaller/Main, 1
 bucket/git-istage.json, ScoopInstaller/Main, 0
 bucket/git-lfs.json, ScoopInstaller/Main, 1
@@ -1795,6 +1796,7 @@ bucket/idea-ultimate-eap.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-rc.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate.json, ScoopInstaller/Extras, 1
 bucket/idea.json, ScoopInstaller/Extras, 1
+bucket/identme.json, ScoopInstaller/Extras, 1
 bucket/idlemaster-extended.json, Calinou/scoop-games, 1
 bucket/idris.json, ScoopInstaller/Main, 0
 bucket/ie11webdriver.json, ScoopInstaller/Main, 1
@@ -2704,6 +2706,7 @@ bucket/neo-cowsay.json, ScoopInstaller/Main, 1
 bucket/neoaxis-engine.json, ScoopInstaller/Extras, 0
 bucket/neochat-nightly.json, ScoopInstaller/Versions, 0
 bucket/neofetch.json, ScoopInstaller/Main, 1
+bucket/neohtop.json, ScoopInstaller/Extras, 1
 bucket/neoray.json, ScoopInstaller/Extras, 1
 bucket/neovide-dev.json, ScoopInstaller/Versions, 1
 bucket/neovide.json, ScoopInstaller/Extras, 1
@@ -5372,6 +5375,7 @@ bucket/yazi.json, ScoopInstaller/Main, 1
 bucket/ydl-ui.json, ScoopInstaller/Extras, 1
 bucket/yed.json, ScoopInstaller/Extras, 0
 bucket/yedit.json, ScoopInstaller/Main, 0
+bucket/yek.json, ScoopInstaller/Extras, 1
 bucket/yesplaymusic.json, ScoopInstaller/Extras, 1
 bucket/yori.json, ScoopInstaller/Main, 0
 bucket/yosys.json, ScoopInstaller/Main, 0
@@ -5533,8 +5537,6 @@ scripts/lockhunter/install-context.reg, ScoopInstaller/Extras, 0
 scripts/lockhunter/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/losslesscut/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/losslesscut/uninstall-associations.reg, ScoopInstaller/Extras, 0
-scripts/mp3tag/install-mp3tag-context.cmd, ScoopInstaller/Extras, 0
-scripts/mp3tag/uninstall-mp3tag-context.cmd, ScoopInstaller/Extras, 0
 scripts/neovide/install-context.reg, ScoopInstaller/Extras, 0
 scripts/neovide/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/notepad3/install-context.reg, ScoopInstaller/Extras, 0
