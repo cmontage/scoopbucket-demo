@@ -670,6 +670,8 @@ bucket/corretto18-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto19-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto20-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto21-jdk.json, ScoopInstaller/Java, 0
+bucket/corretto22-jdk.json, ScoopInstaller/Java, 0
+bucket/corretto23-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/cosign.json, ScoopInstaller/Main, 1
