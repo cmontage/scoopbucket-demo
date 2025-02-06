@@ -2969,6 +2969,7 @@ bucket/openelement.json, ScoopInstaller/Extras, 0
 bucket/openface.json, ScoopInstaller/Extras, 1
 bucket/openfga.json, ScoopInstaller/Main, 1
 bucket/openfortress.json, Calinou/scoop-games, 0
+bucket/openfreebuds.json, ScoopInstaller/Extras, 0
 bucket/openhab.json, ScoopInstaller/Extras, 0
 bucket/openhardwaremonitor.json, ScoopInstaller/Extras, 0
 bucket/openhashtab-np.json, ScoopInstaller/Nonportable, 1
@@ -3833,6 +3834,7 @@ bucket/python27.json, ScoopInstaller/Versions, 0
 bucket/python310.json, ScoopInstaller/Versions, 1
 bucket/python311.json, ScoopInstaller/Versions, 1
 bucket/python312.json, ScoopInstaller/Versions, 1
+bucket/python313.json, ScoopInstaller/Versions, 1
 bucket/python35.json, ScoopInstaller/Versions, 1
 bucket/python36.json, ScoopInstaller/Versions, 1
 bucket/python37.json, ScoopInstaller/Versions, 1
