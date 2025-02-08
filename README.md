@@ -34,10 +34,6 @@ irm http://gcore.jsdelivr.net/gh/ScoopInstaller/Install@master/install.ps1 -outf
 
 # 下载 7zip git，因为我们之后要添加 Bucket，必须有git
 scoop install 7zip git
-
-# Main Bucket 换镜像源
-scoop bucket rm main
-scoop bucket add main https://ghgo.xyz/github.com/ScoopInstaller/Main
 ```
 
 ## 添加仓库
