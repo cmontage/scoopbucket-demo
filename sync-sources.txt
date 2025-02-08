@@ -1469,7 +1469,7 @@ bucket/gitea-beta.json, ScoopInstaller/Versions, 1
 bucket/gitea.json, ScoopInstaller/Main, 0
 bucket/gitextensions.json, ScoopInstaller/Extras, 1
 bucket/github-beta.json, ScoopInstaller/Versions, 0
-bucket/github.json, ScoopInstaller/Extras, 0
+bucket/github.json, ScoopInstaller/Extras, 1
 bucket/gitify.json, ScoopInstaller/Extras, 1
 bucket/gitignore.json, ScoopInstaller/Main, 1
 bucket/gitkraken.json, ScoopInstaller/Extras, 1
@@ -2700,7 +2700,7 @@ bucket/nconvert.json, ScoopInstaller/Main, 0
 bucket/ncspot.json, ScoopInstaller/Main, 1
 bucket/ndm.json, ScoopInstaller/Extras, 1
 bucket/neatdownloadmanager.json, ScoopInstaller/Extras, 0
-bucket/neeview.json, ScoopInstaller/Extras, 0
+bucket/neeview.json, ScoopInstaller/Extras, 1
 bucket/nefcon.json, ScoopInstaller/Extras, 1
 bucket/neko.json, ScoopInstaller/Main, 1
 bucket/nekoray.json, ScoopInstaller/Extras, 1
