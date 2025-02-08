@@ -46,7 +46,7 @@ scoop install 7zip git
 1. 添加本仓库，运行命令
 
     ```powershell
-    scoop bucket add official https://ghgo.xyz/github.com/cmontage/scoopbucket
+    scoop bucket add official https://github.com/cmontage/scoopbucket
 
     # 如果需要移除本仓库
     scoop bucket rm official
