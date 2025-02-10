@@ -1,0 +1,26 @@
+{
+  "version": "1.46",
+  "description": "A small encryption tool with a focus on security, simplicity, and reliability.",
+  "homepage": "https://github.com/Picocrypt/Picocrypt",
+  "license": "GPL-3.0-or-later",
+  "architecture": {
+    "64bit": {
+      "url": "undefined/https://github.com/Picocrypt/Picocrypt/releases/download/1.46/Picocrypt.exe",
+      "hash": "7444e4c49d5e83843ee258b6badff305deb34015b8de3759eaf79b8e2159de76"
+    }
+  },
+  "shortcuts": [
+    [
+      "Picocrypt.exe",
+      "Picocrypt"
+    ]
+  ],
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "undefined/https://github.com/Picocrypt/Picocrypt/releases/download/$version/Picocrypt.exe"
+      }
+    }
+  }
+}

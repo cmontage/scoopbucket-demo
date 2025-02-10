@@ -1,0 +1,37 @@
+{
+  "version": "8.1.6",
+  "description": "Visualizer for deep learning and machine learning models",
+  "homepage": "https://netron.app/",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "undefined/https://github.com/lutzroeder/netron/releases/download/v8.1.6/Netron-Setup-8.1.6.exe#/dl.7z",
+      "hash": "sha512:123b6646ee16cc74e628e2e939fd7129eebe49d03710897724b5bf0dfdc6fc645185d1825843fc186e381fab73921972c78076769bfa966f4d82aa65235580e8",
+      "pre_install": [
+        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+        "Remove-Item \"$dir\\`$*\" -Force -Recurse"
+      ]
+    }
+  },
+  "bin": "Netron.exe",
+  "shortcuts": [
+    [
+      "Netron.exe",
+      "Netron"
+    ]
+  ],
+  "checkver": {
+    "github": "https://github.com/lutzroeder/netron"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "undefined/https://github.com/lutzroeder/netron/releases/download/v$version/Netron-Setup-$version.exe#/dl.7z",
+        "hash": {
+          "url": "$baseurl/latest.yml",
+          "regex": "sha512:\\s+$base64"
+        }
+      }
+    }
+  }
+}

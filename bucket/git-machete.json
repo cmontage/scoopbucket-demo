@@ -1,0 +1,29 @@
+{
+  "version": "3.32.1",
+  "description": "Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen",
+  "homepage": "https://github.com/VirtusLab/git-machete",
+  "license": "MIT",
+  "depends": "python",
+  "url": "https://files.pythonhosted.org/packages/py3/g/git-machete/git_machete-3.32.1-py3-none-any.whl",
+  "hash": "5a16ef45215c954d665e8feadec0ee8be4e9730cbcec691d49a1bafab70c02c8",
+  "installer": {
+    "script": [
+      "Push-Location \"$dir\"",
+      "python -m venv git-machete",
+      ".\\git-machete\\Scripts\\activate",
+      "try {",
+      "    python -m pip install \"$fname\"",
+      "}",
+      "finally {",
+      "    Remove-Item \"$fname\"",
+      "    deactivate",
+      "    Pop-Location",
+      "}"
+    ]
+  },
+  "bin": "git-machete\\Scripts\\git-machete.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://files.pythonhosted.org/packages/py3/g/git-machete/git_machete-$version-py3-none-any.whl"
+  }
+}

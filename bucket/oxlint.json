@@ -1,0 +1,32 @@
+{
+  "version": "0.15.10",
+  "description": "A collection of JavaScript tools written in Rust.",
+  "homepage": "https://github.com/oxc-project/oxc",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "undefined/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.15.10/oxlint-win32-x64.zip",
+      "hash": "9ab605693539f12d8bc51b0ee4be188663cceaf07720b15e5ef87ba4cb92a79a"
+    },
+    "arm64": {
+      "url": "undefined/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.15.10/oxlint-win32-arm64.zip",
+      "hash": "80fe1ebc3cbcc9e05557eea555ea4cc7484ef5f63c9cf4b7d417d994d7bdbc9c"
+    }
+  },
+  "pre_install": "Rename-Item \"$dir\\oxlint-*.exe\" \"$dir\\oxlint.exe\"",
+  "bin": "oxlint.exe",
+  "checkver": {
+    "url": "https://api.github.com/repositories/599431918/releases",
+    "regex": "tag/oxlint_v([\\d.]+)"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "undefined/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-x64.zip"
+      },
+      "arm64": {
+        "url": "undefined/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-arm64.zip"
+      }
+    }
+  }
+}

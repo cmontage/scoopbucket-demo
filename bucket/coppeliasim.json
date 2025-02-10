@@ -1,0 +1,37 @@
+{
+  "version": "4.9.0_rev2",
+  "description": "Create, compose and simulate any robot.",
+  "homepage": "https://www.coppeliarobotics.com",
+  "license": {
+    "identifier": "CoppeliaSim Educational License",
+    "url": "https://manual.coppeliarobotics.com/en/licensing.htm"
+  },
+  "suggest": {
+    "vcredist": "extras/vcredist2022"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://downloads.coppeliarobotics.com/V4_9_0_rev2/CoppeliaSim_Edu_V4_9_0_rev2_Win.zip",
+      "hash": "283b12d59c05ce18e968c1eae50160d24c3633fa5f19a68e029717ba62224f97"
+    }
+  },
+  "bin": "coppeliaSim.exe",
+  "shortcuts": [
+    [
+      "coppeliaSim.exe",
+      "CoppeliaSim Edu"
+    ]
+  ],
+  "checkver": {
+    "url": "https://www.coppeliarobotics.com/downloads?flavor=edu&platform=win-x86_64-zip",
+    "regex": "CoppeliaSim_Edu_V(\\d+)_(\\d+)_(\\d+)?(_rev[\\d]+)?_?Win\\.zip",
+    "replace": "${1}.${2}.${3}${4}"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://downloads.coppeliarobotics.com/V$underscoreVersion/CoppeliaSim_Edu_V$underscoreVersion_Win.zip"
+      }
+    }
+  }
+}

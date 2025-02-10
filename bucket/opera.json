@@ -1,0 +1,62 @@
+{
+  "version": "116.0.5366.71",
+  "description": "Fast, secure, easy-to-use browser.",
+  "homepage": "https://www.opera.com/",
+  "license": {
+    "identifier": "Freeware",
+    "url": "https://www.opera.com/eula/computers"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://get.geo.opera.com/pub/opera/desktop/116.0.5366.71/win/Opera_116.0.5366.71_Setup_x64.exe#/dl.7z",
+      "hash": "ef7a3a4020cf49868be6ab7589f1012c29796119232b258a4647952c79c3ed56"
+    },
+    "32bit": {
+      "url": "https://get.geo.opera.com/pub/opera/desktop/116.0.5366.71/win/Opera_116.0.5366.71_Setup.exe#/dl.7z",
+      "hash": "1eb93497616863545e93e1662492846352d9c3c02fd609d25dcedf29aa441e55"
+    }
+  },
+  "installer": {
+    "script": [
+      "Remove-Item -Path \"$dir\\*_list\" -Force",
+      "Move-Item -Path \"$dir\\*\" -Destination \"$dir\\$version\" -Exclude 'Assets', 'launcher*', 'Resources.pri' -ErrorAction Ignore",
+      "if (!(Test-Path \"$dir\\$version\\localization\")) {",
+      "   New-Item -Path \"$dir\\$version\\localization\" -ItemType Directory | Out-Null",
+      "   Move-Item -Path \"$dir\\$version\\*.pak\" -Destination \"$dir\\$version\\localization\" -Exclude 'opera*' -ErrorAction Ignore",
+      "}",
+      "Set-Content -Path \"$dir\\installer_prefs.json\" -Value (@{ 'autoupdate'= $false; 'enable_stats' = $false; 'single_profile' = $true } | ConvertTo-Json) -Encoding ASCII",
+      "Copy-Item \"$dir\\$version\\opera.exe\" \"$dir\""
+    ]
+  },
+  "shortcuts": [
+    [
+      "opera.exe",
+      "Opera"
+    ]
+  ],
+  "persist": "profile",
+  "checkver": {
+    "script": [
+      "$releases = 'https://get.geo.opera.com/pub/opera/desktop/'",
+      "$download_page = Invoke-WebRequest -Uri $releases -UseBasicParsing",
+      "$versionSort   = { [version]$_.href.TrimEnd('/') }",
+      "$last_ver = $download_page.links | Where-Object href -match '^[\\d]+[\\d\\.]+/$' | Sort-Object $versionSort -Descending | Select-Object -first 1 -expand href",
+      "$version = $last_ver -replace '/', ''",
+      "Write-Output $version"
+    ],
+    "regex": "(\\S+)"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://get.geo.opera.com/pub/opera/desktop/$version/win/Opera_$version_Setup_x64.exe#/dl.7z"
+      },
+      "32bit": {
+        "url": "https://get.geo.opera.com/pub/opera/desktop/$version/win/Opera_$version_Setup.exe#/dl.7z"
+      }
+    },
+    "hash": {
+      "url": "$url.sha256sum"
+    }
+  }
+}

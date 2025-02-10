@@ -1,0 +1,50 @@
+{
+  "version": "7.1.2-2",
+  "description": "A command-line utility that pipes video streams from various services into a video player.",
+  "homepage": "https://streamlink.github.io/",
+  "license": "BSD-2-Clause",
+  "notes": "You will find your config file here: '$dir\\config'. To customise it, read the docs here: https://streamlink.github.io/cli/config.html#syntax",
+  "suggest": {
+    "ffmpeg": "ffmpeg",
+    "VLC player": "extras/vlc",
+    "mpv player": "extras/mpv"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "undefined/https://github.com/streamlink/windows-builds/releases/download/7.1.2-2/streamlink-7.1.2-2-py312-x86_64.zip",
+      "hash": "c8c9460d200e85d859d100f8e9151684e946bb0e7e28d29d8df183e3b1bf46dd",
+      "extract_dir": "streamlink-7.1.2-2-py312-x86_64"
+    }
+  },
+  "pre_install": [
+    "if (!(Test-Path \"$persist_dir\\config\")) {",
+    "    if (Test-Path \"$env:APPDATA\\streamlink\\config\") {",
+    "        info 'Copying existing ''config'' from ''%APPDATA%\\streamlink\\config'''",
+    "        Copy-Item \"$env:APPDATA\\streamlink\\config\" \"$dir\\config\"",
+    "    } else {",
+    "        New-Item \"$dir\\config\" | Out-Null",
+    "    }",
+    "}"
+  ],
+  "bin": [
+    [
+      "bin\\streamlink.exe",
+      "streamlink",
+      "--ffmpeg-ffmpeg \"$dir\\ffmpeg\\ffmpeg.exe\" --config \"$dir\\config\""
+    ],
+    "bin\\streamlinkw.exe"
+  ],
+  "persist": "config",
+  "checkver": {
+    "url": "https://github.com/streamlink/windows-builds/releases/",
+    "regex": "tree/([\\d.\\-]+)"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "undefined/https://github.com/streamlink/windows-builds/releases/download/$version/streamlink-$version-py312-x86_64.zip",
+        "extract_dir": "streamlink-$version-py312-x86_64"
+      }
+    }
+  }
+}
