@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/watchexec/watchexec/releases/download/v2.3.0/watchexec-2.3.0-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/watchexec/watchexec/releases/download/v2.3.0/watchexec-2.3.0-x86_64-pc-windows-msvc.zip",
       "hash": "10d781f59d76c5073c032424e3c74ae9d67b16ae714c89315b5e22dbeeec1871",
       "extract_dir": "watchexec-2.3.0-x86_64-pc-windows-msvc"
     }
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/watchexec/watchexec/releases/download/v$version/watchexec-$version-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/watchexec/watchexec/releases/download/v$version/watchexec-$version-x86_64-pc-windows-msvc.zip",
         "extract_dir": "watchexec-$version-x86_64-pc-windows-msvc"
       }
     }

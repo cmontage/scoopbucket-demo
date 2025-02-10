@@ -10,7 +10,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/bazelbuild/bazel/releases/download/7.5.0/bazel-7.5.0-windows-x86_64.zip",
+      "url": "https://github.com/bazelbuild/bazel/releases/download/7.5.0/bazel-7.5.0-windows-x86_64.zip",
       "hash": "26d5de594b1cfe49e074fb7b32f80e86f884e29ee1c340dab94e66c3d19e03c3"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/bazelbuild/bazel/releases/download/$version/bazel-$version-windows-x86_64.zip"
+        "url": "https://github.com/bazelbuild/bazel/releases/download/$version/bazel-$version-windows-x86_64.zip"
       }
     },
     "hash": {

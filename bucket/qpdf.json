@@ -5,12 +5,12 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/qpdf/qpdf/releases/download/v11.10.0/qpdf-11.10.0-msvc64.zip",
+      "url": "https://github.com/qpdf/qpdf/releases/download/v11.10.0/qpdf-11.10.0-msvc64.zip",
       "hash": "bae68538ba4f35a5b66d02677e4b5834e6e4e4013cdba6f6b022b46d6066595d",
       "extract_dir": "qpdf-11.10.0-msvc64"
     },
     "32bit": {
-      "url": "undefined/https://github.com/qpdf/qpdf/releases/download/v11.10.0/qpdf-11.10.0-msvc32.zip",
+      "url": "https://github.com/qpdf/qpdf/releases/download/v11.10.0/qpdf-11.10.0-msvc32.zip",
       "hash": "76e79119b836665ca07d18fc48f113e78d3d3798e6b415299f5e6af3cff37136",
       "extract_dir": "qpdf-11.10.0-msvc32"
     }
@@ -25,11 +25,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/qpdf/qpdf/releases/download/v$version/qpdf-$version-msvc64.zip",
+        "url": "https://github.com/qpdf/qpdf/releases/download/v$version/qpdf-$version-msvc64.zip",
         "extract_dir": "qpdf-$version-msvc64"
       },
       "32bit": {
-        "url": "undefined/https://github.com/qpdf/qpdf/releases/download/v$version/qpdf-$version-msvc32.zip",
+        "url": "https://github.com/qpdf/qpdf/releases/download/v$version/qpdf-$version-msvc32.zip",
         "extract_dir": "qpdf-$version-msvc32"
       }
     },

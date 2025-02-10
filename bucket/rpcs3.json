@@ -15,7 +15,7 @@
   "suggest": {
     "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
   },
-  "url": "undefined/https://github.com/rpcs3/rpcs3-binaries-win/releases/download/build-9a7b8e41eb741dd074c1a81d1cb80406c1f86a0a/rpcs3-v0.0.34-17449-9a7b8e41_win64.7z",
+  "url": "https://github.com/rpcs3/rpcs3-binaries-win/releases/download/build-9a7b8e41eb741dd074c1a81d1cb80406c1f86a0a/rpcs3-v0.0.34-17449-9a7b8e41_win64.7z",
   "hash": "b08feeb5f0698001057473e70bee0a540529d173b4ad0e475b21b88ba4089240",
   "pre_install": [
     "if (!(Test-Path \"$persist_dir\")) {",
@@ -55,7 +55,7 @@
     "replace": "${build}"
   },
   "autoupdate": {
-    "url": "undefined/https://github.com/rpcs3/rpcs3-binaries-win/releases/download/build-$matchFullhash/rpcs3-v$matchBuild-$matchShorthash_win64.7z",
+    "url": "https://github.com/rpcs3/rpcs3-binaries-win/releases/download/build-$matchFullhash/rpcs3-v$matchBuild-$matchShorthash_win64.7z",
     "hash": {
       "url": "https://rpcs3.net/compatibility?b",
       "regex": "Windows SHA-256: ($sha256)"

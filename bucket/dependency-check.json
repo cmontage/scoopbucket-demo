@@ -6,7 +6,7 @@
   "suggest": {
     "JDK": "java/openjdk"
   },
-  "url": "undefined/https://github.com/jeremylong/DependencyCheck/releases/download/v12.0.2/dependency-check-12.0.2-release.zip",
+  "url": "https://github.com/jeremylong/DependencyCheck/releases/download/v12.0.2/dependency-check-12.0.2-release.zip",
   "hash": "ca9f1ab7aef4f7bde3ca7b228edae74c4933e4dbbcfb1beb457261c925985c3e",
   "extract_dir": "dependency-check",
   "bin": "bin\\dependency-check.bat",
@@ -15,6 +15,6 @@
     "regex": "(.+)"
   },
   "autoupdate": {
-    "url": "undefined/https://github.com/jeremylong/DependencyCheck/releases/download/v$version/dependency-check-$version-release.zip"
+    "url": "https://github.com/jeremylong/DependencyCheck/releases/download/v$version/dependency-check-$version-release.zip"
   }
 }

@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/microsoft/kiota/releases/download/v1.23.0/win-x64.zip",
+      "url": "https://github.com/microsoft/kiota/releases/download/v1.23.0/win-x64.zip",
       "hash": "5301a99174cc68ed73593ecc5373e0263e2f809be46c77cb2b771e9a88254913"
     },
     "32bit": {
-      "url": "undefined/https://github.com/microsoft/kiota/releases/download/v1.23.0/win-x86.zip",
+      "url": "https://github.com/microsoft/kiota/releases/download/v1.23.0/win-x86.zip",
       "hash": "c9483f66c0b30818e53f8c426c3f82b52751e1f84830ee1de4fe7503a17552dd"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/microsoft/kiota/releases/download/v$version/win-x64.zip"
+        "url": "https://github.com/microsoft/kiota/releases/download/v$version/win-x64.zip"
       },
       "32bit": {
-        "url": "undefined/https://github.com/microsoft/kiota/releases/download/v$version/win-x86.zip"
+        "url": "https://github.com/microsoft/kiota/releases/download/v$version/win-x86.zip"
       }
     }
   }

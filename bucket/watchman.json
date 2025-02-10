@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/facebook/watchman/releases/download/v2025.02.03.00/watchman-v2025.02.03.00-windows.zip",
+      "url": "https://github.com/facebook/watchman/releases/download/v2025.02.03.00/watchman-v2025.02.03.00-windows.zip",
       "hash": "b6ad6acc63260a4e376cc27ed1b05ef8b675fc8530b4e9726bdff18c4c1ddc6b"
     }
   },
@@ -23,7 +23,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/facebook/watchman/releases/download/v$version/watchman-v$version-windows.zip"
+        "url": "https://github.com/facebook/watchman/releases/download/v$version/watchman-v$version-windows.zip"
       }
     },
     "extract_dir": "watchman-v$version-windows\\bin"

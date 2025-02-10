@@ -5,7 +5,7 @@
   "version": "1.49.1",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/dolthub/dolt/releases/download/v1.49.1/dolt-windows-amd64.zip",
+      "url": "https://github.com/dolthub/dolt/releases/download/v1.49.1/dolt-windows-amd64.zip",
       "hash": "a23016472c68acc43ad3100e5c700eb944db011dff370e7e95c0fdce5a035db4"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/dolthub/dolt/releases/download/v$version/dolt-windows-amd64.zip"
+        "url": "https://github.com/dolthub/dolt/releases/download/v$version/dolt-windows-amd64.zip"
       }
     }
   }

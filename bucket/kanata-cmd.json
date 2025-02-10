@@ -10,7 +10,7 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/jtroo/kanata/releases/download/v1.8.0/kanata_cmd_allowed.exe#/kanata-cmd.exe",
+      "url": "https://github.com/jtroo/kanata/releases/download/v1.8.0/kanata_cmd_allowed.exe#/kanata-cmd.exe",
       "hash": "7bfbd1f846c8fae3df535b09c6a8cbebd2ca63003fb6546327fff39ee751e532"
     }
   },
@@ -19,7 +19,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/jtroo/kanata/releases/download/v$version/kanata_cmd_allowed.exe#/kanata-cmd.exe"
+        "url": "https://github.com/jtroo/kanata/releases/download/v$version/kanata_cmd_allowed.exe#/kanata-cmd.exe"
       }
     }
   }

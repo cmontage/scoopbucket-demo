@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/okteto/okteto/releases/download/3.4.0/okteto.exe",
+      "url": "https://github.com/okteto/okteto/releases/download/3.4.0/okteto.exe",
       "hash": "7d59bd7af3431baa0acc48dfa88879970461c77e4c36a57bf8adc70fedc38860"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/okteto/okteto/releases/download/$version/okteto.exe"
+        "url": "https://github.com/okteto/okteto/releases/download/$version/okteto.exe"
       }
     },
     "hash": {

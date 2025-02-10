@@ -6,7 +6,7 @@
   "notes": "Configuration Guide: https://github.com/jtroo/kanata/blob/main/docs/config.adoc",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/jtroo/kanata/releases/download/v1.8.0/kanata.exe",
+      "url": "https://github.com/jtroo/kanata/releases/download/v1.8.0/kanata.exe",
       "hash": "e279508bfce6471b5fd62c8848fce7fd9785b8d2d40c1cd6c08152ee2d17161d"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/jtroo/kanata/releases/download/v$version/kanata.exe"
+        "url": "https://github.com/jtroo/kanata/releases/download/v$version/kanata.exe"
       }
     }
   }

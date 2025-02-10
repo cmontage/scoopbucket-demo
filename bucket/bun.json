@@ -9,8 +9,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "undefined/https://github.com/oven-sh/bun/releases/download/bun-v1.2.2/bun-windows-x64.zip",
-        "undefined/https://github.com/oven-sh/bun/releases/download/bun-v1.2.2/bun-windows-x64-baseline.zip"
+        "https://github.com/oven-sh/bun/releases/download/bun-v1.2.2/bun-windows-x64.zip",
+        "https://github.com/oven-sh/bun/releases/download/bun-v1.2.2/bun-windows-x64-baseline.zip"
       ],
       "hash": [
         "433b60a262f71dbe76e1c9aedb5141ad9035a5d76f436fc8f2d911c7ed1099a3",
@@ -46,8 +46,8 @@
     "architecture": {
       "64bit": {
         "url": [
-          "undefined/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64.zip",
-          "undefined/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64-baseline.zip"
+          "https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64.zip",
+          "https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64-baseline.zip"
         ]
       }
     },

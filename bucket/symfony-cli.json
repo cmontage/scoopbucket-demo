@@ -5,11 +5,11 @@
   "license": "AGPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/symfony-cli/symfony-cli/releases/download/v5.10.7/symfony-cli_windows_amd64.zip",
+      "url": "https://github.com/symfony-cli/symfony-cli/releases/download/v5.10.7/symfony-cli_windows_amd64.zip",
       "hash": "f877f48b9c3d7330e4174f03a6f25c01c254ccebdfc9416229f2540c6716ebac"
     },
     "32bit": {
-      "url": "undefined/https://github.com/symfony-cli/symfony-cli/releases/download/v5.10.7/symfony-cli_windows_386.zip",
+      "url": "https://github.com/symfony-cli/symfony-cli/releases/download/v5.10.7/symfony-cli_windows_386.zip",
       "hash": "30f12ca5260abe1a9d398a7678c916934253e85c4c02a87f8fb10b4a40b1b3b9"
     }
   },
@@ -20,14 +20,14 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/symfony-cli_windows_amd64.zip"
+        "url": "https://github.com/symfony-cli/symfony-cli/releases/download/v$version/symfony-cli_windows_amd64.zip"
       },
       "32bit": {
-        "url": "undefined/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/symfony-cli_windows_386.zip"
+        "url": "https://github.com/symfony-cli/symfony-cli/releases/download/v$version/symfony-cli_windows_386.zip"
       }
     },
     "hash": {
-      "url": "undefined/https://github.com/symfony-cli/symfony-cli/releases/download/v$version/checksums.txt"
+      "url": "https://github.com/symfony-cli/symfony-cli/releases/download/v$version/checksums.txt"
     }
   }
 }

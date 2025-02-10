@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/shader-slang/slang/releases/download/v2025.5/slang-2025.5-windows-x86_64.zip",
+      "url": "https://github.com/shader-slang/slang/releases/download/v2025.5/slang-2025.5-windows-x86_64.zip",
       "hash": "5ba445a76c9ea973e756136ead0bf6c88272567ca53b217a1fce048be762f5f7"
     },
     "arm64": {
-      "url": "undefined/https://github.com/shader-slang/slang/releases/download/v2025.5/slang-2025.5-windows-aarch64.zip",
+      "url": "https://github.com/shader-slang/slang/releases/download/v2025.5/slang-2025.5-windows-aarch64.zip",
       "hash": "fedc46097a0bc50caf5582670ac4eff1a36a9eb418381df9b9cb6589a8f9fb0c"
     }
   },
@@ -23,10 +23,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/shader-slang/slang/releases/download/v$version/slang-$version-windows-x86_64.zip"
+        "url": "https://github.com/shader-slang/slang/releases/download/v$version/slang-$version-windows-x86_64.zip"
       },
       "arm64": {
-        "url": "undefined/https://github.com/shader-slang/slang/releases/download/v$version/slang-$version-windows-aarch64.zip"
+        "url": "https://github.com/shader-slang/slang/releases/download/v$version/slang-$version-windows-aarch64.zip"
       }
     }
   }

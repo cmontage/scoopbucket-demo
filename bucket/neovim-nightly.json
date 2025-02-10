@@ -11,7 +11,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
+      "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
       "hash": "8fd22f909680e12366facbc1cbd288694b43e3517c664f85f4eeb4f675a07de9"
     }
   },
@@ -26,7 +26,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
+        "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
         "hash": {
           "url": "$url.sha256sum"
         }

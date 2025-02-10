@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/radius-project/radius/releases/download/v0.43.0/rad_windows_amd64.exe#/rad.exe",
+      "url": "https://github.com/radius-project/radius/releases/download/v0.43.0/rad_windows_amd64.exe#/rad.exe",
       "hash": "5aace1195c5ce9241051ff7f209b87b6e956e557ce0e25602c5b32817bc08202"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/radius-project/radius/releases/download/v$version/rad_windows_amd64.exe#/rad.exe"
+        "url": "https://github.com/radius-project/radius/releases/download/v$version/rad_windows_amd64.exe#/rad.exe"
       }
     },
     "hash": {

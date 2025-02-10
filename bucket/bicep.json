@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "arm64": {
-      "url": "undefined/https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-win-arm64.exe#/bicep.exe",
+      "url": "https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-win-arm64.exe#/bicep.exe",
       "hash": "bef3eede9f499b19ab61a4e919e93649c78c358506a1c75fd1ba99376273d3b7"
     },
     "64bit": {
-      "url": "undefined/https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-win-x64.exe#/bicep.exe",
+      "url": "https://github.com/Azure/bicep/releases/download/v0.33.93/bicep-win-x64.exe#/bicep.exe",
       "hash": "81e92bedfa7eefe8a85dfe2b9ce54157c8ab168d8b68c78d517728367687473a"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "arm64": {
-        "url": "undefined/https://github.com/Azure/bicep/releases/download/v$version/bicep-win-arm64.exe#/bicep.exe"
+        "url": "https://github.com/Azure/bicep/releases/download/v$version/bicep-win-arm64.exe#/bicep.exe"
       },
       "64bit": {
-        "url": "undefined/https://github.com/Azure/bicep/releases/download/v$version/bicep-win-x64.exe#/bicep.exe"
+        "url": "https://github.com/Azure/bicep/releases/download/v$version/bicep-win-x64.exe#/bicep.exe"
       }
     }
   }

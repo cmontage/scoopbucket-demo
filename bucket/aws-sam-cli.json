@@ -9,7 +9,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/aws/aws-sam-cli/releases/download/v1.133.0/AWS_SAM_CLI_64_PY3.msi#/dl.msi_",
+      "url": "https://github.com/aws/aws-sam-cli/releases/download/v1.133.0/AWS_SAM_CLI_64_PY3.msi#/dl.msi_",
       "hash": "a78afe0da6e6e3a9f65a2629e76bb1244f63a3801d903cb6be7c400d1da1d441"
     }
   },
@@ -33,7 +33,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/aws/aws-sam-cli/releases/download/v$version/AWS_SAM_CLI_64_PY3.msi#/dl.msi_"
+        "url": "https://github.com/aws/aws-sam-cli/releases/download/v$version/AWS_SAM_CLI_64_PY3.msi#/dl.msi_"
       }
     },
     "hash": {

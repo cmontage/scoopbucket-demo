@@ -16,7 +16,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/PCSX2/pcsx2/releases/download/v2.3.148/pcsx2-v2.3.148-windows-x64-Qt.7z",
+      "url": "https://github.com/PCSX2/pcsx2/releases/download/v2.3.148/pcsx2-v2.3.148-windows-x64-Qt.7z",
       "hash": "f8c1a9b8219a1ef17040d1bffe4d1e1245408c6c2ec8b0cc45e671a8c4d49970"
     }
   },
@@ -69,7 +69,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/PCSX2/pcsx2/releases/download/v$version/pcsx2-v$version-windows-x64-Qt.7z"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v$version/pcsx2-v$version-windows-x64-Qt.7z"
       }
     }
   }

@@ -5,11 +5,11 @@
   "license": " Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/superfly/flyctl/releases/download/v0.3.75/flyctl_0.3.75_Windows_x86_64.zip",
+      "url": "https://github.com/superfly/flyctl/releases/download/v0.3.75/flyctl_0.3.75_Windows_x86_64.zip",
       "hash": "6473667ccdd067cc61ec52c9934cbfe3d3fb5ad019637624d50ff36db7be500a"
     },
     "arm64": {
-      "url": "undefined/https://github.com/superfly/flyctl/releases/download/v0.3.75/flyctl_0.3.75_Windows_arm64.zip",
+      "url": "https://github.com/superfly/flyctl/releases/download/v0.3.75/flyctl_0.3.75_Windows_arm64.zip",
       "hash": "8161d457f6e14e1b592fc74bf3d747e1e87dcc27c02bc03e77eeda7e5cd3cc69"
     }
   },
@@ -24,10 +24,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/superfly/flyctl/releases/download/v$version/flyctl_$version_Windows_x86_64.zip"
+        "url": "https://github.com/superfly/flyctl/releases/download/v$version/flyctl_$version_Windows_x86_64.zip"
       },
       "arm64": {
-        "url": "undefined/https://github.com/superfly/flyctl/releases/download/v$version/flyctl_$version_Windows_arm64.zip"
+        "url": "https://github.com/superfly/flyctl/releases/download/v$version/flyctl_$version_Windows_arm64.zip"
       }
     },
     "hash": {

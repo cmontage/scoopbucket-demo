@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/aws-amplify/amplify-cli/releases/download/v12.14.3/amplify-pkg-win.exe.tgz",
+      "url": "https://github.com/aws-amplify/amplify-cli/releases/download/v12.14.3/amplify-pkg-win.exe.tgz",
       "hash": "58148819844aeb365de14e6f6b6cffebb985888785b7dbfb74fb76c05bab9fe7"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/aws-amplify/amplify-cli/releases/download/v$version/amplify-pkg-win.exe.tgz"
+        "url": "https://github.com/aws-amplify/amplify-cli/releases/download/v$version/amplify-pkg-win.exe.tgz"
       }
     }
   }

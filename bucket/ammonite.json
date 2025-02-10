@@ -6,7 +6,7 @@
   "suggest": {
     "JDK": "java/openjdk"
   },
-  "url": "undefined/https://github.com/lihaoyi/Ammonite/releases/download/3.0.1/2.12-3.0.1#/amm.bat",
+  "url": "https://github.com/lihaoyi/Ammonite/releases/download/3.0.1/2.12-3.0.1#/amm.bat",
   "hash": "fc62be6802fb94ddb70d270b2aad478e6ab42e725b646a499fe3acf6e0a075bc",
   "bin": "amm.bat",
   "checkver": {
@@ -14,6 +14,6 @@
     "regex": "tag/([\\d\\w.-]+)"
   },
   "autoupdate": {
-    "url": "undefined/https://github.com/lihaoyi/Ammonite/releases/download/$version/2.12-$version#/amm.bat"
+    "url": "https://github.com/lihaoyi/Ammonite/releases/download/$version/2.12-$version#/amm.bat"
   }
 }

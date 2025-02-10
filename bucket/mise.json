@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/jdx/mise/releases/download/v2025.2.3/mise-v2025.2.3-windows-x64.zip",
+      "url": "https://github.com/jdx/mise/releases/download/v2025.2.3/mise-v2025.2.3-windows-x64.zip",
       "hash": "fe46e7f9385446c7d267fd2fd52fc70ea83488c685f51431ac11e08092311170"
     },
     "arm64": {
-      "url": "undefined/https://github.com/jdx/mise/releases/download/v2025.2.3/mise-v2025.2.3-windows-arm64.zip",
+      "url": "https://github.com/jdx/mise/releases/download/v2025.2.3/mise-v2025.2.3-windows-arm64.zip",
       "hash": "6b4fcb49fbc5681b28ef3c8240dd85e3d6a1cdf09eda2fd0800c420dcad15168"
     }
   },
@@ -36,10 +36,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-x64.zip"
+        "url": "https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-x64.zip"
       },
       "arm64": {
-        "url": "undefined/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-arm64.zip"
+        "url": "https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-arm64.zip"
       }
     },
     "hash": {

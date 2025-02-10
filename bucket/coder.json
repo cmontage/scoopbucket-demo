@@ -5,7 +5,7 @@
   "license": "AGPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/coder/coder/releases/download/v2.18.5/coder_2.18.5_windows_amd64.zip",
+      "url": "https://github.com/coder/coder/releases/download/v2.18.5/coder_2.18.5_windows_amd64.zip",
       "hash": "301fb6df4efae0f4a51a185863937044a60196f8e6c7db8f536f2f84392e7a38"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/coder/coder/releases/download/v$version/coder_$version_windows_amd64.zip"
+        "url": "https://github.com/coder/coder/releases/download/v$version/coder_$version_windows_amd64.zip"
       }
     },
     "hash": {

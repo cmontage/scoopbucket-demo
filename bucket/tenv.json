@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/tofuutils/tenv/releases/download/v4.2.4/tenv_v4.2.4_Windows_x86_64.zip",
+      "url": "https://github.com/tofuutils/tenv/releases/download/v4.2.4/tenv_v4.2.4_Windows_x86_64.zip",
       "hash": "86e4214c3c3c3a59355466f7be3c06299ad50203ed30f12c0308700f904f9845"
     },
     "arm64": {
-      "url": "undefined/https://github.com/tofuutils/tenv/releases/download/v4.2.4/tenv_v4.2.4_Windows_arm64.zip",
+      "url": "https://github.com/tofuutils/tenv/releases/download/v4.2.4/tenv_v4.2.4_Windows_arm64.zip",
       "hash": "b5e3aa1e83e74d7496820c45ff38cc3b56cc9dd32676920feaffa6acc0c41852"
     }
   },
@@ -27,10 +27,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/tofuutils/tenv/releases/download/v$version/tenv_v$version_Windows_x86_64.zip"
+        "url": "https://github.com/tofuutils/tenv/releases/download/v$version/tenv_v$version_Windows_x86_64.zip"
       },
       "arm64": {
-        "url": "undefined/https://github.com/tofuutils/tenv/releases/download/v$version/tenv_v$version_Windows_arm64.zip"
+        "url": "https://github.com/tofuutils/tenv/releases/download/v$version/tenv_v$version_Windows_arm64.zip"
       }
     },
     "hash": {

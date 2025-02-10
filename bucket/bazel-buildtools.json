@@ -9,9 +9,9 @@
   "architecture": {
     "64bit": {
       "url": [
-        "undefined/https://github.com/bazelbuild/buildtools/releases/download/v8.0.3/buildifier-windows-amd64.exe#/buildifier.exe",
-        "undefined/https://github.com/bazelbuild/buildtools/releases/download/v8.0.3/buildozer-windows-amd64.exe#/buildozer.exe",
-        "undefined/https://github.com/bazelbuild/buildtools/releases/download/v8.0.3/unused_deps-windows-amd64.exe#/unused_deps.exe"
+        "https://github.com/bazelbuild/buildtools/releases/download/v8.0.3/buildifier-windows-amd64.exe#/buildifier.exe",
+        "https://github.com/bazelbuild/buildtools/releases/download/v8.0.3/buildozer-windows-amd64.exe#/buildozer.exe",
+        "https://github.com/bazelbuild/buildtools/releases/download/v8.0.3/unused_deps-windows-amd64.exe#/unused_deps.exe"
       ],
       "hash": [
         "63a242f57e253efe7b9573d739c08a3d0e628efd84015c8dad17d87b6429e443",
@@ -30,9 +30,9 @@
     "architecture": {
       "64bit": {
         "url": [
-          "undefined/https://github.com/bazelbuild/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe",
-          "undefined/https://github.com/bazelbuild/buildtools/releases/download/v$version/buildozer-windows-amd64.exe#/buildozer.exe",
-          "undefined/https://github.com/bazelbuild/buildtools/releases/download/v$version/unused_deps-windows-amd64.exe#/unused_deps.exe"
+          "https://github.com/bazelbuild/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe",
+          "https://github.com/bazelbuild/buildtools/releases/download/v$version/buildozer-windows-amd64.exe#/buildozer.exe",
+          "https://github.com/bazelbuild/buildtools/releases/download/v$version/unused_deps-windows-amd64.exe#/unused_deps.exe"
         ]
       }
     }

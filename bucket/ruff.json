@@ -5,15 +5,15 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "undefined/https://github.com/astral-sh/ruff/releases/download/0.9.5/ruff-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/ruff/releases/download/0.9.5/ruff-x86_64-pc-windows-msvc.zip",
       "hash": "48d096bc53e4c0d7434965c6b4bff911e53250cf8da8866a95b85ed4107259bf"
     },
     "32bit": {
-      "url": "undefined/https://github.com/astral-sh/ruff/releases/download/0.9.5/ruff-i686-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/ruff/releases/download/0.9.5/ruff-i686-pc-windows-msvc.zip",
       "hash": "6ea88e4aab7c4bc3e8c6f580b814d3a5aa05795e10c9b01e467ecfa8fdc58823"
     },
     "arm64": {
-      "url": "undefined/https://github.com/astral-sh/ruff/releases/download/0.9.5/ruff-aarch64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/ruff/releases/download/0.9.5/ruff-aarch64-pc-windows-msvc.zip",
       "hash": "75882eebde374c8f6016f3501c4a769ec1d13cb07798de77187542f9928eba44"
     }
   },
@@ -22,13 +22,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "undefined/https://github.com/astral-sh/ruff/releases/download/$version/ruff-x86_64-pc-windows-msvc.zip"
+        "url": "https://github.com/astral-sh/ruff/releases/download/$version/ruff-x86_64-pc-windows-msvc.zip"
       },
       "32bit": {
-        "url": "undefined/https://github.com/astral-sh/ruff/releases/download/$version/ruff-i686-pc-windows-msvc.zip"
+        "url": "https://github.com/astral-sh/ruff/releases/download/$version/ruff-i686-pc-windows-msvc.zip"
       },
       "arm64": {
-        "url": "undefined/https://github.com/astral-sh/ruff/releases/download/$version/ruff-aarch64-pc-windows-msvc.zip"
+        "url": "https://github.com/astral-sh/ruff/releases/download/$version/ruff-aarch64-pc-windows-msvc.zip"
       }
     },
     "hash": {
