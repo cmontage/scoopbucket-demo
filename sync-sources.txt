@@ -125,6 +125,7 @@ bucket/antimicro.json, ScoopInstaller/Extras, 0
 bucket/antimicrox.json, ScoopInstaller/Extras, 0
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
+bucket/anythingllm.json, ScoopInstaller/Extras, 0
 bucket/anytype.json, ScoopInstaller/Extras, 0
 bucket/ao.json, ScoopInstaller/Extras, 0
 bucket/apache-directory-studio.json, ScoopInstaller/Extras, 0
@@ -193,6 +194,7 @@ bucket/ast-grep.json, ScoopInstaller/Main, 0
 bucket/astrogrep.json, ScoopInstaller/Extras, 0
 bucket/astyle.json, ScoopInstaller/Main, 0
 bucket/asuite.json, ScoopInstaller/Extras, 0
+bucket/atac.json, ScoopInstaller/Main, 0
 bucket/atmos.json, ScoopInstaller/Main, 0
 bucket/atom-beta.json, ScoopInstaller/Versions, 0
 bucket/atom-ng.json, ScoopInstaller/Versions, 0
@@ -258,6 +260,7 @@ bucket/azcopy.json, ScoopInstaller/Main, 0
 bucket/azd.json, ScoopInstaller/Extras, 0
 bucket/aztfexport.json, ScoopInstaller/Main, 0
 bucket/azure-cli.json, ScoopInstaller/Main, 0
+bucket/azure-developer-cli.json, ScoopInstaller/Main, 0
 bucket/azure-functions-core-tools.json, ScoopInstaller/Main, 0
 bucket/azure-iot-explorer.json, ScoopInstaller/Extras, 0
 bucket/azure-kubelogin.json, ScoopInstaller/Main, 0
@@ -1486,6 +1489,7 @@ bucket/gitu.json, ScoopInstaller/Extras, 0
 bucket/gitui.json, ScoopInstaller/Main, 0
 bucket/gitversion-beta.json, ScoopInstaller/Versions, 0
 bucket/gitversion.json, ScoopInstaller/Main, 0
+bucket/gk.json, ScoopInstaller/Main, 0
 bucket/glab.json, ScoopInstaller/Main, 0
 bucket/glary-utilities.json, ScoopInstaller/Extras, 0
 bucket/glasswire-lite-np.json, ScoopInstaller/Nonportable, 0
@@ -1977,6 +1981,7 @@ bucket/jqp.json, ScoopInstaller/Extras, 0
 bucket/jruby.json, ScoopInstaller/Main, 0
 bucket/jrview.json, ScoopInstaller/Nirsoft, 0
 bucket/jsae.json, ScoopInstaller/Nirsoft, 0
+bucket/jsign.json, ScoopInstaller/Main, 0
 bucket/jstock.json, ScoopInstaller/Extras, 0
 bucket/juce.json, ScoopInstaller/Extras, 0
 bucket/juicefs.json, ScoopInstaller/Main, 0
@@ -2320,6 +2325,7 @@ bucket/lrzsz.json, ScoopInstaller/Main, 0
 bucket/lsasecretsdump.json, ScoopInstaller/Nirsoft, 0
 bucket/lsasecretsview.json, ScoopInstaller/Nirsoft, 0
 bucket/lsd.json, ScoopInstaller/Main, 0
+bucket/lsix.json, ScoopInstaller/Main, 0
 bucket/lua-for-windows.json, ScoopInstaller/Main, 0
 bucket/lua-joedf.json, ScoopInstaller/Versions, 0
 bucket/lua-language-server.json, ScoopInstaller/Main, 0
@@ -4050,6 +4056,7 @@ bucket/rimpy.json, Calinou/scoop-games, 0
 bucket/rimsort.json, Calinou/scoop-games, 0
 bucket/rink.json, ScoopInstaller/Main, 0
 bucket/rio.json, ScoopInstaller/Extras, 0
+bucket/rip.json, ScoopInstaller/Main, 0
 bucket/ripcord.json, ScoopInstaller/Extras, 0
 bucket/ripgrep.json, ScoopInstaller/Main, 0
 bucket/ripme.json, ScoopInstaller/Extras, 0
@@ -4470,6 +4477,7 @@ bucket/sqlitespy.json, ScoopInstaller/Extras, 0
 bucket/sqlitestudio.json, ScoopInstaller/Extras, 0
 bucket/sqlpage.json, ScoopInstaller/Main, 0
 bucket/sqlyog-community.json, ScoopInstaller/Extras, 0
+bucket/sqruff.json, ScoopInstaller/Main, 0
 bucket/squalr.json, ScoopInstaller/Extras, 0
 bucket/squashfs-tools.json, ScoopInstaller/Extras, 0
 bucket/squirrel-sql.json, ScoopInstaller/Extras, 0
@@ -4986,6 +4994,7 @@ bucket/vcxsrv.json, ScoopInstaller/Extras, 0
 bucket/vdesk.json, ScoopInstaller/Main, 0
 bucket/vdrift.json, Calinou/scoop-games, 0
 bucket/vector.json, ScoopInstaller/Main, 0
+bucket/vegeta.json, ScoopInstaller/Main, 0
 bucket/velero.json, ScoopInstaller/Main, 0
 bucket/veloren-weekly.json, Calinou/scoop-games, 0
 bucket/vencord-installer.json, ScoopInstaller/Extras, 0
