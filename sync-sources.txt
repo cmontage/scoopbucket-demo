@@ -282,6 +282,7 @@ bucket/bambu-studio.json, ScoopInstaller/Extras, 0
 bucket/banana-cake-pop.json, ScoopInstaller/Extras, 0
 bucket/bandizip.json, ScoopInstaller/Extras, 0
 bucket/bandizip6.json, ScoopInstaller/Versions, 0
+bucket/bandwhich.json, ScoopInstaller/Main, 0
 bucket/baregrep.json, ScoopInstaller/Extras, 0
 bucket/baretail.json, ScoopInstaller/Extras, 0
 bucket/barrier-np.json, ScoopInstaller/Nonportable, 0
@@ -448,6 +449,7 @@ bucket/bytecode-viewer.json, ScoopInstaller/Extras, 0
 bucket/bzflag.json, Calinou/scoop-games, 0
 bucket/bzip2.json, ScoopInstaller/Main, 0
 bucket/bzip3.json, ScoopInstaller/Extras, 0
+bucket/c3.json, ScoopInstaller/Main, 0
 bucket/cabal-mini.json, ScoopInstaller/Extras, 0
 bucket/cabal.json, ScoopInstaller/Extras, 0
 bucket/cacert.json, ScoopInstaller/Main, 0
@@ -552,6 +554,7 @@ bucket/chromium-dev.json, ScoopInstaller/Versions, 0
 bucket/chromium-nosync.json, ScoopInstaller/Versions, 0
 bucket/chromium.json, ScoopInstaller/Extras, 0
 bucket/chronograf.json, ScoopInstaller/Main, 0
+bucket/chroot.json, ScoopInstaller/Main, 0
 bucket/chsrc.json, ScoopInstaller/Main, 0
 bucket/cht.json, ScoopInstaller/Main, 0
 bucket/chuck.json, ScoopInstaller/Main, 0
@@ -1202,6 +1205,7 @@ bucket/fciv.json, ScoopInstaller/Main, 0
 bucket/fclones.json, ScoopInstaller/Extras, 0
 bucket/fd.json, ScoopInstaller/Main, 0
 bucket/featherwallet.json, ScoopInstaller/Extras, 0
+bucket/fedify.json, ScoopInstaller/Main, 0
 bucket/feem.json, ScoopInstaller/Extras, 0
 bucket/feishin.json, ScoopInstaller/Extras, 0
 bucket/fend.json, ScoopInstaller/Main, 0
@@ -1429,6 +1433,7 @@ bucket/ghorg.json, ScoopInstaller/Main, 0
 bucket/ghostscript.json, ScoopInstaller/Main, 0
 bucket/ghostwriter.json, ScoopInstaller/Extras, 0
 bucket/ghq.json, ScoopInstaller/Main, 0
+bucket/ghz.json, ScoopInstaller/Main, 0
 bucket/gibo.json, ScoopInstaller/Main, 0
 bucket/gifcam.json, ScoopInstaller/Extras, 0
 bucket/gifsicle.json, ScoopInstaller/Main, 0
@@ -1695,6 +1700,7 @@ bucket/haskell-language-server.json, ScoopInstaller/Main, 0
 bucket/haskell.json, ScoopInstaller/Main, 0
 bucket/haskell863.json, ScoopInstaller/Versions, 0
 bucket/hasura-cli.json, ScoopInstaller/Main, 0
+bucket/hatch.json, ScoopInstaller/Main, 0
 bucket/haxe-dev.json, ScoopInstaller/Versions, 0
 bucket/haxe.json, ScoopInstaller/Main, 0
 bucket/hcloud.json, ScoopInstaller/Main, 0
@@ -1964,6 +1970,7 @@ bucket/jmc8.json, ScoopInstaller/Java, 0
 bucket/jmeter-pm.json, ScoopInstaller/Extras, 0
 bucket/jmeter.json, ScoopInstaller/Extras, 0
 bucket/jmkvpropedit.json, ScoopInstaller/Extras, 0
+bucket/jnv.json, ScoopInstaller/Main, 0
 bucket/jo.json, ScoopInstaller/Main, 0
 bucket/joe.json, ScoopInstaller/Extras, 0
 bucket/jojodiff.json, ScoopInstaller/Main, 0
@@ -2344,6 +2351,7 @@ bucket/ludusavi.json, ScoopInstaller/Extras, 0
 bucket/ludwig.json, ScoopInstaller/Extras, 0
 bucket/lunacy.json, ScoopInstaller/Extras, 0
 bucket/lunarvim.json, ScoopInstaller/Extras, 0
+bucket/lutgen.json, ScoopInstaller/Main, 0
 bucket/lux.json, ScoopInstaller/Main, 0
 bucket/lwc.json, ScoopInstaller/Main, 0
 bucket/lwp.json, ScoopInstaller/Extras, 0
@@ -2397,6 +2405,7 @@ bucket/marble.json, ScoopInstaller/Extras, 0
 bucket/mariadb.json, ScoopInstaller/Main, 0
 bucket/mariadb103.json, ScoopInstaller/Versions, 0
 bucket/markdown-monster.json, ScoopInstaller/Extras, 0
+bucket/markdown-oxide.json, ScoopInstaller/Main, 0
 bucket/markn.json, ScoopInstaller/Extras, 0
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
 bucket/marksman.json, ScoopInstaller/Main, 0
@@ -2459,6 +2468,7 @@ bucket/memreduct.json, ScoopInstaller/Extras, 0
 bucket/mendeley.json, ScoopInstaller/Extras, 0
 bucket/meow.json, ScoopInstaller/Extras, 0
 bucket/mercurial.json, ScoopInstaller/Main, 0
+bucket/mergiraf.json, ScoopInstaller/Main, 0
 bucket/mesa3d-mingw.json, Calinou/scoop-games, 0
 bucket/mesa3d.json, Calinou/scoop-games, 0
 bucket/mesen-s.json, Calinou/scoop-games, 0
@@ -2843,6 +2853,7 @@ bucket/ntlite.json, ScoopInstaller/Extras, 0
 bucket/ntop.json, ScoopInstaller/Main, 0
 bucket/nu.json, ScoopInstaller/Main, 0
 bucket/nuclear.json, ScoopInstaller/Extras, 0
+bucket/nuclei.json, ScoopInstaller/Main, 0
 bucket/nuget-package-explorer.json, ScoopInstaller/Extras, 0
 bucket/nuget.json, ScoopInstaller/Main, 0
 bucket/nuget3.json, ScoopInstaller/Versions, 0
@@ -3639,6 +3650,7 @@ bucket/pixitracker.json, ScoopInstaller/Extras, 0
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
 bucket/pkhex.json, Calinou/scoop-games, 0
+bucket/pkl-cli.json, ScoopInstaller/Main, 0
 bucket/plantuml.json, ScoopInstaller/Extras, 0
 bucket/playit.json, Calinou/scoop-games, 0
 bucket/playnite.json, ScoopInstaller/Extras, 0
@@ -3666,6 +3678,7 @@ bucket/polsedit.json, ScoopInstaller/Extras, 0
 bucket/pomotodo.json, ScoopInstaller/Extras, 0
 bucket/pomsky.json, ScoopInstaller/Main, 0
 bucket/popcorn-time.json, ScoopInstaller/Extras, 0
+bucket/popeye.json, ScoopInstaller/Main, 0
 bucket/poppler.json, ScoopInstaller/Main, 0
 bucket/poppler068.json, ScoopInstaller/Versions, 0
 bucket/portable-virtualbox.json, ScoopInstaller/Extras, 0
@@ -4567,6 +4580,7 @@ bucket/supabase.json, ScoopInstaller/Main, 0
 bucket/super-productivity.json, ScoopInstaller/Extras, 0
 bucket/superf4.json, ScoopInstaller/Extras, 0
 bucket/superfile.json, ScoopInstaller/Main, 0
+bucket/superhtml.json, ScoopInstaller/Main, 0
 bucket/supermium.json, ScoopInstaller/Extras, 0
 bucket/supermodel.json, Calinou/scoop-games, 0
 bucket/superpowers-app.json, ScoopInstaller/Extras, 0
@@ -4729,6 +4743,7 @@ bucket/terraform.json, ScoopInstaller/Main, 0
 bucket/terraform011.json, ScoopInstaller/Versions, 0
 bucket/terraformer.json, ScoopInstaller/Main, 0
 bucket/terragrunt.json, ScoopInstaller/Main, 0
+bucket/terrascan.json, ScoopInstaller/Main, 0
 bucket/tesseract-game.json, Calinou/scoop-games, 0
 bucket/tesseract-languages.json, ScoopInstaller/Main, 0
 bucket/tesseract.json, ScoopInstaller/Main, 0
@@ -4838,6 +4853,7 @@ bucket/translucenttb-np.json, ScoopInstaller/Nonportable, 0
 bucket/translucenttb.json, ScoopInstaller/Extras, 0
 bucket/transmission-cli.json, ScoopInstaller/Main, 0
 bucket/transmission.json, ScoopInstaller/Extras, 0
+bucket/trashy.json, ScoopInstaller/Main, 0
 bucket/traymond.json, ScoopInstaller/Extras, 0
 bucket/trayweather.json, ScoopInstaller/Extras, 0
 bucket/tre-command.json, ScoopInstaller/Main, 0
