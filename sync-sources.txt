@@ -1985,6 +1985,7 @@ bucket/jpegview-fork.json, ScoopInstaller/Extras, 0
 bucket/jpegview.json, ScoopInstaller/Extras, 0
 bucket/jq.json, ScoopInstaller/Main, 0
 bucket/jqp.json, ScoopInstaller/Extras, 0
+bucket/jreleaser.json, ScoopInstaller/Main, 0
 bucket/jruby.json, ScoopInstaller/Main, 0
 bucket/jrview.json, ScoopInstaller/Nirsoft, 0
 bucket/jsae.json, ScoopInstaller/Nirsoft, 0
