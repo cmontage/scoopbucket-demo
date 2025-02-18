@@ -1729,6 +1729,7 @@ bucket/hexo-blog-client.json, ScoopInstaller/Extras, 0
 bucket/hexo-client.json, ScoopInstaller/Extras, 0
 bucket/hexyl.json, ScoopInstaller/Main, 0
 bucket/heynote.json, ScoopInstaller/Extras, 0
+bucket/hfs.json, ScoopInstaller/Extras, 0
 bucket/hibit-startup-manager.json, ScoopInstaller/Extras, 0
 bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
