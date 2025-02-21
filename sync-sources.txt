@@ -486,6 +486,7 @@ bucket/cargo-binstall.json, ScoopInstaller/Main, 0
 bucket/cargo-watch.json, ScoopInstaller/Main, 0
 bucket/carnac.json, ScoopInstaller/Extras, 0
 bucket/carotdav.json, ScoopInstaller/Extras, 0
+bucket/cartero.json, ScoopInstaller/Extras, 0
 bucket/carvel-vendir.json, ScoopInstaller/Main, 0
 bucket/cascadeur.json, ScoopInstaller/Extras, 0
 bucket/castle-view-image.json, ScoopInstaller/Extras, 0
