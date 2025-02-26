@@ -865,6 +865,7 @@ bucket/dfu-util.json, ScoopInstaller/Main, 0
 bucket/dgvoodoo2.json, Calinou/scoop-games, 0
 bucket/dhall.json, ScoopInstaller/Main, 0
 bucket/dhcp-server.json, ScoopInstaller/Extras, 0
+bucket/dhcplogview.json, ScoopInstaller/Nirsoft, 0
 bucket/dia.json, ScoopInstaller/Extras, 0
 bucket/diagram-designer.json, ScoopInstaller/Extras, 0
 bucket/dialupass.json, ScoopInstaller/Nirsoft, 0
