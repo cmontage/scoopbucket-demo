@@ -1139,6 +1139,7 @@ bucket/ethereum-wallet.json, ScoopInstaller/Extras, 0
 bucket/ethr.json, ScoopInstaller/Main, 0
 bucket/etl2pcapng.json, ScoopInstaller/Main, 0
 bucket/etlas.json, ScoopInstaller/Extras, 0
+bucket/etterna.json, Calinou/scoop-games, 0
 bucket/euler.json, ScoopInstaller/Extras, 0
 bucket/eva.json, ScoopInstaller/Main, 0
 bucket/evans.json, ScoopInstaller/Main, 0
