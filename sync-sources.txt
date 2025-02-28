@@ -2438,6 +2438,7 @@ bucket/mcrcon.json, Calinou/scoop-games, 0
 bucket/mdbook.json, ScoopInstaller/Main, 0
 bucket/mdcat.json, ScoopInstaller/Main, 0
 bucket/mdloader.json, ScoopInstaller/Extras, 0
+bucket/mdq.json, ScoopInstaller/Main, 0
 bucket/media-downloader.json, ScoopInstaller/Extras, 0
 bucket/mediacreationtool.json, ScoopInstaller/Extras, 0
 bucket/mediaelch.json, ScoopInstaller/Extras, 0
