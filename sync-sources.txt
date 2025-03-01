@@ -1268,6 +1268,7 @@ bucket/firmwaretablesview.json, ScoopInstaller/Nirsoft, 0
 bucket/fission-cli.json, ScoopInstaller/Main, 0
 bucket/fix-print-spooler.json, ScoopInstaller/Extras, 0
 bucket/flac.json, ScoopInstaller/Main, 0
+bucket/flamelens.json, ScoopInstaller/Extras, 0
 bucket/flameshot.json, ScoopInstaller/Extras, 0
 bucket/flamingo.json, ScoopInstaller/Main, 0
 bucket/flaresolverr.json, ScoopInstaller/Main, 0
@@ -4131,6 +4132,7 @@ bucket/runasti.json, ScoopInstaller/Main, 0
 bucket/runastool.json, ScoopInstaller/Extras, 0
 bucket/runat.json, ScoopInstaller/Main, 0
 bucket/runcat.json, ScoopInstaller/Extras, 0
+bucket/rune.json, ScoopInstaller/Extras, 0
 bucket/runebook.json, Calinou/scoop-games, 0
 bucket/runelite.json, Calinou/scoop-games, 0
 bucket/runfromprocess.json, ScoopInstaller/Nirsoft, 0
