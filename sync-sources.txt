@@ -5121,6 +5121,7 @@ bucket/wakatime-cli.json, ScoopInstaller/Main, 0
 bucket/wakemeonlan.json, ScoopInstaller/Nirsoft, 0
 bucket/walk.json, ScoopInstaller/Main, 0
 bucket/wapm-cli.json, ScoopInstaller/Main, 0
+bucket/warp-terminal.json, ScoopInstaller/Extras, 0
 bucket/warp.json, ScoopInstaller/Main, 0
 bucket/warsow.json, Calinou/scoop-games, 0
 bucket/warzone2100.json, Calinou/scoop-games, 0
@@ -5133,6 +5134,7 @@ bucket/watchexec.json, ScoopInstaller/Main, 0
 bucket/watchman.json, ScoopInstaller/Main, 0
 bucket/waterfox-classic.json, ScoopInstaller/Extras, 0
 bucket/waterfox.json, ScoopInstaller/Extras, 0
+bucket/wave-terminal.json, ScoopInstaller/Extras, 0
 bucket/wavebox-classic.json, ScoopInstaller/Extras, 0
 bucket/wavebox.json, ScoopInstaller/Extras, 0
 bucket/wavosaur.json, ScoopInstaller/Extras, 0
