@@ -4116,6 +4116,7 @@ bucket/rtools42.json, ScoopInstaller/Versions, 0
 bucket/rtools43.json, ScoopInstaller/Versions, 0
 bucket/rtss.json, ScoopInstaller/Extras, 0
 bucket/ru.json, niheaven/scoop-sysinternals, 0
+bucket/rubberband.json, ScoopInstaller/Main, 0
 bucket/ruby.json, ScoopInstaller/Main, 0
 bucket/ruby19.json, ScoopInstaller/Versions, 0
 bucket/ruby24.json, ScoopInstaller/Versions, 0
@@ -4908,6 +4909,7 @@ bucket/twitchdownloader.json, ScoopInstaller/Extras, 0
 bucket/twitchdropsminer.json, Calinou/scoop-games, 0
 bucket/twitchtest.json, ScoopInstaller/Extras, 0
 bucket/typioca.json, ScoopInstaller/Main, 0
+bucket/typora-dev.json, ScoopInstaller/Versions, 0
 bucket/typora.json, ScoopInstaller/Extras, 0
 bucket/typora0.11.18.json, ScoopInstaller/Versions, 0
 bucket/typos.json, ScoopInstaller/Main, 0
