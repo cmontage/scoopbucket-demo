@@ -214,6 +214,7 @@ bucket/authme.json, ScoopInstaller/Extras, 0
 bucket/authpass.json, ScoopInstaller/Extras, 0
 bucket/authy.json, ScoopInstaller/Extras, 0
 bucket/auto-dark-mode-np.json, ScoopInstaller/Nonportable, 0
+bucket/auto-doc.json, ScoopInstaller/Main, 0
 bucket/auto-screenshot.json, ScoopInstaller/Extras, 0
 bucket/autoactions.json, ScoopInstaller/Extras, 0
 bucket/autoclicker.json, ScoopInstaller/Extras, 0
@@ -1989,6 +1990,7 @@ bucket/jpass.json, ScoopInstaller/Extras, 0
 bucket/jpegoptim.json, ScoopInstaller/Main, 0
 bucket/jpegview-fork.json, ScoopInstaller/Extras, 0
 bucket/jpegview.json, ScoopInstaller/Extras, 0
+bucket/jprq.json, ScoopInstaller/Main, 0
 bucket/jq.json, ScoopInstaller/Main, 0
 bucket/jqp.json, ScoopInstaller/Extras, 0
 bucket/jreleaser.json, ScoopInstaller/Main, 0
