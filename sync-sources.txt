@@ -4857,6 +4857,7 @@ bucket/touchcursor.json, ScoopInstaller/Extras, 0
 bucket/tproxy.json, ScoopInstaller/Main, 0
 bucket/tracker.json, ScoopInstaller/Extras, 0
 bucket/tracy.json, ScoopInstaller/Extras, 0
+bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik.json, ScoopInstaller/Main, 0
 bucket/traefik1.json, ScoopInstaller/Versions, 0
 bucket/trafficmonitor-lite.json, ScoopInstaller/Extras, 0
