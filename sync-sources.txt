@@ -5402,6 +5402,7 @@ bucket/xsv.json, ScoopInstaller/Main, 0
 bucket/xtensa-esp32-elf.json, ScoopInstaller/Main, 0
 bucket/xx-net.json, ScoopInstaller/Extras, 0
 bucket/xxcopy.json, ScoopInstaller/Main, 0
+bucket/xxmi.json, Calinou/scoop-games, 0
 bucket/xyplorer.json, ScoopInstaller/Extras, 0
 bucket/xysubfilter-libass-np.json, ScoopInstaller/Nonportable, 0
 bucket/xysubfilter-np.json, ScoopInstaller/Nonportable, 0
