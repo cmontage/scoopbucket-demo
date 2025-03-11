@@ -1600,6 +1600,7 @@ bucket/gpg.json, ScoopInstaller/Main, 0
 bucket/gpg4win.json, ScoopInstaller/Extras, 0
 bucket/gping.json, ScoopInstaller/Main, 0
 bucket/gpodder.json, ScoopInstaller/Extras, 0
+bucket/gpth.json, ScoopInstaller/Main, 0
 bucket/gptscript.json, ScoopInstaller/Extras, 0
 bucket/gpu-z.json, ScoopInstaller/Extras, 0
 bucket/gpxsee.json, ScoopInstaller/Extras, 0
@@ -5487,6 +5488,7 @@ bucket/zipinst.json, ScoopInstaller/Nirsoft, 0
 bucket/zipinstaller.json, kodybrown/scoop-nirsoft, 0
 bucket/zlib.json, ScoopInstaller/Extras, 1
 bucket/zlocation.json, ScoopInstaller/Extras, 0
+bucket/zls-dev.json, ScoopInstaller/Versions, 0
 bucket/zls.json, ScoopInstaller/Main, 0
 bucket/zmc.json, ScoopInstaller/Extras, 0
 bucket/zokumbsp.json, Calinou/scoop-games, 0
