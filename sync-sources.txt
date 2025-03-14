@@ -274,6 +274,7 @@ bucket/b2.json, ScoopInstaller/Main, 0
 bucket/b2sum.json, ScoopInstaller/Main, 0
 bucket/b3sum.json, ScoopInstaller/Main, 0
 bucket/babelmap.json, ScoopInstaller/Extras, 0
+bucket/babelpad.json, ScoopInstaller/Extras, 0
 bucket/backrest.json, ScoopInstaller/Extras, 0
 bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baka-mplayer.json, ScoopInstaller/Extras, 0
@@ -2184,6 +2185,7 @@ bucket/lazpaint.json, ScoopInstaller/Extras, 0
 bucket/lazy-posh-git.json, ScoopInstaller/Extras, 0
 bucket/lazydocker.json, ScoopInstaller/Main, 0
 bucket/lazygit.json, ScoopInstaller/Extras, 0
+bucket/lazysql.json, ScoopInstaller/Extras, 0
 bucket/lbry.json, ScoopInstaller/Extras, 0
 bucket/lcow.json, ScoopInstaller/Versions, 0
 bucket/ldap-admin.json, ScoopInstaller/Extras, 0
@@ -4955,6 +4957,7 @@ bucket/undertale-mod-tool.json, Calinou/scoop-games, 0
 bucket/unetbootin.json, ScoopInstaller/Extras, 0
 bucket/ungit.json, ScoopInstaller/Extras, 0
 bucket/ungoogled-chromium.json, ScoopInstaller/Extras, 0
+bucket/unicodia.json, ScoopInstaller/Extras, 0
 bucket/uniextract2.json, ScoopInstaller/Extras, 0
 bucket/unigetui.json, ScoopInstaller/Extras, 0
 bucket/uninstallview.json, ScoopInstaller/Nirsoft, 0
