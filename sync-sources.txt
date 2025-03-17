@@ -707,6 +707,7 @@ bucket/crip.json, ScoopInstaller/Extras, 0
 bucket/crispy-doom.json, Calinou/scoop-games, 0
 bucket/cro-mag-rally.json, Calinou/scoop-games, 0
 bucket/croc.json, ScoopInstaller/Main, 0
+bucket/cromite.json, ScoopInstaller/Extras, 0
 bucket/crow-translate.json, ScoopInstaller/Extras, 0
 bucket/cru.json, ScoopInstaller/Extras, 0
 bucket/cruft.json, ScoopInstaller/Extras, 0
@@ -3994,6 +3995,7 @@ bucket/rdcman.json, niheaven/scoop-sysinternals, 0
 bucket/rdiff-backup.json, ScoopInstaller/Main, 0
 bucket/rdpv.json, ScoopInstaller/Nirsoft, 0
 bucket/react-native-debugger.json, ScoopInstaller/Extras, 0
+bucket/readest.json, ScoopInstaller/Extras, 0
 bucket/real.json, ScoopInstaller/Extras, 0
 bucket/realcugan-ncnn-vulkan.json, ScoopInstaller/Main, 0
 bucket/realesrgan-ncnn-vulkan.json, ScoopInstaller/Main, 0
