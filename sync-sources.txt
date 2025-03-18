@@ -533,6 +533,7 @@ bucket/cheat-engine.json, ScoopInstaller/Extras, 0
 bucket/cheat.json, ScoopInstaller/Main, 0
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
+bucket/cherry-studio-pre.json, ScoopInstaller/Versions, 0
 bucket/cherry-studio.json, ScoopInstaller/Extras, 0
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi.json, ScoopInstaller/Main, 0
