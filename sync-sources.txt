@@ -1376,6 +1376,7 @@ bucket/ft2-clone.json, ScoopInstaller/Extras, 0
 bucket/fteqw.json, Calinou/scoop-games, 0
 bucket/fu.json, ScoopInstaller/Extras, 0
 bucket/fulleventlogview.json, ScoopInstaller/Nirsoft, 0
+bucket/fullupdateshistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/fun.json, ScoopInstaller/Extras, 0
 bucket/furmark.json, ScoopInstaller/Extras, 0
 bucket/furnace.json, ScoopInstaller/Extras, 0
