@@ -26,7 +26,7 @@ $PSVersionTable.PSVersion.Major # should be >= 5.1
 # 设置 PowerShell 执行策略
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-# 下载安装脚本到本地
+# 下载安装脚本到本地，官方脚本（已经套gcore加速）
 irm http://gcore.jsdelivr.net/gh/ScoopInstaller/Install@master/install.ps1 -outfile 'install.ps1'
 
 # 自定义 Scoop 安装目录，以下是我的路径例子，你可以自己根据情况修改
