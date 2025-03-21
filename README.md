@@ -32,7 +32,10 @@ irm http://gcore.jsdelivr.net/gh/ScoopInstaller/Install@master/install.ps1 -outf
 # 自定义 Scoop 安装目录，以下是我的路径例子，你可以自己根据情况修改
 .\install.ps1 -ScoopDir 'D:\Apps\Scoop\ScoopApps' -ScoopGlobalDir 'D:\Apps\Scoop\ScoopApps-G' -NoProxy
 
-# 下载 7zip git，因为我们之后要添加 Bucket，必须有git
+# 更换scoop国内镜像优化库，此处感谢https://gitee.com/scoop-installer做的镜像
+scoop config SCOOP_REPO "https://gitee.com/scoop-installer/scoop"
+
+# 下载 7zip git，因为我们之后要添加 Bucket，必须有git，7zip必装没什么好说的
 scoop install 7zip git
 ```
 
