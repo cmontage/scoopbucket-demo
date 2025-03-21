@@ -12,7 +12,7 @@ Consolidate Scoop's official Bucket library into one Bucket that is synchronized
 
 本应用库每天自动更新一次。
 
-## 安装 Scoop
+## 安装 Scoop（已安装请忽略）
 
 - [PowerShell](https://learn.microsoft.com/zh-cn/powershell/) 版本在 5.1 或以上这条不用看了，如果没有 PowerShell 大于 5.1 版本，可以下载安装 [PowerShell Core](https://github.com/PowerShell/PowerShell)。运行以下命令查看：
 
