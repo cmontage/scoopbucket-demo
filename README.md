@@ -35,6 +35,9 @@ irm http://gcore.jsdelivr.net/gh/ScoopInstaller/Install@master/install.ps1 -outf
 # 更换scoop国内镜像优化库，此处感谢https://gitee.com/scoop-installer做的镜像
 scoop config SCOOP_REPO "https://gitee.com/scoop-installer/scoop"
 
+# 更新仓库为镜像库地址
+scoop update
+
 # 下载 7zip git，因为我们之后要添加 Bucket，必须有git，7zip必装没什么好说的
 scoop install 7zip git
 ```
