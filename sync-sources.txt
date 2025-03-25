@@ -5438,6 +5438,7 @@ bucket/yed.json, ScoopInstaller/Extras, 0
 bucket/yedit.json, ScoopInstaller/Main, 0
 bucket/yek.json, ScoopInstaller/Extras, 0
 bucket/yesplaymusic.json, ScoopInstaller/Extras, 0
+bucket/yoke.json, ScoopInstaller/Extras, 0
 bucket/yori.json, ScoopInstaller/Main, 0
 bucket/yosys.json, ScoopInstaller/Main, 0
 bucket/youtrack.json, ScoopInstaller/Extras, 0
