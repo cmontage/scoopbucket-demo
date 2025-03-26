@@ -1451,7 +1451,7 @@ bucket/gifski.json, ScoopInstaller/Main, 0
 bucket/gig.json, ScoopInstaller/Main, 0
 bucket/gimagex.json, ScoopInstaller/Extras, 0
 bucket/gimp-dev.json, ScoopInstaller/Versions, 0
-bucket/gimp.json, ScoopInstaller/Extras, 1
+bucket/gimp.json, ScoopInstaller/Extras, 0
 bucket/gink.json, ScoopInstaller/Extras, 0
 bucket/gisto.json, ScoopInstaller/Extras, 0
 bucket/git-absorb.json, ScoopInstaller/Main, 0
