@@ -4410,6 +4410,7 @@ bucket/sleek.json, ScoopInstaller/Extras, 0
 bucket/slic3r.json, ScoopInstaller/Extras, 0
 bucket/sliksvn.json, ScoopInstaller/Main, 0
 bucket/slskd.json, ScoopInstaller/Extras, 0
+bucket/smartcontextmenu.json, ScoopInstaller/Extras, 0
 bucket/smartgit.json, ScoopInstaller/Extras, 0
 bucket/smartmontools.json, ScoopInstaller/Main, 0
 bucket/smartsniff.json, kodybrown/scoop-nirsoft, 0
@@ -5366,6 +5367,7 @@ bucket/x64dbg.json, ScoopInstaller/Extras, 0
 bucket/xampp-np.json, ScoopInstaller/Nonportable, 0
 bucket/xampp.json, ScoopInstaller/Extras, 0
 bucket/xampp74.json, ScoopInstaller/Versions, 0
+bucket/xan.json, ScoopInstaller/Extras, 0
 bucket/xb1cbi.json, ScoopInstaller/Extras, 0
 bucket/xc.json, ScoopInstaller/Extras, 0
 bucket/xca.json, ScoopInstaller/Extras, 0
