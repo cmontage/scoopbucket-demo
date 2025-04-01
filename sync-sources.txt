@@ -5432,6 +5432,7 @@ bucket/yapa2.json, ScoopInstaller/Extras, 0
 bucket/yara.json, ScoopInstaller/Main, 0
 bucket/yarn.json, ScoopInstaller/Main, 0
 bucket/yarr.json, ScoopInstaller/Extras, 0
+bucket/yasb.json, ScoopInstaller/Extras, 0
 bucket/yasm.json, ScoopInstaller/Main, 0
 bucket/yatqa.json, ScoopInstaller/Extras, 0
 bucket/yazi.json, ScoopInstaller/Main, 0
