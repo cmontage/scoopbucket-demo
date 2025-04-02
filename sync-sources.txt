@@ -982,6 +982,7 @@ bucket/dottrace-clt.json, ScoopInstaller/Main, 0
 bucket/dottrace.json, ScoopInstaller/Extras, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
+bucket/doukutsu-rs.json, Calinou/scoop-games, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 0
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxygen.json, ScoopInstaller/Main, 0
