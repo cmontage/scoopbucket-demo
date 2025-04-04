@@ -1437,6 +1437,7 @@ bucket/get-iplayer.json, ScoopInstaller/Main, 0
 bucket/geth.json, ScoopInstaller/Main, 0
 bucket/getnir.json, ScoopInstaller/Nirsoft, 0
 bucket/gettext.json, ScoopInstaller/Main, 0
+bucket/gg.json, ScoopInstaller/Extras, 0
 bucket/gh.json, ScoopInstaller/Main, 0
 bucket/ghcup.json, ScoopInstaller/Main, 0
 bucket/ghidra.json, ScoopInstaller/Extras, 0
@@ -4171,6 +4172,7 @@ bucket/rvgl-launcher.json, Calinou/scoop-games, 0
 bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 0
+bucket/ryujinx-canary.json, Calinou/scoop-games, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
 bucket/ryzenadj.json, ScoopInstaller/Main, 0
