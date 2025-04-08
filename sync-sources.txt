@@ -62,6 +62,7 @@ bucket/ahkpm.json, ScoopInstaller/Extras, 0
 bucket/ahoy.json, ScoopInstaller/Main, 0
 bucket/aichat.json, ScoopInstaller/Main, 0
 bucket/aida64extreme.json, ScoopInstaller/Extras, 0
+bucket/aider-desk.json, ScoopInstaller/Extras, 0
 bucket/aimp.json, ScoopInstaller/Extras, 0
 bucket/air.json, ScoopInstaller/Main, 0
 bucket/aircrack-ng.json, ScoopInstaller/Extras, 0
