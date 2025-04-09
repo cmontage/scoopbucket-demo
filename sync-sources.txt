@@ -258,6 +258,7 @@ bucket/axhelper.json, ScoopInstaller/Nirsoft, 0
 bucket/axiom.json, ScoopInstaller/Extras, 0
 bucket/axis.json, ScoopInstaller/Extras, 0
 bucket/ayugram.json, ScoopInstaller/Extras, 0
+bucket/azahar.json, Calinou/scoop-games, 0
 bucket/azcopy.json, ScoopInstaller/Main, 0
 bucket/azd.json, ScoopInstaller/Extras, 0
 bucket/aztfexport.json, ScoopInstaller/Main, 0
@@ -1356,6 +1357,7 @@ bucket/freedoom.json, Calinou/scoop-games, 0
 bucket/freedownloadmanager.json, ScoopInstaller/Extras, 0
 bucket/freedroidrpg.json, Calinou/scoop-games, 0
 bucket/freelan-np.json, ScoopInstaller/Nonportable, 0
+bucket/freelens.json, ScoopInstaller/Extras, 0
 bucket/freemind.json, ScoopInstaller/Extras, 0
 bucket/freemove.json, ScoopInstaller/Extras, 0
 bucket/freeorion-test.json, Calinou/scoop-games, 0
@@ -4046,6 +4048,7 @@ bucket/regtools.json, ScoopInstaller/Nirsoft, 0
 bucket/regula.json, ScoopInstaller/Main, 0
 bucket/rehex.json, ScoopInstaller/Extras, 0
 bucket/reicon.json, ScoopInstaller/Extras, 0
+bucket/reloaded-ii.json, Calinou/scoop-games, 0
 bucket/remotedesktoppassview.json, kodybrown/scoop-nirsoft, 0
 bucket/remove-empty-directories.json, ScoopInstaller/Extras, 0
 bucket/renamer.json, ScoopInstaller/Extras, 0
