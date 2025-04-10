@@ -4751,6 +4751,8 @@ bucket/temurin22-jdk.json, ScoopInstaller/Java, 0
 bucket/temurin22-jre.json, ScoopInstaller/Java, 0
 bucket/temurin23-jdk.json, ScoopInstaller/Java, 0
 bucket/temurin23-jre.json, ScoopInstaller/Java, 0
+bucket/temurin24-jdk.json, ScoopInstaller/Java, 0
+bucket/temurin24-jre.json, ScoopInstaller/Java, 0
 bucket/temurin8-jdk.json, ScoopInstaller/Java, 0
 bucket/temurin8-jre.json, ScoopInstaller/Java, 0
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 0
