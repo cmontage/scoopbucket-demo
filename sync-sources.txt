@@ -3030,6 +3030,7 @@ bucket/openjdk20.json, ScoopInstaller/Java, 0
 bucket/openjdk21.json, ScoopInstaller/Java, 0
 bucket/openjdk22.json, ScoopInstaller/Java, 0
 bucket/openjdk23.json, ScoopInstaller/Java, 0
+bucket/openjdk24.json, ScoopInstaller/Java, 0
 bucket/openjdk7-unofficial.json, ScoopInstaller/Java, 0
 bucket/openjdk8-redhat-jre.json, ScoopInstaller/Java, 0
 bucket/openjdk8-redhat.json, ScoopInstaller/Java, 0
