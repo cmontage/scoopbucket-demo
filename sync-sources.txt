@@ -3696,6 +3696,7 @@ bucket/pocketasterisk.json, ScoopInstaller/Nirsoft, 0
 bucket/pocketbase.json, ScoopInstaller/Main, 0
 bucket/pocketsphinx.json, ScoopInstaller/Extras, 0
 bucket/podman-desktop.json, ScoopInstaller/Extras, 0
+bucket/podman-tui.json, ScoopInstaller/Main, 0
 bucket/podman.json, ScoopInstaller/Main, 0
 bucket/poedit.json, ScoopInstaller/Extras, 0
 bucket/poetry.json, ScoopInstaller/Main, 0
@@ -4136,6 +4137,7 @@ bucket/rtools35.json, ScoopInstaller/Versions, 0
 bucket/rtools40.json, ScoopInstaller/Versions, 0
 bucket/rtools42.json, ScoopInstaller/Versions, 0
 bucket/rtools43.json, ScoopInstaller/Versions, 0
+bucket/rtools44.json, ScoopInstaller/Versions, 0
 bucket/rtss.json, ScoopInstaller/Extras, 0
 bucket/ru.json, niheaven/scoop-sysinternals, 0
 bucket/rubberband.json, ScoopInstaller/Main, 0
