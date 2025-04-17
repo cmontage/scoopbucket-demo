@@ -5193,6 +5193,7 @@ bucket/webstorm-eap.json, ScoopInstaller/Versions, 1
 bucket/webstorm.json, ScoopInstaller/Extras, 1
 bucket/webtorrent.json, ScoopInstaller/Extras, 0
 bucket/webvideocap.json, ScoopInstaller/Nirsoft, 0
+bucket/wechat-legacy.json, ScoopInstaller/Versions, 0
 bucket/wechat.json, ScoopInstaller/Extras, 0
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 0
@@ -5352,7 +5353,6 @@ bucket/wox.json, ScoopInstaller/Extras, 0
 bucket/wp-cli.json, ScoopInstaller/Main, 0
 bucket/wpd.json, ScoopInstaller/Extras, 0
 bucket/wpsoffice.json, ScoopInstaller/Extras, 0
-bucket/wrangler.json, ScoopInstaller/Main, 0
 bucket/write.json, ScoopInstaller/Extras, 0
 bucket/wsa-pacman.json, ScoopInstaller/Extras, 1
 bucket/wsl-distrod.json, ScoopInstaller/Extras, 0
