@@ -4402,6 +4402,7 @@ bucket/simplyserial.json, ScoopInstaller/Extras, 0
 bucket/simulationcraft.json, Calinou/scoop-games, 0
 bucket/simutrans.json, Calinou/scoop-games, 0
 bucket/sing-box.json, ScoopInstaller/Main, 0
+bucket/single-file-cli.json, ScoopInstaller/Extras, 0
 bucket/sioyek.json, ScoopInstaller/Extras, 0
 bucket/sirikali.json, ScoopInstaller/Extras, 0
 bucket/siteshoter.json, ScoopInstaller/Nirsoft, 0
