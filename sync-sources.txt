@@ -29,7 +29,6 @@ bucket/accesser.json, ScoopInstaller/Extras, 0
 bucket/ack.json, ScoopInstaller/Main, 0
 bucket/acm.json, ScoopInstaller/Nirsoft, 0
 bucket/acmesharp.json, ScoopInstaller/Main, 0
-bucket/acorn.json, ScoopInstaller/Main, 0
 bucket/act.json, ScoopInstaller/Main, 0
 bucket/actionlint.json, ScoopInstaller/Main, 0
 bucket/activate-linux.json, ScoopInstaller/Extras, 0
@@ -576,7 +575,6 @@ bucket/clangd.json, ScoopInstaller/Main, 0
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 0
 bucket/clash-verge-rev.json, ScoopInstaller/Extras, 0
 bucket/clash-verge.json, ScoopInstaller/Extras, 0
-bucket/clash.json, ScoopInstaller/Main, 0
 bucket/clash.mini.json, ScoopInstaller/Extras, 0
 bucket/clashtui.json, ScoopInstaller/Extras, 0
 bucket/classic-volume-mixer.json, ScoopInstaller/Extras, 0
@@ -2444,6 +2442,7 @@ bucket/matterbridge.json, ScoopInstaller/Extras, 0
 bucket/matterircd.json, ScoopInstaller/Extras, 0
 bucket/mattermost.json, ScoopInstaller/Extras, 0
 bucket/maven.json, ScoopInstaller/Main, 0
+bucket/maven3.json, ScoopInstaller/Versions, 0
 bucket/maven4.json, ScoopInstaller/Versions, 0
 bucket/maxima.json, ScoopInstaller/Extras, 0
 bucket/maxto.json, ScoopInstaller/Extras, 0
@@ -3205,7 +3204,6 @@ bucket/peco.json, ScoopInstaller/Main, 0
 bucket/peerblock.json, ScoopInstaller/Extras, 0
 bucket/pegasus.json, Calinou/scoop-games, 0
 bucket/peid.json, ScoopInstaller/Extras, 0
-bucket/pelook.json, ScoopInstaller/Main, 0
 bucket/pencil.json, ScoopInstaller/Extras, 0
 bucket/pencil2d.json, ScoopInstaller/Extras, 0
 bucket/pendmoves.json, niheaven/scoop-sysinternals, 0
@@ -3670,6 +3668,7 @@ bucket/pipp.json, ScoopInstaller/Extras, 0
 bucket/pipx.json, ScoopInstaller/Main, 0
 bucket/pixelflasher.json, ScoopInstaller/Extras, 0
 bucket/pixelorama.json, ScoopInstaller/Extras, 0
+bucket/pixi.json, ScoopInstaller/Main, 0
 bucket/pixie.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
@@ -4817,6 +4816,7 @@ bucket/tftputil-gui.json, ScoopInstaller/Extras, 0
 bucket/theia-ide.json, ScoopInstaller/Extras, 0
 bucket/thisiswin11.json, ScoopInstaller/Extras, 0
 bucket/thonny.json, ScoopInstaller/Extras, 0
+bucket/thorium-avx2.json, ScoopInstaller/Versions, 0
 bucket/thorium-reader.json, ScoopInstaller/Extras, 0
 bucket/thorium.json, ScoopInstaller/Extras, 0
 bucket/threema.json, ScoopInstaller/Extras, 0
