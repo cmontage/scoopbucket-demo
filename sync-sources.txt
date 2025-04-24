@@ -3071,6 +3071,7 @@ bucket/opensupaplex.json, Calinou/scoop-games, 0
 bucket/opentabletdriver.json, ScoopInstaller/Extras, 0
 bucket/opentofu.json, ScoopInstaller/Main, 0
 bucket/opentoonz.json, ScoopInstaller/Extras, 0
+bucket/opentrace.json, ScoopInstaller/Extras, 0
 bucket/opentrack.json, ScoopInstaller/Extras, 0
 bucket/openttd.json, Calinou/scoop-games, 0
 bucket/opentyrian2000.json, Calinou/scoop-games, 0
@@ -4193,7 +4194,6 @@ bucket/sad.json, ScoopInstaller/Main, 0
 bucket/safaricacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/safarihistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/safebrowser.json, ScoopInstaller/Extras, 0
-bucket/sagemath.json, ScoopInstaller/Extras, 0
 bucket/sam.json, ScoopInstaller/Extras, 0
 bucket/sameboy.json, Calinou/scoop-games, 0
 bucket/saml2aws.json, ScoopInstaller/Main, 0
@@ -4906,6 +4906,7 @@ bucket/trenchbroom.json, Calinou/scoop-games, 0
 bucket/tribler.json, ScoopInstaller/Extras, 0
 bucket/trid.json, ScoopInstaller/Main, 0
 bucket/trilium.json, ScoopInstaller/Extras, 0
+bucket/triliumnext.json, ScoopInstaller/Extras, 0
 bucket/trillian.json, ScoopInstaller/Extras, 0
 bucket/triplea.json, Calinou/scoop-games, 0
 bucket/trippy.json, ScoopInstaller/Main, 0
