@@ -4577,7 +4577,6 @@ bucket/stonecutter.json, Calinou/scoop-games, 0
 bucket/stoplight-prism.json, ScoopInstaller/Main, 0
 bucket/stoplight-studio.json, ScoopInstaller/Extras, 0
 bucket/stranslate.json, ScoopInstaller/Extras, 0
-bucket/strawberry-nightly.json, ScoopInstaller/Versions, 0
 bucket/streamdeck.json, ScoopInstaller/Extras, 0
 bucket/streamlabs-chatbot.json, ScoopInstaller/Extras, 0
 bucket/streamlabs-obs.json, ScoopInstaller/Extras, 0
@@ -5266,6 +5265,7 @@ bucket/windows-virtualdesktop-helper.json, ScoopInstaller/Extras, 0
 bucket/windows11-classic-context-menu.json, ScoopInstaller/Extras, 0
 bucket/windows95.json, ScoopInstaller/Extras, 0
 bucket/windowsdesktop-runtime-6.0.json, ScoopInstaller/Versions, 0
+bucket/windowsdesktop-runtime-7.0.json, ScoopInstaller/Versions, 0
 bucket/windowsdesktop-runtime-lts.json, ScoopInstaller/Extras, 0
 bucket/windowsdesktop-runtime.json, ScoopInstaller/Extras, 0
 bucket/windowspasswordrecoverypackage.json, kodybrown/scoop-nirsoft, 0
