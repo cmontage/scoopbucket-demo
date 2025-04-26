@@ -2385,6 +2385,7 @@ bucket/lzdoom.json, Calinou/scoop-games, 0
 bucket/lzip.json, ScoopInstaller/Main, 0
 bucket/m4.json, ScoopInstaller/Main, 0
 bucket/m4a-to-mp3-converter.json, ScoopInstaller/Extras, 0
+bucket/maa.json, Calinou/scoop-games, 0
 bucket/macaddressview.json, ScoopInstaller/Nirsoft, 0
 bucket/macast-debug.json, ScoopInstaller/Extras, 0
 bucket/macast.json, ScoopInstaller/Extras, 0
