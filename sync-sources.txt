@@ -5451,6 +5451,7 @@ bucket/yarr.json, ScoopInstaller/Extras, 0
 bucket/yasb.json, ScoopInstaller/Extras, 0
 bucket/yasm.json, ScoopInstaller/Main, 0
 bucket/yatqa.json, ScoopInstaller/Extras, 0
+bucket/yazi-nightly.json, ScoopInstaller/Versions, 0
 bucket/yazi.json, ScoopInstaller/Main, 0
 bucket/ydl-ui.json, ScoopInstaller/Extras, 0
 bucket/yed.json, ScoopInstaller/Extras, 0
