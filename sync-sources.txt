@@ -820,6 +820,7 @@ bucket/dd.json, ScoopInstaller/Main, 0
 bucket/ddc-toolbox.json, ScoopInstaller/Extras, 0
 bucket/ddev.json, ScoopInstaller/Main, 0
 bucket/ddnet.json, Calinou/scoop-games, 0
+bucket/ddns-go.json, ScoopInstaller/Extras, 0
 bucket/ddosify.json, ScoopInstaller/Main, 0
 bucket/ddu.json, ScoopInstaller/Extras, 0
 bucket/de4dot-net35.json, ScoopInstaller/Versions, 0
@@ -1318,6 +1319,7 @@ bucket/folderchangesview.json, ScoopInstaller/Nirsoft, 0
 bucket/foldersreport.json, kodybrown/scoop-nirsoft, 0
 bucket/foldertimeupdate.json, ScoopInstaller/Nirsoft, 0
 bucket/folding-at-home.json, ScoopInstaller/Extras, 0
+bucket/folo.json, ScoopInstaller/Extras, 0
 bucket/folrep.json, ScoopInstaller/Nirsoft, 0
 bucket/fontbase.json, ScoopInstaller/Extras, 0
 bucket/fontcreator.json, ScoopInstaller/Extras, 0
@@ -4901,6 +4903,7 @@ bucket/tre-command.json, ScoopInstaller/Main, 0
 bucket/tree-sitter.json, ScoopInstaller/Main, 0
 bucket/treesheets.json, ScoopInstaller/Extras, 0
 bucket/treesize-free.json, ScoopInstaller/Extras, 0
+bucket/treex.json, ScoopInstaller/Extras, 0
 bucket/tremulous.json, ScoopInstaller/Extras, 0
 bucket/trenchbroom.json, Calinou/scoop-games, 0
 bucket/tribler.json, ScoopInstaller/Extras, 0
