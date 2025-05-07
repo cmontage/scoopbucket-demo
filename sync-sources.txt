@@ -2641,6 +2641,7 @@ bucket/mpc.json, ScoopInstaller/Extras, 0
 bucket/mpd.json, ScoopInstaller/Main, 0
 bucket/mpg123.json, ScoopInstaller/Main, 0
 bucket/mplayer.json, ScoopInstaller/Extras, 0
+bucket/mpls.json, ScoopInstaller/Extras, 0
 bucket/mpress.json, ScoopInstaller/Extras, 0
 bucket/mprocs.json, ScoopInstaller/Main, 0
 bucket/mps-eap.json, ScoopInstaller/Versions, 1
@@ -2841,6 +2842,7 @@ bucket/nohboard.json, ScoopInstaller/Extras, 0
 bucket/noi.json, ScoopInstaller/Extras, 0
 bucket/nomacs.json, ScoopInstaller/Extras, 0
 bucket/nomad.json, ScoopInstaller/Main, 0
+bucket/nomeiryoui.json, ScoopInstaller/Extras, 0
 bucket/nomino.json, ScoopInstaller/Main, 0
 bucket/none.json, kodybrown/scoop-nirsoft, 0
 bucket/nordpass.json, ScoopInstaller/Extras, 0
@@ -4698,6 +4700,7 @@ bucket/task.json, ScoopInstaller/Main, 0
 bucket/taskbarx.json, ScoopInstaller/Extras, 0
 bucket/taskschedulerview.json, ScoopInstaller/Nirsoft, 0
 bucket/taskt.json, ScoopInstaller/Extras, 0
+bucket/tauon.json, ScoopInstaller/Extras, 0
 bucket/tb-vol-scroll.json, ScoopInstaller/Extras, 0
 bucket/tcc.json, ScoopInstaller/Main, 0
 bucket/tcno-acc-switcher.json, ScoopInstaller/Extras, 0
@@ -4796,6 +4799,7 @@ bucket/testdisk.json, ScoopInstaller/Extras, 0
 bucket/testlimit.json, niheaven/scoop-sysinternals, 0
 bucket/testmace.json, ScoopInstaller/Extras, 0
 bucket/tev.json, ScoopInstaller/Extras, 0
+bucket/tex-fmt.json, ScoopInstaller/Extras, 0
 bucket/texlab.json, ScoopInstaller/Main, 0
 bucket/texmacs.json, ScoopInstaller/Extras, 0
 bucket/texmaker.json, ScoopInstaller/Extras, 0
