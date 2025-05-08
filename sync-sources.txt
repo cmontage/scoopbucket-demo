@@ -187,6 +187,7 @@ bucket/asciidoctorj.json, ScoopInstaller/Main, 0
 bucket/asio4all-np.json, ScoopInstaller/Nonportable, 0
 bucket/aspell.json, ScoopInstaller/Main, 0
 bucket/assaultcube.json, Calinou/scoop-games, 0
+bucket/asset-ripper.json, Calinou/scoop-games, 0
 bucket/assetstudio.json, Calinou/scoop-games, 0
 bucket/assimp3.json, ScoopInstaller/Versions, 0
 bucket/assume-role.json, ScoopInstaller/Extras, 0
@@ -1135,6 +1136,7 @@ bucket/eraser.json, ScoopInstaller/Extras, 0
 bucket/erdtree.json, ScoopInstaller/Main, 0
 bucket/ericw-tools.json, Calinou/scoop-games, 0
 bucket/erlang.json, ScoopInstaller/Main, 0
+bucket/escrcpy.json, ScoopInstaller/Extras, 0
 bucket/esearch.json, ScoopInstaller/Extras, 0
 bucket/esedatabaseview.json, ScoopInstaller/Nirsoft, 0
 bucket/espanso-pre.json, ScoopInstaller/Versions, 0
@@ -1424,6 +1426,7 @@ bucket/gdidrop.json, Calinou/scoop-games, 0
 bucket/gdisk.json, ScoopInstaller/Main, 0
 bucket/gdiview.json, ScoopInstaller/Nirsoft, 0
 bucket/gdrive.json, ScoopInstaller/Main, 0
+bucket/gdsdecomp.json, Calinou/scoop-games, 0
 bucket/gdu.json, ScoopInstaller/Main, 0
 bucket/geany-plugins.json, ScoopInstaller/Extras, 0
 bucket/geany.json, ScoopInstaller/Extras, 0
@@ -3684,6 +3687,7 @@ bucket/pkg-config.json, ScoopInstaller/Main, 0
 bucket/pkhex.json, Calinou/scoop-games, 0
 bucket/pkl-cli.json, ScoopInstaller/Main, 0
 bucket/plantuml.json, ScoopInstaller/Extras, 0
+bucket/playback.json, Calinou/scoop-games, 0
 bucket/playit.json, Calinou/scoop-games, 0
 bucket/playnite.json, ScoopInstaller/Extras, 0
 bucket/plex-desktop.json, ScoopInstaller/Extras, 0
@@ -4200,6 +4204,7 @@ bucket/sad.json, ScoopInstaller/Main, 0
 bucket/safaricacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/safarihistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/safebrowser.json, ScoopInstaller/Extras, 0
+bucket/sak.json, Calinou/scoop-games, 0
 bucket/sam.json, ScoopInstaller/Extras, 0
 bucket/sameboy.json, Calinou/scoop-games, 0
 bucket/saml2aws.json, ScoopInstaller/Main, 0
@@ -5162,6 +5167,7 @@ bucket/wait4x.json, ScoopInstaller/Extras, 0
 bucket/wakatime-cli.json, ScoopInstaller/Main, 0
 bucket/wakemeonlan.json, ScoopInstaller/Nirsoft, 0
 bucket/walk.json, ScoopInstaller/Main, 0
+bucket/walksnail-osd-tool.json, ScoopInstaller/Extras, 0
 bucket/wapm-cli.json, ScoopInstaller/Main, 0
 bucket/warp-terminal.json, ScoopInstaller/Extras, 0
 bucket/warp.json, ScoopInstaller/Main, 0
@@ -5280,6 +5286,7 @@ bucket/windowspasswordrecoverypackage.json, kodybrown/scoop-nirsoft, 0
 bucket/windowsspyblocker.json, ScoopInstaller/Extras, 0
 bucket/windowsupdateshistoryviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/windowtextextractor.json, ScoopInstaller/Extras, 0
+bucket/windsurf.json, ScoopInstaller/Extras, 0
 bucket/windterm.json, ScoopInstaller/Extras, 0
 bucket/windynamicdesktop.json, ScoopInstaller/Extras, 0
 bucket/winexplorer.json, kodybrown/scoop-nirsoft, 0
