@@ -1518,6 +1518,7 @@ bucket/glab.json, ScoopInstaller/Main, 0
 bucket/glary-utilities.json, ScoopInstaller/Extras, 0
 bucket/glasswire-lite-np.json, ScoopInstaller/Nonportable, 0
 bucket/glasswire-np.json, ScoopInstaller/Nonportable, 0
+bucket/glazewm-np.json, ScoopInstaller/Nonportable, 0
 bucket/glazewm.json, ScoopInstaller/Extras, 0
 bucket/gleam.json, ScoopInstaller/Main, 0
 bucket/glfw.json, ScoopInstaller/Main, 0
