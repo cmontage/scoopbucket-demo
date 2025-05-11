@@ -4420,7 +4420,6 @@ bucket/siteshoter.json, ScoopInstaller/Nirsoft, 0
 bucket/sixcells.json, Calinou/scoop-games, 0
 bucket/siyuan-note.json, ScoopInstaller/Extras, 0
 bucket/skaffold.json, ScoopInstaller/Extras, 0
-bucket/skype.json, ScoopInstaller/Extras, 0
 bucket/skypecontactsview.json, ScoopInstaller/Nirsoft, 0
 bucket/skypelogview.json, ScoopInstaller/Nirsoft, 0
 bucket/skywalking-cli.json, ScoopInstaller/Main, 0
