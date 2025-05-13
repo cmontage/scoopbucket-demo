@@ -1843,6 +1843,7 @@ bucket/iehistoryview.json, kodybrown/scoop-nirsoft, 0
 bucket/iehv.json, ScoopInstaller/Nirsoft, 0
 bucket/iepassview.json, kodybrown/scoop-nirsoft, 0
 bucket/iepv.json, ScoopInstaller/Nirsoft, 0
+bucket/ifrextractor-rs.json, ScoopInstaller/Extras, 0
 bucket/igdm.json, ScoopInstaller/Extras, 0
 bucket/ignoreit.json, ScoopInstaller/Extras, 0
 bucket/igrep.json, ScoopInstaller/Main, 0
@@ -4963,6 +4964,7 @@ bucket/uber-apk-signer.json, ScoopInstaller/Main, 0
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
 bucket/ubports-installer.json, ScoopInstaller/Extras, 0
 bucket/ucheck.json, ScoopInstaller/Extras, 0
+bucket/uefitool.json, ScoopInstaller/Extras, 0
 bucket/ueli.json, ScoopInstaller/Extras, 0
 bucket/ufoai.json, Calinou/scoop-games, 0
 bucket/ugene.json, ScoopInstaller/Extras, 0
