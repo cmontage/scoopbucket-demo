@@ -393,6 +393,7 @@ bucket/boost.json, ScoopInstaller/Main, 0
 bucket/boostnote-local.json, ScoopInstaller/Extras, 0
 bucket/boostnote.json, ScoopInstaller/Extras, 0
 bucket/boot-clj.json, ScoopInstaller/Extras, 0
+bucket/bootperformanceview.json, ScoopInstaller/Nirsoft, 0
 bucket/boringproxy.json, ScoopInstaller/Main, 0
 bucket/bottom-nightly.json, ScoopInstaller/Versions, 0
 bucket/bottom.json, ScoopInstaller/Main, 0
@@ -852,6 +853,7 @@ bucket/dep.json, ScoopInstaller/Main, 0
 bucket/dependencies.json, ScoopInstaller/Extras, 0
 bucket/dependency-check.json, ScoopInstaller/Main, 0
 bucket/depends.json, ScoopInstaller/Extras, 0
+bucket/deskflow.json, ScoopInstaller/Extras, 0
 bucket/deskpins.json, ScoopInstaller/Extras, 0
 bucket/deskreen.json, ScoopInstaller/Extras, 0
 bucket/desktop-ini-editor.json, ScoopInstaller/Extras, 0
@@ -2567,8 +2569,9 @@ bucket/mingit.json, ScoopInstaller/Main, 0
 bucket/mingw-mstorsjo-llvm-ucrt.json, ScoopInstaller/Main, 0
 bucket/mingw-msvcrt.json, ScoopInstaller/Versions, 0
 bucket/mingw-nuwen.json, ScoopInstaller/Main, 0
+bucket/mingw-winlibs-llvm-msvcrt.json, ScoopInstaller/Versions, 0
 bucket/mingw-winlibs-llvm-ucrt.json, ScoopInstaller/Versions, 0
-bucket/mingw-winlibs-llvm.json, ScoopInstaller/Versions, 0
+bucket/mingw-winlibs-msvcrt.json, ScoopInstaller/Versions, 0
 bucket/mingw-winlibs-ucrt-mcf.json, ScoopInstaller/Versions, 0
 bucket/mingw-winlibs-ucrt.json, ScoopInstaller/Versions, 0
 bucket/mingw-winlibs.json, ScoopInstaller/Main, 0
@@ -4393,6 +4396,7 @@ bucket/shmnview.json, ScoopInstaller/Nirsoft, 0
 bucket/shortcutsman.json, kodybrown/scoop-nirsoft, 0
 bucket/shotcut.json, ScoopInstaller/Extras, 0
 bucket/show-disk-partition-style.json, ScoopInstaller/Extras, 0
+bucket/shutdownperformanceview.json, ScoopInstaller/Nirsoft, 0
 bucket/shutter-encoder.json, ScoopInstaller/Extras, 0
 bucket/shutter.json, ScoopInstaller/Extras, 0
 bucket/shutup10.json, ScoopInstaller/Extras, 0
