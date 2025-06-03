@@ -1278,6 +1278,7 @@ bucket/firefoxpwa.json, ScoopInstaller/Extras, 0
 bucket/firemin.json, ScoopInstaller/Extras, 0
 bucket/firewallappblocker.json, ScoopInstaller/Extras, 0
 bucket/firmwaretablesview.json, ScoopInstaller/Nirsoft, 0
+bucket/fishstrap.json, Calinou/scoop-games, 0
 bucket/fission-cli.json, ScoopInstaller/Main, 0
 bucket/fix-print-spooler.json, ScoopInstaller/Extras, 0
 bucket/flac.json, ScoopInstaller/Main, 0
