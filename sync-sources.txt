@@ -766,6 +766,7 @@ bucket/curl.json, ScoopInstaller/Main, 0
 bucket/curlie.json, ScoopInstaller/Main, 0
 bucket/currports.json, kodybrown/scoop-nirsoft, 0
 bucket/currprocess.json, kodybrown/scoop-nirsoft, 0
+bucket/cursor-latest.json, ScoopInstaller/Versions, 0
 bucket/cursor.json, ScoopInstaller/Extras, 0
 bucket/customexplorertoolbar.json, ScoopInstaller/Nirsoft, 0
 bucket/customizeie.json, kodybrown/scoop-nirsoft, 0
