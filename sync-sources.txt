@@ -2473,6 +2473,7 @@ bucket/maxto.json, ScoopInstaller/Extras, 0
 bucket/mayo.json, ScoopInstaller/Extras, 0
 bucket/mc.json, ScoopInstaller/Extras, 0
 bucket/mcedit2.json, Calinou/scoop-games, 0
+bucket/mcfly.json, ScoopInstaller/Main, 0
 bucket/mcomix.json, ScoopInstaller/Extras, 0
 bucket/mcrcon.json, Calinou/scoop-games, 0
 bucket/mdbook.json, ScoopInstaller/Main, 0
@@ -2816,6 +2817,7 @@ bucket/nextdns.json, ScoopInstaller/Main, 0
 bucket/nexttrace.json, ScoopInstaller/Extras, 0
 bucket/nexus-repository-oss.json, ScoopInstaller/Extras, 0
 bucket/nexusfont.json, ScoopInstaller/Extras, 0
+bucket/nfpm.json, ScoopInstaller/Main, 0
 bucket/nginx.json, ScoopInstaller/Main, 0
 bucket/ngrok.json, ScoopInstaller/Main, 0
 bucket/ngrok2.json, ScoopInstaller/Versions, 0
