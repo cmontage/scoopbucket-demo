@@ -150,6 +150,7 @@ bucket/applewin.json, Calinou/scoop-games, 0
 bucket/appnetworkcounter.json, ScoopInstaller/Nirsoft, 0
 bucket/appreadwritecounter.json, ScoopInstaller/Nirsoft, 0
 bucket/appresourcesusageview.json, ScoopInstaller/Nirsoft, 0
+bucket/aptakube.json, ScoopInstaller/Extras, 0
 bucket/aqtinstall.json, ScoopInstaller/Main, 0
 bucket/aqua.json, ScoopInstaller/Main, 0
 bucket/arc.json, ScoopInstaller/Main, 0
@@ -3986,6 +3987,7 @@ bucket/r41.json, ScoopInstaller/Versions, 0
 bucket/r42.json, ScoopInstaller/Versions, 0
 bucket/r43.json, ScoopInstaller/Versions, 0
 bucket/rabbitmq.json, ScoopInstaller/Extras, 0
+bucket/rabbitmqadmin-ng.json, ScoopInstaller/Extras, 0
 bucket/rabbitmqadmin.json, ScoopInstaller/Extras, 0
 bucket/racelab.json, Calinou/scoop-games, 0
 bucket/racket-minimal.json, ScoopInstaller/Main, 0
