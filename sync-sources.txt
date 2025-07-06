@@ -2064,7 +2064,6 @@ bucket/kate.json, ScoopInstaller/Extras, 0
 bucket/katrain.json, Calinou/scoop-games, 0
 bucket/kavita.json, ScoopInstaller/Extras, 0
 bucket/kawaii-player.json, ScoopInstaller/Extras, 0
-bucket/kawanime.json, ScoopInstaller/Extras, 0
 bucket/kcc.json, ScoopInstaller/Extras, 0
 bucket/kcptun.json, ScoopInstaller/Main, 0
 bucket/kdeconnect-nightly.json, ScoopInstaller/Versions, 0
