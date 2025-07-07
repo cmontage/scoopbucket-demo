@@ -4697,6 +4697,7 @@ bucket/sysinternals-suite.json, niheaven/scoop-sysinternals, 0
 bucket/sysinternals.json, ScoopInstaller/Extras, 0
 bucket/sysmon.json, niheaven/scoop-sysinternals, 0
 bucket/systeminformer-nightly.json, ScoopInstaller/Versions, 0
+bucket/systeminformer.json, ScoopInstaller/Extras, 0
 bucket/systools.json, ScoopInstaller/Nirsoft, 0
 bucket/t-clock.json, ScoopInstaller/Extras, 0
 bucket/tabby.json, ScoopInstaller/Extras, 0
