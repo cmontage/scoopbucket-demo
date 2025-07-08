@@ -52,7 +52,8 @@ bucket/advancedrenamer.json, ScoopInstaller/Extras, 0
 bucket/advancedrun.json, ScoopInstaller/Nirsoft, 0
 bucket/adventuregamestudio.json, ScoopInstaller/Extras, 0
 bucket/adwcleaner.json, ScoopInstaller/Extras, 0
-bucket/aegisubdc.json, ScoopInstaller/Extras, 0
+bucket/aegisub-arch1t3cht.json, ScoopInstaller/Extras, 0
+bucket/aegisub.json, ScoopInstaller/Extras, 0
 bucket/affine.json, ScoopInstaller/Extras, 0
 bucket/ag.json, ScoopInstaller/Main, 0
 bucket/age.json, ScoopInstaller/Extras, 0
