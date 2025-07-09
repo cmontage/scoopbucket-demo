@@ -894,6 +894,7 @@ bucket/diffutils.json, ScoopInstaller/Main, 0
 bucket/digdag.json, ScoopInstaller/Main, 0
 bucket/digikam.json, ScoopInstaller/Extras, 0
 bucket/digital.json, ScoopInstaller/Extras, 0
+bucket/dioxus.json, ScoopInstaller/Main, 0
 bucket/direnv.json, ScoopInstaller/Main, 0
 bucket/dirhash.json, ScoopInstaller/Main, 0
 bucket/discord-canary.json, ScoopInstaller/Versions, 0
@@ -1454,6 +1455,7 @@ bucket/gettext.json, ScoopInstaller/Main, 0
 bucket/gg.json, ScoopInstaller/Extras, 0
 bucket/gh.json, ScoopInstaller/Main, 0
 bucket/ghcup.json, ScoopInstaller/Main, 0
+bucket/ghdl.json, ScoopInstaller/Main, 0
 bucket/ghidra.json, ScoopInstaller/Extras, 0
 bucket/ghorg.json, ScoopInstaller/Main, 0
 bucket/ghostscript.json, ScoopInstaller/Main, 0
@@ -2348,6 +2350,7 @@ bucket/lobster.json, ScoopInstaller/Main, 0
 bucket/local-browser.json, ScoopInstaller/Extras, 0
 bucket/locale-emulator.json, ScoopInstaller/Extras, 0
 bucket/localsend.json, ScoopInstaller/Extras, 0
+bucket/localstack.json, ScoopInstaller/Main, 0
 bucket/lockhunter-np.json, ScoopInstaller/Nonportable, 0
 bucket/lockhunter.json, ScoopInstaller/Extras, 1
 bucket/loft.json, ScoopInstaller/Main, 0
@@ -3066,6 +3069,7 @@ bucket/openjdk8-redhat.json, ScoopInstaller/Java, 0
 bucket/openjdk9.json, ScoopInstaller/Java, 0
 bucket/openlens.json, ScoopInstaller/Extras, 0
 bucket/openliberty.json, ScoopInstaller/Extras, 0
+bucket/openlist.json, ScoopInstaller/Main, 0
 bucket/openloco.json, Calinou/scoop-games, 0
 bucket/openmpt.json, ScoopInstaller/Extras, 0
 bucket/openmsx-dev.json, Calinou/scoop-games, 0
@@ -3927,6 +3931,7 @@ bucket/qaac.json, ScoopInstaller/Main, 0
 bucket/qalculate.json, ScoopInstaller/Extras, 0
 bucket/qbittorrent-enhanced.json, ScoopInstaller/Extras, 0
 bucket/qbittorrent-nightly.json, ScoopInstaller/Versions, 0
+bucket/qbittorrent-qt6_lt20.json, ScoopInstaller/Versions, 0
 bucket/qbittorrent.json, ScoopInstaller/Extras, 0
 bucket/qefi-entry-manager.json, ScoopInstaller/Extras, 0
 bucket/qemu.json, ScoopInstaller/Main, 0
@@ -4042,6 +4047,7 @@ bucket/realcugan-ncnn-vulkan.json, ScoopInstaller/Main, 0
 bucket/realesrgan-ncnn-vulkan.json, ScoopInstaller/Main, 0
 bucket/realm.json, ScoopInstaller/Main, 0
 bucket/reaper.json, ScoopInstaller/Extras, 0
+bucket/rebar3.json, ScoopInstaller/Main, 0
 bucket/recaps.json, ScoopInstaller/Extras, 1
 bucket/recentfilesview.json, ScoopInstaller/Nirsoft, 0
 bucket/recmd.json, ScoopInstaller/Main, 0
