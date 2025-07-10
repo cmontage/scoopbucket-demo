@@ -839,7 +839,6 @@ bucket/debugview.json, niheaven/scoop-sysinternals, 0
 bucket/debugviewpp.json, ScoopInstaller/Extras, 0
 bucket/deepgit.json, ScoopInstaller/Extras, 0
 bucket/deepgit402.json, ScoopInstaller/Versions, 0
-bucket/deepl.json, ScoopInstaller/Extras, 0
 bucket/deeplx.json, ScoopInstaller/Extras, 0
 bucket/deepstream.json, ScoopInstaller/Main, 0
 bucket/deew.json, ScoopInstaller/Extras, 0
@@ -1423,7 +1422,6 @@ bucket/gcc-aarch64-none-elf.json, ScoopInstaller/Extras, 0
 bucket/gcc-aarch64-none-linux-gnu.json, ScoopInstaller/Extras, 0
 bucket/gcc-arm-none-eabi.json, ScoopInstaller/Extras, 0
 bucket/gcc-arm-none-linux-gnueabihf.json, ScoopInstaller/Extras, 0
-bucket/gcc-msys.json, ScoopInstaller/Versions, 0
 bucket/gcc.json, ScoopInstaller/Main, 0
 bucket/gcc45.json, ScoopInstaller/Versions, 0
 bucket/gcfscape.json, ScoopInstaller/Extras, 0
@@ -1562,7 +1560,18 @@ bucket/go-size-analyzer.json, ScoopInstaller/Main, 0
 bucket/go-sqlcmd.json, ScoopInstaller/Main, 0
 bucket/go-swagger.json, ScoopInstaller/Main, 0
 bucket/go.json, ScoopInstaller/Main, 0
+bucket/go113.json, ScoopInstaller/Versions, 0
 bucket/go114.json, ScoopInstaller/Versions, 0
+bucket/go115.json, ScoopInstaller/Versions, 0
+bucket/go116.json, ScoopInstaller/Versions, 0
+bucket/go117.json, ScoopInstaller/Versions, 0
+bucket/go118.json, ScoopInstaller/Versions, 0
+bucket/go119.json, ScoopInstaller/Versions, 0
+bucket/go120.json, ScoopInstaller/Versions, 0
+bucket/go121.json, ScoopInstaller/Versions, 0
+bucket/go122.json, ScoopInstaller/Versions, 0
+bucket/go123.json, ScoopInstaller/Versions, 0
+bucket/go124.json, ScoopInstaller/Versions, 0
 bucket/gobang.json, ScoopInstaller/Main, 0
 bucket/gobuster.json, ScoopInstaller/Main, 0
 bucket/godot-alpha.json, ScoopInstaller/Versions, 0
@@ -3093,7 +3102,6 @@ bucket/openshift-okd-client.json, ScoopInstaller/Main, 0
 bucket/openshift-origin-client.json, ScoopInstaller/Main, 0
 bucket/openshot.json, ScoopInstaller/Extras, 0
 bucket/openspades.json, Calinou/scoop-games, 0
-bucket/openssh-msys.json, ScoopInstaller/Versions, 0
 bucket/openssh.json, ScoopInstaller/Main, 0
 bucket/openssl-light.json, ScoopInstaller/Main, 0
 bucket/openssl-lts-light.json, ScoopInstaller/Main, 0
