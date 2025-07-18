@@ -5421,6 +5421,7 @@ bucket/wslgit.json, ScoopInstaller/Extras, 0
 bucket/wslinternals.json, ScoopInstaller/Extras, 0
 bucket/wsltty.json, ScoopInstaller/Extras, 0
 bucket/wstunnel.json, ScoopInstaller/Main, 0
+bucket/wtq.json, ScoopInstaller/Extras, 0
 bucket/wttop.json, ScoopInstaller/Main, 0
 bucket/wul.json, ScoopInstaller/Nirsoft, 0
 bucket/wumgr.json, ScoopInstaller/Extras, 0
