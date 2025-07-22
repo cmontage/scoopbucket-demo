@@ -3167,6 +3167,7 @@ bucket/otto-matic.json, Calinou/scoop-games, 0
 bucket/otvdm.json, ScoopInstaller/Extras, 0
 bucket/ouch.json, ScoopInstaller/Main, 0
 bucket/outlook-google-calendar-sync.json, ScoopInstaller/Extras, 0
+bucket/outlook-window-hook.json, ScoopInstaller/Extras, 0
 bucket/outlookaccountsview.json, ScoopInstaller/Nirsoft, 0
 bucket/outlookaddressbookview.json, ScoopInstaller/Nirsoft, 0
 bucket/outlookattachview.json, ScoopInstaller/Nirsoft, 0
