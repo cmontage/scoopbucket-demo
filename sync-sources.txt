@@ -5500,6 +5500,7 @@ bucket/yakyak.json, ScoopInstaller/Extras, 0
 bucket/yamlfmt.json, ScoopInstaller/Main, 0
 bucket/yapa.json, ScoopInstaller/Extras, 0
 bucket/yapa2.json, ScoopInstaller/Extras, 0
+bucket/yara-x.json, ScoopInstaller/Main, 0
 bucket/yara.json, ScoopInstaller/Main, 0
 bucket/yarn.json, ScoopInstaller/Main, 0
 bucket/yarr.json, ScoopInstaller/Extras, 0
