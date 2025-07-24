@@ -1135,6 +1135,7 @@ bucket/enigma.json, Calinou/scoop-games, 0
 bucket/enonic.json, ScoopInstaller/Main, 0
 bucket/enpass.json, ScoopInstaller/Extras, 0
 bucket/enso.json, ScoopInstaller/Extras, 0
+bucket/ente-auth.json, ScoopInstaller/Extras, 0
 bucket/envsubst.json, ScoopInstaller/Main, 0
 bucket/epic-games-launcher.json, Calinou/scoop-games, 0
 bucket/equalizer-apo-np.json, ScoopInstaller/Nonportable, 0
