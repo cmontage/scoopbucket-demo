@@ -3044,6 +3044,7 @@ bucket/openark.json, ScoopInstaller/Extras, 0
 bucket/openboard.json, ScoopInstaller/Extras, 0
 bucket/openclonk.json, Calinou/scoop-games, 0
 bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
+bucket/opencode.json, ScoopInstaller/Extras, 0
 bucket/opencv.json, ScoopInstaller/Main, 0
 bucket/opendungeons.json, Calinou/scoop-games, 0
 bucket/openedfilesview.json, kodybrown/scoop-nirsoft, 0
