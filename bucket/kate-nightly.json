@@ -1,12 +1,12 @@
 {
-  "version": "9867",
+  "version": "9874",
   "description": "Multi-document editor",
   "homepage": "https://apps.kde.org/kate",
   "license": "LGPL-2.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://cdn.kde.org/ci-builds/utilities/kate/master/windows/kate-master-9867-windows-cl-msvc2022-x86_64.7z",
-      "hash": "83ca0fa1ab9bdc0373823685b3ab70e9e1e9e6710a1b538b3d98ee6f11928ac6"
+      "url": "https://cdn.kde.org/ci-builds/utilities/kate/master/windows/kate-master-9874-windows-cl-msvc2022-x86_64.7z",
+      "hash": "a8bdeb461bf36d1dd76b13cbb3928463b3109c864dcc5710790e946179f8e90d"
     }
   },
   "bin": [
