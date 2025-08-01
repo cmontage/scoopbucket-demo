@@ -1,6 +1,6 @@
 <h1 align="center">Scoop Bucket All In One</h1>
 
-<p align="center"><img src="https://gcore.jsdelivr.net/gh/cmontage/scoopbucket@main/bin/scoop.png" alt="Scoop Logo" ></p>
+<p align="center"><img src="https://gcore.jsdelivr.net/gh/cmontage/scoopbucket@main/bin/scoop.png" width="100" alt="Scoop Logo"></p>
 
 将 Scoop 官方的 Bucket 库整合成一个 Bucket，每日同步，便于自用。
 
