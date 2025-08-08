@@ -1350,6 +1350,7 @@ bucket/foxe.json, ScoopInstaller/Extras, 0
 bucket/foxit-pdf-reader.json, ScoopInstaller/Extras, 0
 bucket/foxit-reader.json, ScoopInstaller/Extras, 0
 bucket/foxmail.json, ScoopInstaller/Extras, 0
+bucket/fpm.json, ScoopInstaller/Extras, 0
 bucket/fq.json, ScoopInstaller/Main, 0
 bucket/franz.json, ScoopInstaller/Extras, 0
 bucket/freac-continuous.json, ScoopInstaller/Versions, 0
