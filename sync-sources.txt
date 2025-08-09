@@ -1300,6 +1300,7 @@ bucket/flat-assembler.json, ScoopInstaller/Extras, 0
 bucket/flatc.json, ScoopInstaller/Main, 0
 bucket/flclash.json, ScoopInstaller/Extras, 0
 bucket/floorp.json, ScoopInstaller/Extras, 0
+bucket/flow-control.json, ScoopInstaller/Extras, 0
 bucket/flow-launcher.json, ScoopInstaller/Extras, 0
 bucket/flow.json, ScoopInstaller/Main, 0
 bucket/flow030.json, ScoopInstaller/Versions, 0
@@ -2379,6 +2380,7 @@ bucket/lokalise2.json, ScoopInstaller/Extras, 0
 bucket/loot.json, Calinou/scoop-games, 0
 bucket/lorien.json, ScoopInstaller/Extras, 0
 bucket/losslesscut.json, ScoopInstaller/Extras, 1
+bucket/lostmypassword.json, ScoopInstaller/Nirsoft, 0
 bucket/love.json, ScoopInstaller/Extras, 0
 bucket/love10.json, ScoopInstaller/Versions, 0
 bucket/love6.json, ScoopInstaller/Versions, 0
@@ -3842,6 +3844,7 @@ bucket/protege.json, ScoopInstaller/Extras, 0
 bucket/protobuf.json, ScoopInstaller/Extras, 0
 bucket/protoc-gen-grpc-web.json, ScoopInstaller/Main, 0
 bucket/protolint.json, ScoopInstaller/Main, 0
+bucket/proton-authenticator.json, ScoopInstaller/Extras, 0
 bucket/proton-mail-export.json, ScoopInstaller/Extras, 0
 bucket/protonmail-bridge.json, ScoopInstaller/Extras, 0
 bucket/protonvpn-np.json, ScoopInstaller/Nonportable, 0
@@ -5567,6 +5570,7 @@ bucket/zeebe-modeler.json, ScoopInstaller/Extras, 0
 bucket/zeebe.json, ScoopInstaller/Main, 0
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 0
 bucket/zelda64recomp.json, Calinou/scoop-games, 0
+bucket/zen-browser.json, ScoopInstaller/Extras, 0
 bucket/zenhan.json, ScoopInstaller/Main, 0
 bucket/zeplin.json, ScoopInstaller/Extras, 0
 bucket/zeppelin.json, ScoopInstaller/Extras, 0
