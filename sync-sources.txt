@@ -971,6 +971,7 @@ bucket/dotcover-clt.json, ScoopInstaller/Main, 0
 bucket/dotmemory-clt.json, ScoopInstaller/Main, 0
 bucket/dotmemory.json, ScoopInstaller/Extras, 0
 bucket/dotmemoryunit.json, ScoopInstaller/Main, 0
+bucket/dotnet-core-uninstall.json, ScoopInstaller/Main, 0
 bucket/dotnet-generic-unpacker.json, ScoopInstaller/Extras, 0
 bucket/dotnet-nightly.json, ScoopInstaller/Versions, 0
 bucket/dotnet-script.json, ScoopInstaller/Main, 0
@@ -3108,6 +3109,7 @@ bucket/openshift-okd-client.json, ScoopInstaller/Main, 0
 bucket/openshift-origin-client.json, ScoopInstaller/Main, 0
 bucket/openshot.json, ScoopInstaller/Extras, 0
 bucket/openspades.json, Calinou/scoop-games, 0
+bucket/openspeedy.json, Calinou/scoop-games, 0
 bucket/openssh.json, ScoopInstaller/Main, 0
 bucket/openssl-light.json, ScoopInstaller/Main, 0
 bucket/openssl-lts-light.json, ScoopInstaller/Main, 0
