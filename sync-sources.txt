@@ -4689,6 +4689,7 @@ bucket/svcl.json, ScoopInstaller/Nirsoft, 0
 bucket/svg-explorer-extension-np.json, ScoopInstaller/Nonportable, 0
 bucket/svtplay-dl.json, ScoopInstaller/Main, 0
 bucket/sw-exporter.json, Calinou/scoop-games, 0
+bucket/swc.json, ScoopInstaller/Main, 0
 bucket/sweethome3d.json, ScoopInstaller/Extras, 0
 bucket/swift-nightly.json, ScoopInstaller/Versions, 0
 bucket/swift.json, ScoopInstaller/Main, 0
