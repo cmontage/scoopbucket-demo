@@ -2660,6 +2660,7 @@ bucket/monokle.json, ScoopInstaller/Extras, 0
 bucket/monolith.json, ScoopInstaller/Main, 0
 bucket/moonlight.json, ScoopInstaller/Extras, 0
 bucket/moonscript.json, ScoopInstaller/Extras, 0
+bucket/moor.json, ScoopInstaller/Extras, 0
 bucket/moosync.json, ScoopInstaller/Extras, 0
 bucket/mosh-client.json, ScoopInstaller/Main, 0
 bucket/mosquitto.json, ScoopInstaller/Main, 0
