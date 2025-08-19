@@ -1318,7 +1318,6 @@ bucket/flycast.json, Calinou/scoop-games, 0
 bucket/flyctl.json, ScoopInstaller/Main, 0
 bucket/flyway.json, ScoopInstaller/Main, 0
 bucket/fman-np.json, ScoopInstaller/Nonportable, 0
-bucket/fmedia.json, ScoopInstaller/Extras, 0
 bucket/fmedia16.json, ScoopInstaller/Versions, 0
 bucket/fmodel.json, Calinou/scoop-games, 0
 bucket/fnm.json, ScoopInstaller/Main, 0
@@ -1517,6 +1516,7 @@ bucket/gitlab-runner.json, ScoopInstaller/Main, 0
 bucket/gitleaks.json, ScoopInstaller/Main, 0
 bucket/gitnuro.json, ScoopInstaller/Extras, 0
 bucket/gitomatic.json, ScoopInstaller/Main, 0
+bucket/gitoxide.json, ScoopInstaller/Main, 0
 bucket/gitql.json, ScoopInstaller/Main, 0
 bucket/gitsign.json, ScoopInstaller/Main, 0
 bucket/gittyup.json, ScoopInstaller/Extras, 0
