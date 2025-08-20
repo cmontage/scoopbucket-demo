@@ -3723,6 +3723,7 @@ bucket/pixelflasher.json, ScoopInstaller/Extras, 0
 bucket/pixelorama.json, ScoopInstaller/Extras, 0
 bucket/pixi.json, ScoopInstaller/Main, 0
 bucket/pixie.json, ScoopInstaller/Extras, 0
+bucket/pixieditor.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
@@ -4007,6 +4008,7 @@ bucket/r.json, ScoopInstaller/Main, 0
 bucket/r128gain.json, ScoopInstaller/Main, 0
 bucket/r2modman.json, Calinou/scoop-games, 0
 bucket/r36.json, ScoopInstaller/Versions, 0
+bucket/r3dfox.json, ScoopInstaller/Extras, 0
 bucket/r41.json, ScoopInstaller/Versions, 0
 bucket/r42.json, ScoopInstaller/Versions, 0
 bucket/r43.json, ScoopInstaller/Versions, 0
