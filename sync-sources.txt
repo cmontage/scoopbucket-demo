@@ -5011,6 +5011,7 @@ bucket/typora.json, ScoopInstaller/Extras, 0
 bucket/typora0.11.18.json, ScoopInstaller/Versions, 0
 bucket/typos.json, ScoopInstaller/Main, 0
 bucket/typst.json, ScoopInstaller/Main, 0
+bucket/typstyle.json, ScoopInstaller/Main, 0
 bucket/uabea.json, Calinou/scoop-games, 0
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 0
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
