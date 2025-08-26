@@ -1087,6 +1087,7 @@ bucket/eclipse-sumo.json, ScoopInstaller/Extras, 0
 bucket/eclipse-testing.json, ScoopInstaller/Extras, 0
 bucket/ect.json, ScoopInstaller/Main, 0
 bucket/ecwolf.json, Calinou/scoop-games, 0
+bucket/eden.json, Calinou/scoop-games, 0
 bucket/edex-ui.json, ScoopInstaller/Extras, 0
 bucket/edgecookiesview.json, ScoopInstaller/Nirsoft, 0
 bucket/edgedb.json, ScoopInstaller/Main, 0
@@ -4137,6 +4138,7 @@ bucket/restish.json, ScoopInstaller/Extras, 0
 bucket/resvg.json, ScoopInstaller/Main, 0
 bucket/retdec.json, ScoopInstaller/Main, 0
 bucket/rethinkdb.json, ScoopInstaller/Main, 0
+bucket/retro-rogue-collection.json, Calinou/scoop-games, 0
 bucket/retroarch-nightly.json, Calinou/scoop-games, 0
 bucket/retroarch.json, ScoopInstaller/Extras, 0
 bucket/retrobar.json, ScoopInstaller/Extras, 0
