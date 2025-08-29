@@ -28,7 +28,7 @@ $PSVersionTable.PSVersion.Major # should be >= 5.1
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 # 下载安装脚本到本地
-irm https://gitee.com/cmontage/scoop/raw/main/install.ps1 -outfile 'install.ps1'
+irm https://gitee.com/cmontage/scoop/raw/master/install.ps1 -outfile 'install.ps1'
 
 # 自定义 Scoop 安装目录，以下是我的路径例子，你可以自己根据情况修改
 # 可以不设全局文件夹ScoopGlobalDir，全局文件夹里的应用需要管理员权限
