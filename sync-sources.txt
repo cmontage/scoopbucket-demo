@@ -2038,6 +2038,7 @@ bucket/jruby.json, ScoopInstaller/Main, 0
 bucket/jrview.json, ScoopInstaller/Nirsoft, 0
 bucket/jsae.json, ScoopInstaller/Nirsoft, 0
 bucket/jsign.json, ScoopInstaller/Main, 0
+bucket/jsonschema.json, ScoopInstaller/Main, 0
 bucket/jstock.json, ScoopInstaller/Extras, 0
 bucket/juce.json, ScoopInstaller/Extras, 0
 bucket/juicefs.json, ScoopInstaller/Main, 0
@@ -4608,6 +4609,7 @@ bucket/stack.json, ScoopInstaller/Main, 0
 bucket/standardnotes.json, ScoopInstaller/Extras, 0
 bucket/starship.json, ScoopInstaller/Main, 0
 bucket/startuprun.json, kodybrown/scoop-nirsoft, 0
+bucket/starward.json, Calinou/scoop-games, 0
 bucket/stash-dev.json, ScoopInstaller/Versions, 0
 bucket/stash.json, ScoopInstaller/Extras, 0
 bucket/static-web-server.json, ScoopInstaller/Main, 0
