@@ -577,6 +577,7 @@ bucket/civo.json, ScoopInstaller/Extras, 0
 bucket/clamav.json, ScoopInstaller/Extras, 0
 bucket/clangd.json, ScoopInstaller/Main, 0
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 0
+bucket/clash-party.json, ScoopInstaller/Extras, 0
 bucket/clash-verge-rev.json, ScoopInstaller/Extras, 0
 bucket/clash-verge.json, ScoopInstaller/Extras, 0
 bucket/clash.mini.json, ScoopInstaller/Extras, 0
@@ -2204,6 +2205,7 @@ bucket/lamexp.json, ScoopInstaller/Extras, 0
 bucket/landrop.json, ScoopInstaller/Extras, 0
 bucket/languagetool-java.json, ScoopInstaller/Extras, 0
 bucket/languagetool.json, ScoopInstaller/Extras, 0
+bucket/lanipscanner.json, ScoopInstaller/Nirsoft, 0
 bucket/lantern-client.json, ScoopInstaller/Extras, 0
 bucket/lantern-np.json, ScoopInstaller/Nonportable, 0
 bucket/lapce-nightly.json, ScoopInstaller/Versions, 0
