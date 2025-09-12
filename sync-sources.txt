@@ -1956,7 +1956,6 @@ bucket/ipscan.json, ScoopInstaller/Extras, 0
 bucket/iptvnator.json, ScoopInstaller/Extras, 0
 bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
-bucket/iroh.json, ScoopInstaller/Main, 0
 bucket/ironwail.json, Calinou/scoop-games, 0
 bucket/islc.json, ScoopInstaller/Extras, 0
 bucket/isocreator.json, ScoopInstaller/Extras, 0
@@ -4394,7 +4393,6 @@ bucket/sfk.json, ScoopInstaller/Extras, 0
 bucket/sfsu-beta.json, ScoopInstaller/Versions, 0
 bucket/sfsu.json, ScoopInstaller/Extras, 0
 bucket/sftpgo.json, ScoopInstaller/Main, 0
-bucket/sget.json, ScoopInstaller/Main, 0
 bucket/shadered.json, ScoopInstaller/Extras, 0
 bucket/shaderglass.json, ScoopInstaller/Extras, 0
 bucket/shadowcopyview.json, ScoopInstaller/Nirsoft, 0
