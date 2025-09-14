@@ -3,6 +3,7 @@ bucket/0ad.json, Calinou/scoop-games, 0
 bucket/10x-np.json, ScoopInstaller/Nonportable, 0
 bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
+bucket/2ship2harkinian.json, Calinou/scoop-games, 0
 bucket/3d-fix-manager.json, ScoopInstaller/Extras, 0
 bucket/3rvx.json, ScoopInstaller/Extras, 0
 bucket/4gb-patch.json, ScoopInstaller/Extras, 0
@@ -1784,6 +1785,7 @@ bucket/highlight.json, ScoopInstaller/Main, 0
 bucket/highs.json, ScoopInstaller/Main, 0
 bucket/himalaya.json, ScoopInstaller/Main, 0
 bucket/hjson.json, ScoopInstaller/Main, 0
+bucket/hlae.json, Calinou/scoop-games, 0
 bucket/hledger.json, ScoopInstaller/Main, 0
 bucket/hokus.json, ScoopInstaller/Extras, 0
 bucket/hollows-hunter.json, ScoopInstaller/Main, 0
@@ -5039,6 +5041,7 @@ bucket/umi-ocr-paddle.json, ScoopInstaller/Extras, 0
 bucket/umi-ocr.json, ScoopInstaller/Extras, 0
 bucket/umlet.json, ScoopInstaller/Extras, 0
 bucket/umod.json, Calinou/scoop-games, 0
+bucket/umodel.json, Calinou/scoop-games, 0
 bucket/umoria.json, Calinou/scoop-games, 0
 bucket/unar.json, ScoopInstaller/Main, 0
 bucket/unbound.json, ScoopInstaller/Main, 0
@@ -5367,6 +5370,7 @@ bucket/wingetcreate.json, ScoopInstaller/Main, 0
 bucket/winlister.json, ScoopInstaller/Nirsoft, 0
 bucket/winlogonview.json, ScoopInstaller/Nirsoft, 0
 bucket/winmailpassrec.json, ScoopInstaller/Nirsoft, 0
+bucket/winmemorycleaner.json, ScoopInstaller/Extras, 0
 bucket/winmerge.json, ScoopInstaller/Extras, 0
 bucket/winmerge2011.json, ScoopInstaller/Extras, 0
 bucket/winmtr-live.json, ScoopInstaller/Extras, 0
