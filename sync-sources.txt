@@ -1838,6 +1838,7 @@ bucket/i2p.json, ScoopInstaller/Main, 0
 bucket/i2pd.json, ScoopInstaller/Extras, 0
 bucket/i2pdbrowser.json, ScoopInstaller/Extras, 0
 bucket/iap-desktop.json, ScoopInstaller/Extras, 0
+bucket/ibazel.json, ScoopInstaller/Extras, 0
 bucket/ibmcloud-cli.json, ScoopInstaller/Main, 0
 bucket/icaros-np.json, ScoopInstaller/Nonportable, 0
 bucket/icecast.json, ScoopInstaller/Extras, 0
@@ -5289,6 +5290,7 @@ bucket/wget120.json, ScoopInstaller/Versions, 0
 bucket/wget2.json, ScoopInstaller/Main, 0
 bucket/whatinstartup.json, ScoopInstaller/Nirsoft, 0
 bucket/whatishang.json, ScoopInstaller/Nirsoft, 0
+bucket/wheelwizard.json, Calinou/scoop-games, 0
 bucket/whepfrom.json, ScoopInstaller/Extras, 0
 bucket/which.json, ScoopInstaller/Main, 0
 bucket/whipinto.json, ScoopInstaller/Extras, 0
