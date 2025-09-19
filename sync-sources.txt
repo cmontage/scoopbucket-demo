@@ -2793,7 +2793,6 @@ bucket/neatdownloadmanager.json, ScoopInstaller/Extras, 0
 bucket/neeview.json, ScoopInstaller/Extras, 0
 bucket/nefcon.json, ScoopInstaller/Extras, 0
 bucket/neko.json, ScoopInstaller/Main, 0
-bucket/nekoray.json, ScoopInstaller/Extras, 0
 bucket/neo-cowsay.json, ScoopInstaller/Main, 0
 bucket/neoaxis-engine.json, ScoopInstaller/Extras, 0
 bucket/neochat-nightly.json, ScoopInstaller/Versions, 0
@@ -3086,6 +3085,7 @@ bucket/openjdk21.json, ScoopInstaller/Java, 0
 bucket/openjdk22.json, ScoopInstaller/Java, 0
 bucket/openjdk23.json, ScoopInstaller/Java, 0
 bucket/openjdk24.json, ScoopInstaller/Java, 0
+bucket/openjdk25.json, ScoopInstaller/Java, 0
 bucket/openjdk7-unofficial.json, ScoopInstaller/Java, 0
 bucket/openjdk8-redhat-jre.json, ScoopInstaller/Java, 0
 bucket/openjdk8-redhat.json, ScoopInstaller/Java, 0
@@ -4892,6 +4892,7 @@ bucket/thorium-reader.json, ScoopInstaller/Extras, 0
 bucket/thorium.json, ScoopInstaller/Extras, 0
 bucket/threema.json, ScoopInstaller/Extras, 0
 bucket/thrift.json, ScoopInstaller/Main, 0
+bucket/throne.json, ScoopInstaller/Extras, 0
 bucket/throttlestop.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird.json, ScoopInstaller/Extras, 0
