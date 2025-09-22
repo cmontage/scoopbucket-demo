@@ -346,6 +346,7 @@ bucket/bicep.json, ScoopInstaller/Main, 0
 bucket/bifrost.json, ScoopInstaller/Extras, 0
 bucket/biglybt-np.json, ScoopInstaller/Nonportable, 0
 bucket/billy-frontier.json, Calinou/scoop-games, 0
+bucket/bin.json, ScoopInstaller/Extras, 0
 bucket/binance.json, ScoopInstaller/Extras, 0
 bucket/binaryen.json, ScoopInstaller/Main, 0
 bucket/bind.json, ScoopInstaller/Main, 0
