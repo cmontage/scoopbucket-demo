@@ -138,6 +138,7 @@ bucket/apache.json, ScoopInstaller/Main, 0
 bucket/ape.json, ScoopInstaller/Extras, 0
 bucket/apifox.json, ScoopInstaller/Extras, 0
 bucket/apimtemplate.json, ScoopInstaller/Main, 0
+bucket/apk-editor-studio.json, ScoopInstaller/Extras, 0
 bucket/apkeep.json, ScoopInstaller/Extras, 0
 bucket/apktool.json, ScoopInstaller/Main, 0
 bucket/apngasm.json, ScoopInstaller/Main, 0
