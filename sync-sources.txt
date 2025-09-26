@@ -4849,6 +4849,8 @@ bucket/temurin23-jdk.json, ScoopInstaller/Java, 0
 bucket/temurin23-jre.json, ScoopInstaller/Java, 0
 bucket/temurin24-jdk.json, ScoopInstaller/Java, 0
 bucket/temurin24-jre.json, ScoopInstaller/Java, 0
+bucket/temurin25-jdk.json, ScoopInstaller/Java, 0
+bucket/temurin25-jre.json, ScoopInstaller/Java, 0
 bucket/temurin8-jdk.json, ScoopInstaller/Java, 0
 bucket/temurin8-jre.json, ScoopInstaller/Java, 0
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 0
@@ -5291,6 +5293,7 @@ bucket/webcookiessniffer.json, ScoopInstaller/Nirsoft, 0
 bucket/webcopy.json, ScoopInstaller/Extras, 0
 bucket/webcord.json, ScoopInstaller/Extras, 0
 bucket/webex.json, ScoopInstaller/Extras, 0
+bucket/webgal-terre.json, Calinou/scoop-games, 0
 bucket/webhook.json, ScoopInstaller/Main, 0
 bucket/webpicmd.json, ScoopInstaller/Extras, 0
 bucket/websitesniffer.json, ScoopInstaller/Nirsoft, 0
