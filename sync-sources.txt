@@ -920,6 +920,7 @@ bucket/displaycal.json, ScoopInstaller/Extras, 0
 bucket/ditto-np.json, ScoopInstaller/Nonportable, 0
 bucket/ditto.json, ScoopInstaller/Extras, 0
 bucket/diun.json, ScoopInstaller/Main, 0
+bucket/divamodmanager.json, Calinou/scoop-games, 0
 bucket/dive.json, ScoopInstaller/Main, 0
 bucket/divoom-cli.json, ScoopInstaller/Extras, 0
 bucket/divoom-gateway.json, ScoopInstaller/Extras, 0
