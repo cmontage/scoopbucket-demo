@@ -212,6 +212,7 @@ bucket/audacity2.4.2.json, ScoopInstaller/Versions, 0
 bucket/audioswitcher.json, ScoopInstaller/Extras, 0
 bucket/audmes.json, ScoopInstaller/Extras, 0
 bucket/augmentinel.json, Calinou/scoop-games, 0
+bucket/aurora-rgb.json, ScoopInstaller/Versions, 0
 bucket/aurora.json, ScoopInstaller/Extras, 0
 bucket/austin.json, ScoopInstaller/Main, 0
 bucket/ausweisapp2.json, ScoopInstaller/Extras, 0
@@ -751,6 +752,7 @@ bucket/cuda11.5.json, ScoopInstaller/Versions, 0
 bucket/cuda11.6.json, ScoopInstaller/Versions, 0
 bucket/cuda11.7.json, ScoopInstaller/Versions, 0
 bucket/cuda11.8.json, ScoopInstaller/Versions, 0
+bucket/cuda12.9.json, ScoopInstaller/Versions, 0
 bucket/cuda6.0.json, ScoopInstaller/Versions, 0
 bucket/cuda6.5.json, ScoopInstaller/Versions, 0
 bucket/cuda6.json, ScoopInstaller/Versions, 0
@@ -1402,6 +1404,7 @@ bucket/fulleventlogview.json, ScoopInstaller/Nirsoft, 0
 bucket/fullupdateshistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/fun.json, ScoopInstaller/Extras, 0
 bucket/furmark.json, ScoopInstaller/Extras, 0
+bucket/furmark1.json, ScoopInstaller/Versions, 0
 bucket/furnace.json, ScoopInstaller/Extras, 0
 bucket/fvie.json, ScoopInstaller/Extras, 0
 bucket/fvim.json, ScoopInstaller/Extras, 0
