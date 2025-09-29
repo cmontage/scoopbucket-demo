@@ -1762,6 +1762,7 @@ bucket/hedge-mod-manager.json, Calinou/scoop-games, 0
 bucket/hedgewars.json, Calinou/scoop-games, 0
 bucket/heidisql.json, ScoopInstaller/Extras, 0
 bucket/hekasoft-backup-restore.json, ScoopInstaller/Extras, 0
+bucket/helium.json, ScoopInstaller/Extras, 0
 bucket/helix.json, ScoopInstaller/Main, 0
 bucket/hello-http.json, ScoopInstaller/Extras, 0
 bucket/helm-chart-releaser.json, ScoopInstaller/Main, 0
