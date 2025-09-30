@@ -2158,6 +2158,7 @@ bucket/komorebi-nightly.json, ScoopInstaller/Versions, 0
 bucket/komorebi.json, ScoopInstaller/Extras, 0
 bucket/kompose.json, ScoopInstaller/Main, 0
 bucket/kondo.json, ScoopInstaller/Main, 0
+bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
 bucket/kopia-rc.json, ScoopInstaller/Versions, 0
@@ -3053,6 +3054,7 @@ bucket/olive-editor.json, ScoopInstaller/Extras, 0
 bucket/ollama-full.json, ScoopInstaller/Extras, 0
 bucket/ollama.json, ScoopInstaller/Main, 0
 bucket/ollydbg.json, ScoopInstaller/Extras, 0
+bucket/ols-nightly.json, ScoopInstaller/Versions, 0
 bucket/omegat.json, ScoopInstaller/Extras, 0
 bucket/omenmon.json, ScoopInstaller/Extras, 0
 bucket/omnidb-np.json, ScoopInstaller/Nonportable, 0
@@ -3817,6 +3819,7 @@ bucket/postgresql13.json, ScoopInstaller/Versions, 0
 bucket/postgresql14.json, ScoopInstaller/Versions, 0
 bucket/postgresql15.json, ScoopInstaller/Versions, 0
 bucket/postgresql16.json, ScoopInstaller/Versions, 0
+bucket/postgresql17.json, ScoopInstaller/Versions, 0
 bucket/postgrest.json, ScoopInstaller/Main, 0
 bucket/postman-canary.json, ScoopInstaller/Versions, 0
 bucket/postman.json, ScoopInstaller/Extras, 0
