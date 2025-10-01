@@ -644,6 +644,7 @@ bucket/commandbox.json, ScoopInstaller/Extras, 0
 bucket/compactgui.json, ScoopInstaller/Extras, 0
 bucket/compactor.json, ScoopInstaller/Extras, 0
 bucket/compatibility-manager.json, ScoopInstaller/Extras, 0
+bucket/completionpredictor.json, ScoopInstaller/Extras, 0
 bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
 bucket/conan.json, ScoopInstaller/Main, 0
@@ -2173,6 +2174,7 @@ bucket/kotlin-native.json, ScoopInstaller/Main, 0
 bucket/kotlin.json, ScoopInstaller/Main, 0
 bucket/krew.json, ScoopInstaller/Main, 0
 bucket/krita.json, ScoopInstaller/Extras, 0
+bucket/krokiet.json, ScoopInstaller/Extras, 0
 bucket/kryptor.json, ScoopInstaller/Extras, 0
 bucket/kscript.json, ScoopInstaller/Extras, 0
 bucket/ksnip.json, ScoopInstaller/Extras, 0
@@ -4423,6 +4425,7 @@ bucket/serve.json, ScoopInstaller/Main, 0
 bucket/serverless.json, ScoopInstaller/Main, 0
 bucket/servicebusexplorer.json, ScoopInstaller/Extras, 0
 bucket/serviwin.json, ScoopInstaller/Nirsoft, 0
+bucket/servy.json, ScoopInstaller/Extras, 0
 bucket/session.json, ScoopInstaller/Extras, 0
 bucket/sfk.json, ScoopInstaller/Extras, 0
 bucket/sfsu-beta.json, ScoopInstaller/Versions, 0
@@ -4657,6 +4660,7 @@ bucket/steam-achievement-manager-syntaxtm.json, Calinou/scoop-games, 0
 bucket/steam-achievement-manager.json, Calinou/scoop-games, 0
 bucket/steam-art-manager.json, Calinou/scoop-games, 0
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 0
+bucket/steam-game-idler.json, Calinou/scoop-games, 0
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 0
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
 bucket/steam-rom-manager.json, Calinou/scoop-games, 0
@@ -4774,6 +4778,7 @@ bucket/tabletextcompare.json, ScoopInstaller/Nirsoft, 0
 bucket/tabletop-club.json, Calinou/scoop-games, 0
 bucket/tabula.json, ScoopInstaller/Extras, 0
 bucket/tachidesk-server-preview.json, ScoopInstaller/Versions, 1
+bucket/tacky-borders.json, ScoopInstaller/Extras, 0
 bucket/tad.json, ScoopInstaller/Extras, 0
 bucket/tageditor.json, ScoopInstaller/Extras, 0
 bucket/tagscanner.json, ScoopInstaller/Extras, 0
