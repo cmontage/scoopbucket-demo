@@ -1275,6 +1275,7 @@ bucket/filezilla-server.json, ScoopInstaller/Extras, 0
 bucket/filezilla-server0.9.json, ScoopInstaller/Versions, 0
 bucket/filezilla.json, ScoopInstaller/Extras, 0
 bucket/fillets.json, Calinou/scoop-games, 0
+bucket/final2x.json, ScoopInstaller/Extras, 0
 bucket/find-java.json, ScoopInstaller/Extras, 0
 bucket/findlinks.json, niheaven/scoop-sysinternals, 0
 bucket/findutils.json, ScoopInstaller/Main, 0
@@ -4510,6 +4511,7 @@ bucket/siteshoter.json, ScoopInstaller/Nirsoft, 0
 bucket/sixcells.json, Calinou/scoop-games, 0
 bucket/siyuan-note.json, ScoopInstaller/Extras, 0
 bucket/skaffold.json, ScoopInstaller/Extras, 0
+bucket/skyemu.json, Calinou/scoop-games, 0
 bucket/skypecontactsview.json, ScoopInstaller/Nirsoft, 0
 bucket/skypelogview.json, ScoopInstaller/Nirsoft, 0
 bucket/skywalking-cli.json, ScoopInstaller/Main, 0
