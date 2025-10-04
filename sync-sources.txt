@@ -5224,6 +5224,7 @@ bucket/vitrite.json, ScoopInstaller/Extras, 0
 bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
 bucket/vivaldi.json, ScoopInstaller/Extras, 0
 bucket/vivetool.json, ScoopInstaller/Main, 0
+bucket/vivid.json, ScoopInstaller/Main, 0
 bucket/vkquake.json, Calinou/scoop-games, 0
 bucket/vkquake2.json, Calinou/scoop-games, 0
 bucket/vlc-nightly-ucrt-llvm.json, ScoopInstaller/Versions, 0
