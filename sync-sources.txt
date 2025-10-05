@@ -159,7 +159,6 @@ bucket/aqua.json, ScoopInstaller/Main, 0
 bucket/arc.json, ScoopInstaller/Main, 0
 bucket/arcadedb.json, ScoopInstaller/Extras, 0
 bucket/archi.json, ScoopInstaller/Extras, 0
-bucket/archi44.json, ScoopInstaller/Versions, 0
 bucket/archisteamfarm.json, ScoopInstaller/Extras, 0
 bucket/archwsl.json, ScoopInstaller/Extras, 0
 bucket/arcwelder.json, ScoopInstaller/Extras, 0
@@ -1591,8 +1590,10 @@ bucket/gobang.json, ScoopInstaller/Main, 0
 bucket/gobuster.json, ScoopInstaller/Main, 0
 bucket/godot-alpha.json, ScoopInstaller/Versions, 0
 bucket/godot-beta.json, ScoopInstaller/Versions, 0
+bucket/godot-dev.json, ScoopInstaller/Versions, 0
 bucket/godot-manager.json, ScoopInstaller/Extras, 0
 bucket/godot-mono-beta.json, ScoopInstaller/Versions, 0
+bucket/godot-mono-dev.json, ScoopInstaller/Versions, 0
 bucket/godot-mono-rc.json, ScoopInstaller/Versions, 0
 bucket/godot-mono.json, ScoopInstaller/Extras, 0
 bucket/godot-rc.json, ScoopInstaller/Versions, 0
