@@ -3200,6 +3200,7 @@ bucket/orange.json, ScoopInstaller/Extras, 0
 bucket/oras.json, ScoopInstaller/Extras, 0
 bucket/orca.json, ScoopInstaller/Extras, 0
 bucket/orca3.json, ScoopInstaller/Versions, 0
+bucket/orcaslicer-nightly.json, ScoopInstaller/Versions, 0
 bucket/orcaslicer.json, ScoopInstaller/Extras, 0
 bucket/oripa.json, ScoopInstaller/Extras, 0
 bucket/oscdimg.json, ScoopInstaller/Main, 0
@@ -4272,6 +4273,7 @@ bucket/rust-msvc-nightly.json, ScoopInstaller/Versions, 0
 bucket/rust-msvc.json, ScoopInstaller/Main, 0
 bucket/rust-nightly.json, ScoopInstaller/Versions, 0
 bucket/rust.json, ScoopInstaller/Main, 0
+bucket/rustdesk-nightly.json, ScoopInstaller/Versions, 0
 bucket/rustdesk.json, ScoopInstaller/Extras, 0
 bucket/rustic.json, ScoopInstaller/Main, 0
 bucket/rustrover.json, ScoopInstaller/Extras, 1
@@ -4717,6 +4719,7 @@ bucket/sudo.json, ScoopInstaller/Main, 0
 bucket/sumatrapdf-installer.json, ScoopInstaller/Versions, 0
 bucket/sumatrapdf.json, ScoopInstaller/Extras, 0
 bucket/sunsetscreen.json, ScoopInstaller/Extras, 0
+bucket/sunshine-pre.json, ScoopInstaller/Versions, 0
 bucket/sunshine.json, ScoopInstaller/Extras, 0
 bucket/supabase.json, ScoopInstaller/Main, 0
 bucket/super-productivity.json, ScoopInstaller/Extras, 0
@@ -5190,6 +5193,7 @@ bucket/vhs.json, ScoopInstaller/Main, 0
 bucket/via.json, ScoopInstaller/Extras, 0
 bucket/vial.json, ScoopInstaller/Extras, 0
 bucket/vibrance-gui.json, ScoopInstaller/Extras, 0
+bucket/vidcoder-beta.json, ScoopInstaller/Versions, 0
 bucket/vidcoder.json, ScoopInstaller/Extras, 0
 bucket/vidcutter.json, ScoopInstaller/Extras, 0
 bucket/viddy.json, ScoopInstaller/Extras, 0
