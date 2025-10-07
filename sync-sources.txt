@@ -4101,6 +4101,7 @@ bucket/rcc.json, ScoopInstaller/Main, 0
 bucket/rcedit.json, ScoopInstaller/Main, 0
 bucket/rclone-beta.json, ScoopInstaller/Versions, 0
 bucket/rclone-browser.json, ScoopInstaller/Extras, 0
+bucket/rclone-ui.json, ScoopInstaller/Extras, 0
 bucket/rclone.json, ScoopInstaller/Main, 0
 bucket/rdcman.json, niheaven/scoop-sysinternals, 0
 bucket/rdiff-backup.json, ScoopInstaller/Main, 0
@@ -5160,6 +5161,7 @@ bucket/vale.json, ScoopInstaller/Main, 0
 bucket/vals.json, ScoopInstaller/Main, 0
 bucket/vapoursynth.json, ScoopInstaller/Main, 0
 bucket/vapoursyntheditor.json, ScoopInstaller/Extras, 0
+bucket/varia.json, ScoopInstaller/Extras, 0
 bucket/vault.json, ScoopInstaller/Main, 0
 bucket/vaultpasswordview.json, ScoopInstaller/Nirsoft, 0
 bucket/vbindiff.json, ScoopInstaller/Main, 0
