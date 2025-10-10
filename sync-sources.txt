@@ -4792,6 +4792,7 @@ bucket/tad.json, ScoopInstaller/Extras, 0
 bucket/tageditor.json, ScoopInstaller/Extras, 0
 bucket/tagscanner.json, ScoopInstaller/Extras, 0
 bucket/tagspaces.json, ScoopInstaller/Extras, 0
+bucket/tahoma2d.json, ScoopInstaller/Extras, 0
 bucket/taiga-beta.json, ScoopInstaller/Versions, 0
 bucket/taiga.json, ScoopInstaller/Extras, 0
 bucket/tailblazer.json, ScoopInstaller/Extras, 0
