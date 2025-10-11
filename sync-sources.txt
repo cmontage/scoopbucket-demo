@@ -633,6 +633,7 @@ bucket/codeql.json, ScoopInstaller/Main, 0
 bucket/coder.json, ScoopInstaller/Main, 0
 bucket/codesnap.json, ScoopInstaller/Extras, 0
 bucket/codetrack.json, ScoopInstaller/Extras, 0
+bucket/codex.json, ScoopInstaller/Main, 0
 bucket/collapse-launcher.json, Calinou/scoop-games, 0
 bucket/colon.json, ScoopInstaller/Extras, 0
 bucket/color-cop.json, ScoopInstaller/Extras, 0
@@ -2339,6 +2340,7 @@ bucket/libjpeg-turbo.json, ScoopInstaller/Main, 0
 bucket/libjxl.json, ScoopInstaller/Main, 0
 bucket/librecad.json, ScoopInstaller/Extras, 0
 bucket/librehardwaremonitor.json, ScoopInstaller/Extras, 0
+bucket/libreoffice-pre.json, ScoopInstaller/Versions, 0
 bucket/libreoffice.json, ScoopInstaller/Extras, 0
 bucket/librespeed-cli.json, ScoopInstaller/Extras, 0
 bucket/libresprite.json, ScoopInstaller/Extras, 0
@@ -3982,6 +3984,7 @@ bucket/python310.json, ScoopInstaller/Versions, 0
 bucket/python311.json, ScoopInstaller/Versions, 1
 bucket/python312.json, ScoopInstaller/Versions, 1
 bucket/python313.json, ScoopInstaller/Versions, 1
+bucket/python314.json, ScoopInstaller/Versions, 1
 bucket/python35.json, ScoopInstaller/Versions, 0
 bucket/python36.json, ScoopInstaller/Versions, 0
 bucket/python37.json, ScoopInstaller/Versions, 0
@@ -5071,6 +5074,7 @@ bucket/typos.json, ScoopInstaller/Main, 0
 bucket/typst.json, ScoopInstaller/Main, 0
 bucket/typstyle.json, ScoopInstaller/Main, 0
 bucket/uabea.json, Calinou/scoop-games, 0
+bucket/uad-ng.json, ScoopInstaller/Extras, 0
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 0
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
 bucket/ubports-installer.json, ScoopInstaller/Extras, 0
@@ -5155,7 +5159,9 @@ bucket/uwamp.json, ScoopInstaller/Extras, 0
 bucket/v-weekly.json, ScoopInstaller/Versions, 0
 bucket/v.json, ScoopInstaller/Main, 0
 bucket/v2ray.json, ScoopInstaller/Main, 0
+bucket/v2rayn-desktop.json, ScoopInstaller/Versions, 0
 bucket/v2rayn-pre.json, ScoopInstaller/Versions, 0
+bucket/v2rayn-selfcontained.json, ScoopInstaller/Versions, 0
 bucket/v2rayn.json, ScoopInstaller/Extras, 0
 bucket/vagrant-manager.json, ScoopInstaller/Extras, 0
 bucket/vagrant.json, ScoopInstaller/Main, 0
